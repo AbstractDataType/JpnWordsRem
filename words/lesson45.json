@@ -1,0 +1,372 @@
+{
+  "words": [
+    {
+      "lesson": 45,
+      "kana": "しょうしか",
+      "kanji": "少子化",
+      "character": "名",
+      "meaning": "孩子减少现象",
+      "word_id": 0
+    },
+    {
+      "lesson": 45,
+      "kana": "じんこう",
+      "kanji": "人口",
+      "character": "名",
+      "meaning": "人口",
+      "word_id": 1
+    },
+    {
+      "lesson": 45,
+      "kana": "へいきんねんれい",
+      "kanji": "平均年齢",
+      "character": "名",
+      "meaning": "平均年龄",
+      "word_id": 2
+    },
+    {
+      "lesson": 45,
+      "kana": "こうつう",
+      "kanji": "交通",
+      "character": "名",
+      "meaning": "交通",
+      "word_id": 3
+    },
+    {
+      "lesson": 45,
+      "kana": "べん",
+      "kanji": "便",
+      "character": "名",
+      "meaning": "方便，便利",
+      "word_id": 4
+    },
+    {
+      "lesson": 45,
+      "kana": "アクセス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "连接，衔接",
+      "word_id": 5
+    },
+    {
+      "lesson": 45,
+      "kana": "リニアモーターカー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "磁悬浮列车",
+      "word_id": 6
+    },
+    {
+      "lesson": 45,
+      "kana": "びん",
+      "kanji": "便",
+      "character": "名",
+      "meaning": "航班",
+      "word_id": 7
+    },
+    {
+      "lesson": 45,
+      "kana": "しない",
+      "kanji": "市内",
+      "character": "名",
+      "meaning": "市内",
+      "word_id": 8
+    },
+    {
+      "lesson": 45,
+      "kana": "いなか",
+      "kanji": "田舎",
+      "character": "名",
+      "meaning": "乡下，农村",
+      "word_id": 9
+    },
+    {
+      "lesson": 45,
+      "kana": "ちゅうしんち",
+      "kanji": "中心地",
+      "character": "名",
+      "meaning": "中心地区",
+      "word_id": 10
+    },
+    {
+      "lesson": 45,
+      "kana": "きんだいか",
+      "kanji": "近代化",
+      "character": "名",
+      "meaning": "现代化",
+      "word_id": 11
+    },
+    {
+      "lesson": 45,
+      "kana": "げんだいじん",
+      "kanji": "現代人",
+      "character": "名",
+      "meaning": "现代人",
+      "word_id": 12
+    },
+    {
+      "lesson": 45,
+      "kana": "じかんたい",
+      "kanji": "時間帯",
+      "character": "名",
+      "meaning": "时间段",
+      "word_id": 13
+    },
+    {
+      "lesson": 45,
+      "kana": "ちょうし",
+      "kanji": "調子",
+      "character": "名",
+      "meaning": "情况，状况；势头",
+      "word_id": 14
+    },
+    {
+      "lesson": 45,
+      "kana": "よさ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "长处，好处",
+      "word_id": 15
+    },
+    {
+      "lesson": 45,
+      "kana": "へやだい",
+      "kanji": "部屋代",
+      "character": "名",
+      "meaning": "房租",
+      "word_id": 16
+    },
+    {
+      "lesson": 45,
+      "kana": "しんりん",
+      "kanji": "森林",
+      "character": "名",
+      "meaning": "森林",
+      "word_id": 17
+    },
+    {
+      "lesson": 45,
+      "kana": "ちきゅう",
+      "kanji": "地球",
+      "character": "名",
+      "meaning": "地球",
+      "word_id": 18
+    },
+    {
+      "lesson": 45,
+      "kana": "へいきんきおん",
+      "kanji": "平均気温",
+      "character": "名",
+      "meaning": "平均气温",
+      "word_id": 19
+    },
+    {
+      "lesson": 45,
+      "kana": "ちきゅうおんだんか",
+      "kanji": "地球温暖化",
+      "character": "名",
+      "meaning": "地球变暖现象",
+      "word_id": 20
+    },
+    {
+      "lesson": 45,
+      "kana": "れいとうしょくひん",
+      "kanji": "冷凍食品",
+      "character": "名",
+      "meaning": "冷冻食品",
+      "word_id": 21
+    },
+    {
+      "lesson": 45,
+      "kana": "こうれいしゃ",
+      "kanji": "高齢者",
+      "character": "名",
+      "meaning": "高龄者",
+      "word_id": 22
+    },
+    {
+      "lesson": 45,
+      "kana": "きつえんしゃ",
+      "kanji": "喫煙者",
+      "character": "名",
+      "meaning": "吸烟者",
+      "word_id": 23
+    },
+    {
+      "lesson": 45,
+      "kana": "りょこうしゃ",
+      "kanji": "旅行者",
+      "character": "名",
+      "meaning": "旅行者",
+      "word_id": 24
+    },
+    {
+      "lesson": 45,
+      "kana": "りようしゃ",
+      "kanji": "利用者",
+      "character": "名",
+      "meaning": "利用者",
+      "word_id": 25
+    },
+    {
+      "lesson": 45,
+      "kana": "なやみ",
+      "kanji": "悩み",
+      "character": "名",
+      "meaning": "烦恼",
+      "word_id": 26
+    },
+    {
+      "lesson": 45,
+      "kana": "まちなみ",
+      "kanji": "町並み",
+      "character": "名",
+      "meaning": "市容，街道，街景",
+      "word_id": 27
+    },
+    {
+      "lesson": 45,
+      "kana": "うりあげ",
+      "kanji": "うりあげ",
+      "character": "名",
+      "meaning": "销售额，营业额",
+      "word_id": 28
+    },
+    {
+      "lesson": 45,
+      "kana": "あこがれ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "憧憬",
+      "word_id": 29
+    },
+    {
+      "lesson": 45,
+      "kana": "すすみます",
+      "kanji": "進みます",
+      "character": "动1",
+      "meaning": "加重，前进",
+      "word_id": 30
+    },
+    {
+      "lesson": 45,
+      "kana": "みがきます",
+      "kanji": "磨きます",
+      "character": "动1",
+      "meaning": "刷，擦",
+      "word_id": 31
+    },
+    {
+      "lesson": 45,
+      "kana": "くもります",
+      "kanji": "曇ります",
+      "character": "动1",
+      "meaning": "天阴",
+      "word_id": 32
+    },
+    {
+      "lesson": 45,
+      "kana": "にます",
+      "kanji": "似ます",
+      "character": "动2",
+      "meaning": "像，相似",
+      "word_id": 33
+    },
+    {
+      "lesson": 45,
+      "kana": "ライトアップします",
+      "kanji": "",
+      "character": "动3",
+      "meaning": "景观照明",
+      "word_id": 34
+    },
+    {
+      "lesson": 45,
+      "kana": "ふきゅうします",
+      "kanji": "普及します",
+      "character": "动3",
+      "meaning": "普及",
+      "word_id": 35
+    },
+    {
+      "lesson": 45,
+      "kana": "あまやどりします",
+      "kanji": "雨宿りします",
+      "character": "动3",
+      "meaning": "避雨",
+      "word_id": 36
+    },
+    {
+      "lesson": 45,
+      "kana": "ひどい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "残酷，过分；激烈",
+      "word_id": 37
+    },
+    {
+      "lesson": 45,
+      "kana": "てがる",
+      "kanji": "手軽",
+      "character": "形2",
+      "meaning": "简便，简单，轻便",
+      "word_id": 38
+    },
+    {
+      "lesson": 45,
+      "kana": "きゅうそく",
+      "kanji": "急速",
+      "character": "形2",
+      "meaning": "迅速，快速",
+      "word_id": 39
+    },
+    {
+      "lesson": 45,
+      "kana": "いぜん",
+      "kanji": "以前",
+      "character": "副",
+      "meaning": "以前",
+      "word_id": 40
+    },
+    {
+      "lesson": 45,
+      "kana": "どんどん",
+      "kanji": "",
+      "character": "副",
+      "meaning": "连接不断地，接二连三地",
+      "word_id": 41
+    },
+    {
+      "lesson": 45,
+      "kana": "ますます",
+      "kanji": "",
+      "character": "副",
+      "meaning": "越来越，更加",
+      "word_id": 42
+    },
+    {
+      "lesson": 45,
+      "kana": "なんか",
+      "kanji": "",
+      "character": "副",
+      "meaning": "有点，总觉得，有些，好像",
+      "word_id": 43
+    },
+    {
+      "lesson": 45,
+      "kana": "ねんねん",
+      "kanji": "年々",
+      "character": "副",
+      "meaning": "逐年，每年",
+      "word_id": 44
+    },
+    {
+      "lesson": 45,
+      "kana": "かるいもの",
+      "kanji": "軽い物",
+      "character": "",
+      "meaning": "清淡的或少量的食物",
+      "word_id": 45
+    }
+  ]
+}

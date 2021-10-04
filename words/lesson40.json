@@ -1,0 +1,236 @@
+{
+  "words": [
+    {
+      "lesson": 40,
+      "kana": "モノレール",
+      "kanji": "",
+      "character": "名",
+      "meaning": "单轨铁路，单轨电车",
+      "word_id": 0
+    },
+    {
+      "lesson": 40,
+      "kana": "オイル",
+      "kanji": "",
+      "character": "名",
+      "meaning": "油，润滑油",
+      "word_id": 1
+    },
+    {
+      "lesson": 40,
+      "kana": "ダンス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "跳舞，舞",
+      "word_id": 2
+    },
+    {
+      "lesson": 40,
+      "kana": "じだい",
+      "kanji": "時代",
+      "character": "名",
+      "meaning": "时代",
+      "word_id": 3
+    },
+    {
+      "lesson": 40,
+      "kana": "やくしゃ",
+      "kanji": "役者",
+      "character": "名",
+      "meaning": "演员",
+      "word_id": 4
+    },
+    {
+      "lesson": 40,
+      "kana": "むすめ",
+      "kanji": "娘",
+      "character": "名",
+      "meaning": "女儿",
+      "word_id": 5
+    },
+    {
+      "lesson": 40,
+      "kana": "こいぬ",
+      "kanji": "子犬",
+      "character": "名",
+      "meaning": "小狗",
+      "word_id": 6
+    },
+    {
+      "lesson": 40,
+      "kana": "げきじょう",
+      "kanji": "劇場",
+      "character": "名",
+      "meaning": "剧场，剧院",
+      "word_id": 7
+    },
+    {
+      "lesson": 40,
+      "kana": "ししゃかい",
+      "kanji": "試写会",
+      "character": "名",
+      "meaning": "试映会，预映会",
+      "word_id": 8
+    },
+    {
+      "lesson": 40,
+      "kana": "みみ",
+      "kanji": "耳",
+      "character": "名",
+      "meaning": "耳朵",
+      "word_id": 9
+    },
+    {
+      "lesson": 40,
+      "kana": "おく",
+      "kanji": "奥",
+      "character": "名",
+      "meaning": "里头，内部；深处",
+      "word_id": 10
+    },
+    {
+      "lesson": 40,
+      "kana": "きげん",
+      "kanji": "機嫌",
+      "character": "名",
+      "meaning": "情绪，心情",
+      "word_id": 11
+    },
+    {
+      "lesson": 40,
+      "kana": "せんじつ",
+      "kanji": "先日",
+      "character": "名",
+      "meaning": "前几天，前些天",
+      "word_id": 12
+    },
+    {
+      "lesson": 40,
+      "kana": "コピーき",
+      "kanji": "コピー機",
+      "character": "名",
+      "meaning": "复印机",
+      "word_id": 13
+    },
+    {
+      "lesson": 40,
+      "kana": "けん",
+      "kanji": "券",
+      "character": "名",
+      "meaning": "券，票",
+      "word_id": 14
+    },
+    {
+      "lesson": 40,
+      "kana": "さいしゅうびん",
+      "kanji": "最終便",
+      "character": "名",
+      "meaning": "最晚航班",
+      "word_id": 15
+    },
+    {
+      "lesson": 40,
+      "kana": "にゅじょうけん",
+      "kanji": "入場券",
+      "character": "名",
+      "meaning": "入场卷，门票",
+      "word_id": 16
+    },
+    {
+      "lesson": 40,
+      "kana": "しょうたいけん",
+      "kanji": "招待券",
+      "character": "名",
+      "meaning": "招待券，请帖",
+      "word_id": 17
+    },
+    {
+      "lesson": 40,
+      "kana": "かいすうけん",
+      "kanji": "回数券",
+      "character": "名",
+      "meaning": "回数券",
+      "word_id": 18
+    },
+    {
+      "lesson": 40,
+      "kana": "むかいます",
+      "kanji": "向かいます",
+      "character": "动1",
+      "meaning": "往～去",
+      "word_id": 19
+    },
+    {
+      "lesson": 40,
+      "kana": "そろえます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "备齐，凑齐；使一致",
+      "word_id": 20
+    },
+    {
+      "lesson": 40,
+      "kana": "もれます",
+      "kanji": "漏れます",
+      "character": "动2",
+      "meaning": "漏，泄漏",
+      "word_id": 21
+    },
+    {
+      "lesson": 40,
+      "kana": "まとめます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "汇集；总结，整理",
+      "word_id": 22
+    },
+    {
+      "lesson": 40,
+      "kana": "かいつうします",
+      "kanji": "開通します",
+      "character": "动3",
+      "meaning": "开通",
+      "word_id": 23
+    },
+    {
+      "lesson": 40,
+      "kana": "かいちくします",
+      "kanji": "改築します",
+      "character": "动3",
+      "meaning": "改建",
+      "word_id": 24
+    },
+    {
+      "lesson": 40,
+      "kana": "かんせいします",
+      "kanji": "完成します",
+      "character": "动3",
+      "meaning": "完成",
+      "word_id": 25
+    },
+    {
+      "lesson": 40,
+      "kana": "にゅうしゃします",
+      "kanji": "入社します",
+      "character": "动3",
+      "meaning": "入社",
+      "word_id": 26
+    },
+    {
+      "lesson": 40,
+      "kana": "しん",
+      "kanji": "清",
+      "character": "专有词",
+      "meaning": "清，清代",
+      "word_id": 27
+    },
+    {
+      "lesson": 40,
+      "kana": "おまたせしました",
+      "kanji": "お待たせしました",
+      "character": "",
+      "meaning": "让您久等了",
+      "word_id": 28
+    }
+  ]
+}

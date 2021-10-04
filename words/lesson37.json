@@ -1,0 +1,276 @@
+{
+  "words": [
+    {
+      "lesson": 37,
+      "kana": "ようじ",
+      "kanji": "用事",
+      "character": "名",
+      "meaning": "事情",
+      "word_id": 0
+    },
+    {
+      "lesson": 37,
+      "kana": "たいかい",
+      "kanji": "大会",
+      "character": "名",
+      "meaning": "大会",
+      "word_id": 1
+    },
+    {
+      "lesson": 37,
+      "kana": "きぼ",
+      "kanji": "規模",
+      "character": "名",
+      "meaning": "规模",
+      "word_id": 2
+    },
+    {
+      "lesson": 37,
+      "kana": "けいかく",
+      "kanji": "計画",
+      "character": "名",
+      "meaning": "计划",
+      "word_id": 3
+    },
+    {
+      "lesson": 37,
+      "kana": "きそく",
+      "kanji": "規則",
+      "character": "名",
+      "meaning": "规则",
+      "word_id": 4
+    },
+    {
+      "lesson": 37,
+      "kana": "ひよう",
+      "kanji": "費用",
+      "character": "名",
+      "meaning": "费用",
+      "word_id": 5
+    },
+    {
+      "lesson": 37,
+      "kana": "しお",
+      "kanji": "塩",
+      "character": "名",
+      "meaning": "盐，食盐",
+      "word_id": 6
+    },
+    {
+      "lesson": 37,
+      "kana": "メダル",
+      "kanji": "",
+      "character": "名",
+      "meaning": "纪念章，奖牌",
+      "word_id": 7
+    },
+    {
+      "lesson": 37,
+      "kana": "ソフト",
+      "kanji": "",
+      "character": "名",
+      "meaning": "软件",
+      "word_id": 8
+    },
+    {
+      "lesson": 37,
+      "kana": "かわ",
+      "kanji": "川",
+      "character": "名",
+      "meaning": "河，河流",
+      "word_id": 9
+    },
+    {
+      "lesson": 37,
+      "kana": "てつどう",
+      "kanji": "鉄道",
+      "character": "名",
+      "meaning": "火车，铁路，铁道",
+      "word_id": 10
+    },
+    {
+      "lesson": 37,
+      "kana": "ぜんちょう",
+      "kanji": "全長",
+      "character": "名",
+      "meaning": "全长",
+      "word_id": 11
+    },
+    {
+      "lesson": 37,
+      "kana": "ばんごう",
+      "kanji": "番号",
+      "character": "名",
+      "meaning": "号码，番号",
+      "word_id": 12
+    },
+    {
+      "lesson": 37,
+      "kana": "たんい",
+      "kanji": "単位",
+      "character": "名",
+      "meaning": "计量单位",
+      "word_id": 13
+    },
+    {
+      "lesson": 37,
+      "kana": "こさじ",
+      "kanji": "小さじ",
+      "character": "名",
+      "meaning": "小匙，小勺",
+      "word_id": 14
+    },
+    {
+      "lesson": 37,
+      "kana": "ボリューム",
+      "kanji": "",
+      "character": "名",
+      "meaning": "音量",
+      "word_id": 15
+    },
+    {
+      "lesson": 37,
+      "kana": "ちょくつうれっしゃ",
+      "kanji": "直通列車",
+      "character": "名",
+      "meaning": "直达列车",
+      "word_id": 16
+    },
+    {
+      "lesson": 37,
+      "kana": "せかいいさん",
+      "kanji": "世界遺産",
+      "character": "名",
+      "meaning": "世界遗产",
+      "word_id": 17
+    },
+    {
+      "lesson": 37,
+      "kana": "かんこうスポット",
+      "kanji": "観光スポット",
+      "character": "名",
+      "meaning": "旅游点",
+      "word_id": 18
+    },
+    {
+      "lesson": 37,
+      "kana": "こえます",
+      "kanji": "超えます",
+      "character": "动2",
+      "meaning": "超过",
+      "word_id": 19
+    },
+    {
+      "lesson": 37,
+      "kana": "しゅつじょうします",
+      "kanji": "出場します",
+      "character": "动3",
+      "meaning": "参加，出场",
+      "word_id": 20
+    },
+    {
+      "lesson": 37,
+      "kana": "つまみぐいします",
+      "kanji": "つまみ食いします",
+      "character": "动3",
+      "meaning": "偷吃",
+      "word_id": 21
+    },
+    {
+      "lesson": 37,
+      "kana": "かんさんします",
+      "kanji": "換算します",
+      "character": "动3",
+      "meaning": "换算",
+      "word_id": 22
+    },
+    {
+      "lesson": 37,
+      "kana": "ふくしゅうします",
+      "kanji": "復習します",
+      "character": "动3",
+      "meaning": "复习",
+      "word_id": 23
+    },
+    {
+      "lesson": 37,
+      "kana": "せいこうします",
+      "kanji": "成功します",
+      "character": "动3",
+      "meaning": "成功",
+      "word_id": 24
+    },
+    {
+      "lesson": 37,
+      "kana": "よわい",
+      "kanji": "弱い",
+      "character": "形1",
+      "meaning": "弱，脆弱，柔弱",
+      "word_id": 25
+    },
+    {
+      "lesson": 37,
+      "kana": "きびしい",
+      "kanji": "厳しい",
+      "character": "形1",
+      "meaning": "严厉，严格",
+      "word_id": 26
+    },
+    {
+      "lesson": 37,
+      "kana": "ぜいたく",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "奢望，奢侈，过分",
+      "word_id": 27
+    },
+    {
+      "lesson": 37,
+      "kana": "こっそり",
+      "kanji": "",
+      "character": "副",
+      "meaning": "偷偷地，悄悄地",
+      "word_id": 28
+    },
+    {
+      "lesson": 37,
+      "kana": "さすが",
+      "kanji": "",
+      "character": "副",
+      "meaning": "不愧是，果然",
+      "word_id": 29
+    },
+    {
+      "lesson": 37,
+      "kana": "じっさいに",
+      "kanji": "実際に",
+      "character": "副",
+      "meaning": "实地，实际上",
+      "word_id": 30
+    },
+    {
+      "lesson": 37,
+      "kana": "とうだい",
+      "kanji": "東大",
+      "character": "专有词",
+      "meaning": "东大，东京大学",
+      "word_id": 31
+    },
+    {
+      "lesson": 37,
+      "kana": "はったつれい",
+      "kanji": "八達嶺",
+      "character": "专有词",
+      "meaning": "八达岭",
+      "word_id": 32
+    },
+    {
+      "lesson": 37,
+      "kana": "ペキンきたえき",
+      "kanji": "北京北駅",
+      "character": "专有词",
+      "meaning": "北京北站",
+      "word_id": 33
+    }
+  ]
+}

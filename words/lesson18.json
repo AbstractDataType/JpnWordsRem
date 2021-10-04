@@ -1,0 +1,316 @@
+{
+  "words": [
+    {
+      "lesson": 18,
+      "kana": "おと",
+      "kanji": "音",
+      "character": "名",
+      "meaning": "声音，响声",
+      "word_id": 0
+    },
+    {
+      "lesson": 18,
+      "kana": "こえ",
+      "kanji": "声",
+      "character": "名",
+      "meaning": "声音",
+      "word_id": 1
+    },
+    {
+      "lesson": 18,
+      "kana": "くうき",
+      "kanji": "空気",
+      "character": "名",
+      "meaning": "空气",
+      "word_id": 2
+    },
+    {
+      "lesson": 18,
+      "kana": "むすこ",
+      "kanji": "息子",
+      "character": "名",
+      "meaning": "儿子",
+      "word_id": 3
+    },
+    {
+      "lesson": 18,
+      "kana": "いしゃ",
+      "kanji": "医者",
+      "character": "名",
+      "meaning": "医生",
+      "word_id": 4
+    },
+    {
+      "lesson": 18,
+      "kana": "おじょうさん",
+      "kanji": "お嬢さん",
+      "character": "名",
+      "meaning": "令爱",
+      "word_id": 5
+    },
+    {
+      "lesson": 18,
+      "kana": "しゃかいじん",
+      "kanji": "社会人",
+      "character": "名",
+      "meaning": "社会的一员，成人",
+      "word_id": 6
+    },
+    {
+      "lesson": 18,
+      "kana": "りょこうガイド",
+      "kanji": "旅行ガイド",
+      "character": "名",
+      "meaning": "旅行导游",
+      "word_id": 7
+    },
+    {
+      "lesson": 18,
+      "kana": "がくしゃ",
+      "kanji": "学者",
+      "character": "名",
+      "meaning": "学者",
+      "word_id": 8
+    },
+    {
+      "lesson": 18,
+      "kana": "パイロット",
+      "kanji": "",
+      "character": "名",
+      "meaning": "飞行员",
+      "word_id": 9
+    },
+    {
+      "lesson": 18,
+      "kana": "デザイナー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "设计者，设计家",
+      "word_id": 10
+    },
+    {
+      "lesson": 18,
+      "kana": "タイムサービス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "时段廉价销售",
+      "word_id": 11
+    },
+    {
+      "lesson": 18,
+      "kana": "しんしゅんセール",
+      "kanji": "新春セール",
+      "character": "名",
+      "meaning": "新年大甩卖",
+      "word_id": 12
+    },
+    {
+      "lesson": 18,
+      "kana": "さんわりびき",
+      "kanji": "３割引",
+      "character": "名",
+      "meaning": "七折",
+      "word_id": 13
+    },
+    {
+      "lesson": 18,
+      "kana": "でいか",
+      "kanji": "定価",
+      "character": "名",
+      "meaning": "定价",
+      "word_id": 14
+    },
+    {
+      "lesson": 18,
+      "kana": "はんがく",
+      "kanji": "半額",
+      "character": "名",
+      "meaning": "半价",
+      "word_id": 15
+    },
+    {
+      "lesson": 18,
+      "kana": "ねだん",
+      "kanji": "値段",
+      "character": "名",
+      "meaning": "价格",
+      "word_id": 16
+    },
+    {
+      "lesson": 18,
+      "kana": "シャツ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "衬衫",
+      "word_id": 17
+    },
+    {
+      "lesson": 18,
+      "kana": "スカート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "裙子",
+      "word_id": 18
+    },
+    {
+      "lesson": 18,
+      "kana": "いろ",
+      "kanji": "色",
+      "character": "名",
+      "meaning": "颜色",
+      "word_id": 19
+    },
+    {
+      "lesson": 18,
+      "kana": "あか",
+      "kanji": "赤",
+      "character": "名",
+      "meaning": "红色",
+      "word_id": 20
+    },
+    {
+      "lesson": 18,
+      "kana": "あお",
+      "kanji": "青",
+      "character": "名",
+      "meaning": "蓝色",
+      "word_id": 21
+    },
+    {
+      "lesson": 18,
+      "kana": "おしょうがつ",
+      "kanji": "お正月",
+      "character": "名",
+      "meaning": "过年，新年",
+      "word_id": 22
+    },
+    {
+      "lesson": 18,
+      "kana": "じかん",
+      "kanji": "時間",
+      "character": "名",
+      "meaning": "时间",
+      "word_id": 23
+    },
+    {
+      "lesson": 18,
+      "kana": "しょうらい",
+      "kanji": "将来",
+      "character": "名",
+      "meaning": "将来",
+      "word_id": 24
+    },
+    {
+      "lesson": 18,
+      "kana": "じゅんび",
+      "kanji": "準備",
+      "character": "名",
+      "meaning": "准备",
+      "word_id": 25
+    },
+    {
+      "lesson": 18,
+      "kana": "びょうき",
+      "kanji": "病気",
+      "character": "名",
+      "meaning": "疾病",
+      "word_id": 26
+    },
+    {
+      "lesson": 18,
+      "kana": "なります",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "变，当，变成，成为",
+      "word_id": 27
+    },
+    {
+      "lesson": 18,
+      "kana": "あきます",
+      "kanji": "開きます",
+      "character": "动1",
+      "meaning": "开",
+      "word_id": 28
+    },
+    {
+      "lesson": 18,
+      "kana": "にあいます",
+      "kanji": "似合います",
+      "character": "动1",
+      "meaning": "适合，相称",
+      "word_id": 29
+    },
+    {
+      "lesson": 18,
+      "kana": "うるさい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "闹，使人心烦",
+      "word_id": 30
+    },
+    {
+      "lesson": 18,
+      "kana": "シンプル",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "单纯，简洁",
+      "word_id": 31
+    },
+    {
+      "lesson": 18,
+      "kana": "まもなく",
+      "kanji": "間もなく",
+      "character": "副",
+      "meaning": "马上，一会儿，不久",
+      "word_id": 32
+    },
+    {
+      "lesson": 18,
+      "kana": "さらに",
+      "kanji": "",
+      "character": "副",
+      "meaning": "更加，更",
+      "word_id": 33
+    },
+    {
+      "lesson": 18,
+      "kana": "もっと",
+      "kanji": "",
+      "character": "副",
+      "meaning": "更加，更",
+      "word_id": 34
+    },
+    {
+      "lesson": 18,
+      "kana": "さあ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "啊，喂",
+      "word_id": 35
+    },
+    {
+      "lesson": 18,
+      "kana": "でくるだけ",
+      "kanji": "",
+      "character": "",
+      "meaning": "尽量，尽可能",
+      "word_id": 36
+    },
+    {
+      "lesson": 18,
+      "kana": "まとめて",
+      "kanji": "",
+      "character": "",
+      "meaning": "一下子，一起，汇总，汇集",
+      "word_id": 37
+    },
+    {
+      "lesson": 18,
+      "kana": "いまから",
+      "kanji": "今から",
+      "character": "",
+      "meaning": "从现在起",
+      "word_id": 38
+    }
+  ]
+}

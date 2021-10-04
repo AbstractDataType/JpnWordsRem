@@ -1,0 +1,452 @@
+{
+  "words": [
+    {
+      "lesson": 1,
+      "kana": "ちゅうごくじん",
+      "kanji": "中国人",
+      "character": "名",
+      "meaning": "中国人",
+      "word_id": 0
+    },
+    {
+      "lesson": 1,
+      "kana": "にほんじん",
+      "kanji": "日本人",
+      "character": "名",
+      "meaning": "日本人",
+      "word_id": 1
+    },
+    {
+      "lesson": 1,
+      "kana": "かんこくじん",
+      "kanji": "韓国人",
+      "character": "名",
+      "meaning": "韩国人",
+      "word_id": 2
+    },
+    {
+      "lesson": 1,
+      "kana": "アメリカじん",
+      "kanji": "アメリカ人",
+      "character": "名",
+      "meaning": "美国人",
+      "word_id": 3
+    },
+    {
+      "lesson": 1,
+      "kana": "フランスじん",
+      "kanji": "フランス人",
+      "character": "名",
+      "meaning": "法国人",
+      "word_id": 4
+    },
+    {
+      "lesson": 1,
+      "kana": "がくせい",
+      "kanji": "学生",
+      "character": "名",
+      "meaning": "（大）学生",
+      "word_id": 5
+    },
+    {
+      "lesson": 1,
+      "kana": "せんせい",
+      "kanji": "先生",
+      "character": "名",
+      "meaning": "老师",
+      "word_id": 6
+    },
+    {
+      "lesson": 1,
+      "kana": "りゅうがくせい",
+      "kanji": "留学生",
+      "character": "名",
+      "meaning": "留学生",
+      "word_id": 7
+    },
+    {
+      "lesson": 1,
+      "kana": "きょうじゅ",
+      "kanji": "教授",
+      "character": "名",
+      "meaning": "教授",
+      "word_id": 8
+    },
+    {
+      "lesson": 1,
+      "kana": "しゃいん",
+      "kanji": "社員",
+      "character": "名",
+      "meaning": "职员",
+      "word_id": 9
+    },
+    {
+      "lesson": 1,
+      "kana": "かいしゃいん",
+      "kanji": "会社員",
+      "character": "名",
+      "meaning": "公司职员",
+      "word_id": 10
+    },
+    {
+      "lesson": 1,
+      "kana": "てんいん",
+      "kanji": "店員",
+      "character": "名",
+      "meaning": "店员",
+      "word_id": 11
+    },
+    {
+      "lesson": 1,
+      "kana": "けんしゅうせい",
+      "kanji": "研修生",
+      "character": "名",
+      "meaning": "进修生",
+      "word_id": 12
+    },
+    {
+      "lesson": 1,
+      "kana": "きぎょう",
+      "kanji": "企業",
+      "character": "名",
+      "meaning": "企业",
+      "word_id": 13
+    },
+    {
+      "lesson": 1,
+      "kana": "だいがく",
+      "kanji": "大学",
+      "character": "名",
+      "meaning": "大学",
+      "word_id": 14
+    },
+    {
+      "lesson": 1,
+      "kana": "ちち",
+      "kanji": "父",
+      "character": "名",
+      "meaning": "（我）父亲",
+      "word_id": 15
+    },
+    {
+      "lesson": 1,
+      "kana": "かちょう",
+      "kanji": "課長",
+      "character": "名",
+      "meaning": "科长",
+      "word_id": 16
+    },
+    {
+      "lesson": 1,
+      "kana": "しゃちょう",
+      "kanji": "社長",
+      "character": "名",
+      "meaning": "总经理，社长",
+      "word_id": 17
+    },
+    {
+      "lesson": 1,
+      "kana": "でむかえ",
+      "kanji": "出迎え",
+      "character": "名",
+      "meaning": "迎接",
+      "word_id": 18
+    },
+    {
+      "lesson": 1,
+      "kana": "あのひと",
+      "kanji": "あの人",
+      "character": "名",
+      "meaning": "那个人",
+      "word_id": 19
+    },
+    {
+      "lesson": 1,
+      "kana": "をたし",
+      "kanji": "",
+      "character": "代",
+      "meaning": "我",
+      "word_id": 20
+    },
+    {
+      "lesson": 1,
+      "kana": "あなた",
+      "kanji": "",
+      "character": "代",
+      "meaning": "你",
+      "word_id": 21
+    },
+    {
+      "lesson": 1,
+      "kana": "どうも",
+      "kanji": "",
+      "character": "副",
+      "meaning": "非常，很",
+      "word_id": 22
+    },
+    {
+      "lesson": 1,
+      "kana": "はい",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "哎，是（应答）；是的",
+      "word_id": 23
+    },
+    {
+      "lesson": 1,
+      "kana": "いいえ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "不，不是",
+      "word_id": 24
+    },
+    {
+      "lesson": 1,
+      "kana": "あっ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "哎，哎呀",
+      "word_id": 25
+    },
+    {
+      "lesson": 1,
+      "kana": "り",
+      "kanji": "李",
+      "character": "专有词",
+      "meaning": "李",
+      "word_id": 26
+    },
+    {
+      "lesson": 1,
+      "kana": "おう",
+      "kanji": "王",
+      "character": "专有词",
+      "meaning": "王",
+      "word_id": 27
+    },
+    {
+      "lesson": 1,
+      "kana": "ちょう",
+      "kanji": "張",
+      "character": "专有词",
+      "meaning": "张",
+      "word_id": 28
+    },
+    {
+      "lesson": 1,
+      "kana": "もり",
+      "kanji": "森",
+      "character": "专有词",
+      "meaning": "森",
+      "word_id": 29
+    },
+    {
+      "lesson": 1,
+      "kana": "はやし",
+      "kanji": "林",
+      "character": "专有词",
+      "meaning": "林",
+      "word_id": 30
+    },
+    {
+      "lesson": 1,
+      "kana": "おの",
+      "kanji": "小野",
+      "character": "专有词",
+      "meaning": "小野",
+      "word_id": 31
+    },
+    {
+      "lesson": 1,
+      "kana": "よしだ",
+      "kanji": "吉田",
+      "character": "专有词",
+      "meaning": "吉田",
+      "word_id": 32
+    },
+    {
+      "lesson": 1,
+      "kana": "たなか",
+      "kanji": "田中",
+      "character": "专有词",
+      "meaning": "田中",
+      "word_id": 33
+    },
+    {
+      "lesson": 1,
+      "kana": "なかむら",
+      "kanji": "中村",
+      "character": "专有词",
+      "meaning": "中村",
+      "word_id": 34
+    },
+    {
+      "lesson": 1,
+      "kana": "たろう",
+      "kanji": "太郎",
+      "character": "专有词",
+      "meaning": "太郎",
+      "word_id": 35
+    },
+    {
+      "lesson": 1,
+      "kana": "キム",
+      "kanji": "金",
+      "character": "专有词",
+      "meaning": "金",
+      "word_id": 36
+    },
+    {
+      "lesson": 1,
+      "kana": "デュポン",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "迪蓬",
+      "word_id": 37
+    },
+    {
+      "lesson": 1,
+      "kana": "スミス",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "史密斯",
+      "word_id": 38
+    },
+    {
+      "lesson": 1,
+      "kana": "ジョンソン",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "约翰逊",
+      "word_id": 39
+    },
+    {
+      "lesson": 1,
+      "kana": "ちゅうごく",
+      "kanji": "中国",
+      "character": "专有词",
+      "meaning": "中国",
+      "word_id": 40
+    },
+    {
+      "lesson": 1,
+      "kana": "とうきょうだいがく",
+      "kanji": "東京大学",
+      "character": "专有词",
+      "meaning": "东京大学",
+      "word_id": 41
+    },
+    {
+      "lesson": 1,
+      "kana": "ペキンだいがく",
+      "kanji": "北京大学",
+      "character": "专有词",
+      "meaning": "北京大学",
+      "word_id": 42
+    },
+    {
+      "lesson": 1,
+      "kana": "ジェーシーきかく",
+      "kanji": "ＪＣ企画",
+      "character": "专有词",
+      "meaning": "JC策划公司",
+      "word_id": 43
+    },
+    {
+      "lesson": 1,
+      "kana": "ペキンりょこうしゃ",
+      "kanji": "北京旅行社",
+      "character": "专有词",
+      "meaning": "北京旅行社",
+      "word_id": 44
+    },
+    {
+      "lesson": 1,
+      "kana": "にっちゅうしょうじ",
+      "kanji": "日中商事",
+      "character": "专有词",
+      "meaning": "日中商社",
+      "word_id": 45
+    },
+    {
+      "lesson": 1,
+      "kana": "こんにちは",
+      "kanji": "",
+      "character": "",
+      "meaning": "你好",
+      "word_id": 46
+    },
+    {
+      "lesson": 1,
+      "kana": "すみません",
+      "kanji": "",
+      "character": "",
+      "meaning": "对不起，请问",
+      "word_id": 47
+    },
+    {
+      "lesson": 1,
+      "kana": "どうぞ",
+      "kanji": "",
+      "character": "",
+      "meaning": "请",
+      "word_id": 48
+    },
+    {
+      "lesson": 1,
+      "kana": "よろしくおねがいします",
+      "kanji": "よろしくお願いします",
+      "character": "",
+      "meaning": "请多关照",
+      "word_id": 49
+    },
+    {
+      "lesson": 1,
+      "kana": "はじめまして",
+      "kanji": "",
+      "character": "",
+      "meaning": "初次见面",
+      "word_id": 50
+    },
+    {
+      "lesson": 1,
+      "kana": "こちらこそ",
+      "kanji": "",
+      "character": "",
+      "meaning": "我才要（请您～）",
+      "word_id": 51
+    },
+    {
+      "lesson": 1,
+      "kana": "そうてす",
+      "kanji": "",
+      "character": "",
+      "meaning": "是（这样）",
+      "word_id": 52
+    },
+    {
+      "lesson": 1,
+      "kana": "ちがいます",
+      "kanji": "",
+      "character": "",
+      "meaning": "不是",
+      "word_id": 53
+    },
+    {
+      "lesson": 1,
+      "kana": "わかりません",
+      "kanji": "分かりません",
+      "character": "",
+      "meaning": "不知道",
+      "word_id": 54
+    },
+    {
+      "lesson": 1,
+      "kana": "どうもすみません",
+      "kanji": "",
+      "character": "",
+      "meaning": "实在对不起",
+      "word_id": 55
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "words": [
+    {
+      "lesson": 3,
+      "kana": "デパート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "百货商店",
+      "word_id": 0
+    },
+    {
+      "lesson": 3,
+      "kana": "しょくどう",
+      "kanji": "食堂",
+      "character": "名",
+      "meaning": "食堂",
+      "word_id": 1
+    },
+    {
+      "lesson": 3,
+      "kana": "ゆうびんきょく",
+      "kanji": "郵便局",
+      "character": "名",
+      "meaning": "邮局",
+      "word_id": 2
+    },
+    {
+      "lesson": 3,
+      "kana": "ぎんこう",
+      "kanji": "銀行",
+      "character": "名",
+      "meaning": "银行",
+      "word_id": 3
+    },
+    {
+      "lesson": 3,
+      "kana": "としょかん",
+      "kanji": "図書館",
+      "character": "名",
+      "meaning": "图书馆",
+      "word_id": 4
+    },
+    {
+      "lesson": 3,
+      "kana": "マンション",
+      "kanji": "",
+      "character": "名",
+      "meaning": "（高级）公寓",
+      "word_id": 5
+    },
+    {
+      "lesson": 3,
+      "kana": "ホテル",
+      "kanji": "",
+      "character": "名",
+      "meaning": "宾馆",
+      "word_id": 6
+    },
+    {
+      "lesson": 3,
+      "kana": "コンビニ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "便利店",
+      "word_id": 7
+    },
+    {
+      "lesson": 3,
+      "kana": "きっさてん",
+      "kanji": "喫茶店",
+      "character": "名",
+      "meaning": "咖啡馆",
+      "word_id": 8
+    },
+    {
+      "lesson": 3,
+      "kana": "びょういん",
+      "kanji": "病院",
+      "character": "名",
+      "meaning": "医院",
+      "word_id": 9
+    },
+    {
+      "lesson": 3,
+      "kana": "ほんや",
+      "kanji": "本屋",
+      "character": "名",
+      "meaning": "书店",
+      "word_id": 10
+    },
+    {
+      "lesson": 3,
+      "kana": "レストラン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "餐馆，西餐馆",
+      "word_id": 11
+    },
+    {
+      "lesson": 3,
+      "kana": "ビル",
+      "kanji": "",
+      "character": "名",
+      "meaning": "大楼，大厦",
+      "word_id": 12
+    },
+    {
+      "lesson": 3,
+      "kana": "たてもの",
+      "kanji": "建物",
+      "character": "名",
+      "meaning": "大楼，建筑物",
+      "word_id": 13
+    },
+    {
+      "lesson": 3,
+      "kana": "うりば",
+      "kanji": "売り場",
+      "character": "名",
+      "meaning": "柜台，出售处",
+      "word_id": 14
+    },
+    {
+      "lesson": 3,
+      "kana": "トイレ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "厕所，盥洗室",
+      "word_id": 15
+    },
+    {
+      "lesson": 3,
+      "kana": "いりぐち",
+      "kanji": "入り口",
+      "character": "名",
+      "meaning": "入口",
+      "word_id": 16
+    },
+    {
+      "lesson": 3,
+      "kana": "じむしょ",
+      "kanji": "事務所",
+      "character": "名",
+      "meaning": "事务所，办事处",
+      "word_id": 17
+    },
+    {
+      "lesson": 3,
+      "kana": "うけつけ",
+      "kanji": "受付",
+      "character": "名",
+      "meaning": "接待处",
+      "word_id": 18
+    },
+    {
+      "lesson": 3,
+      "kana": "バーゲンかいじょう",
+      "kanji": "バーゲン会場",
+      "character": "名",
+      "meaning": "降价处理大卖场",
+      "word_id": 19
+    },
+    {
+      "lesson": 3,
+      "kana": "エスカレーター",
+      "kanji": "",
+      "character": "名",
+      "meaning": "自动扶梯",
+      "word_id": 20
+    },
+    {
+      "lesson": 3,
+      "kana": "ふく",
+      "kanji": "服",
+      "character": "名",
+      "meaning": "衣服",
+      "word_id": 21
+    },
+    {
+      "lesson": 3,
+      "kana": "コート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "风衣，大衣",
+      "word_id": 22
+    },
+    {
+      "lesson": 3,
+      "kana": "デジカメ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "数码相机",
+      "word_id": 23
+    },
+    {
+      "lesson": 3,
+      "kana": "くに",
+      "kanji": "国",
+      "character": "名",
+      "meaning": "国，国家",
+      "word_id": 24
+    },
+    {
+      "lesson": 3,
+      "kana": "ちず",
+      "kanji": "地図",
+      "character": "名",
+      "meaning": "地图",
+      "word_id": 25
+    },
+    {
+      "lesson": 3,
+      "kana": "となり",
+      "kanji": "隣",
+      "character": "名",
+      "meaning": "旁边",
+      "word_id": 26
+    },
+    {
+      "lesson": 3,
+      "kana": "しゅうへん",
+      "kanji": "周辺",
+      "character": "名",
+      "meaning": "附近，周边",
+      "word_id": 27
+    },
+    {
+      "lesson": 3,
+      "kana": "きょう",
+      "kanji": "今日",
+      "character": "名",
+      "meaning": "今天",
+      "word_id": 28
+    },
+    {
+      "lesson": 3,
+      "kana": "すいようび",
+      "kanji": "水曜日",
+      "character": "名",
+      "meaning": "星期三",
+      "word_id": 29
+    },
+    {
+      "lesson": 3,
+      "kana": "もくようび",
+      "kanji": "木曜日",
+      "character": "名",
+      "meaning": "星期四",
+      "word_id": 30
+    },
+    {
+      "lesson": 3,
+      "kana": "ここ",
+      "kanji": "",
+      "character": "代",
+      "meaning": "这里，这儿",
+      "word_id": 31
+    },
+    {
+      "lesson": 3,
+      "kana": "そこ",
+      "kanji": "",
+      "character": "代",
+      "meaning": "那里，那儿",
+      "word_id": 32
+    },
+    {
+      "lesson": 3,
+      "kana": "あそこ",
+      "kanji": "",
+      "character": "代",
+      "meaning": "那里，那儿",
+      "word_id": 33
+    },
+    {
+      "lesson": 3,
+      "kana": "こちら",
+      "kanji": "",
+      "character": "代",
+      "meaning": "这儿，这边",
+      "word_id": 34
+    },
+    {
+      "lesson": 3,
+      "kana": "そちら",
+      "kanji": "",
+      "character": "代",
+      "meaning": "那儿，那边",
+      "word_id": 35
+    },
+    {
+      "lesson": 3,
+      "kana": "あちら",
+      "kanji": "",
+      "character": "代",
+      "meaning": "那儿，那边",
+      "word_id": 36
+    },
+    {
+      "lesson": 3,
+      "kana": "どこ",
+      "kanji": "",
+      "character": "疑",
+      "meaning": "哪里，哪儿",
+      "word_id": 37
+    },
+    {
+      "lesson": 3,
+      "kana": "どちら",
+      "kanji": "",
+      "character": "疑",
+      "meaning": "哪儿，哪边",
+      "word_id": 38
+    },
+    {
+      "lesson": 3,
+      "kana": "あのう",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "请问，对不起",
+      "word_id": 39
+    },
+    {
+      "lesson": 3,
+      "kana": "シャンハイ",
+      "kanji": "上海",
+      "character": "专有词",
+      "meaning": "上海",
+      "word_id": 40
+    },
+    {
+      "lesson": 3,
+      "kana": "とうきょう",
+      "kanji": "東京",
+      "character": "专有词",
+      "meaning": "东京",
+      "word_id": 41
+    },
+    {
+      "lesson": 3,
+      "kana": "いくら",
+      "kanji": "",
+      "character": "",
+      "meaning": "多少钱",
+      "word_id": 42
+    }
+  ]
+}

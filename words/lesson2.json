@@ -1,0 +1,436 @@
+{
+  "words": [
+    {
+      "lesson": 2,
+      "kana": "ほん",
+      "kanji": "本",
+      "character": "名",
+      "meaning": "书",
+      "word_id": 0
+    },
+    {
+      "lesson": 2,
+      "kana": "かばん",
+      "kanji": "",
+      "character": "名",
+      "meaning": "包，公文包",
+      "word_id": 1
+    },
+    {
+      "lesson": 2,
+      "kana": "ノント",
+      "kanji": "",
+      "character": "名",
+      "meaning": "笔记本，本子",
+      "word_id": 2
+    },
+    {
+      "lesson": 2,
+      "kana": "えんぴつ",
+      "kanji": "鉛筆",
+      "character": "名",
+      "meaning": "铅笔",
+      "word_id": 3
+    },
+    {
+      "lesson": 2,
+      "kana": "かさ",
+      "kanji": "傘",
+      "character": "名",
+      "meaning": "伞",
+      "word_id": 4
+    },
+    {
+      "lesson": 2,
+      "kana": "くつ",
+      "kanji": "靴",
+      "character": "名",
+      "meaning": "鞋",
+      "word_id": 5
+    },
+    {
+      "lesson": 2,
+      "kana": "しんぶん",
+      "kanji": "新聞",
+      "character": "名",
+      "meaning": "报纸",
+      "word_id": 6
+    },
+    {
+      "lesson": 2,
+      "kana": "ざっし",
+      "kanji": "雑誌",
+      "character": "名",
+      "meaning": "杂志",
+      "word_id": 7
+    },
+    {
+      "lesson": 2,
+      "kana": "じしょ",
+      "kanji": "辞書",
+      "character": "名",
+      "meaning": "词典",
+      "word_id": 8
+    },
+    {
+      "lesson": 2,
+      "kana": "カメラ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "照相机",
+      "word_id": 9
+    },
+    {
+      "lesson": 2,
+      "kana": "テレビ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "电视机",
+      "word_id": 10
+    },
+    {
+      "lesson": 2,
+      "kana": "パソコン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "个人电脑",
+      "word_id": 11
+    },
+    {
+      "lesson": 2,
+      "kana": "ラジオ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "收音机",
+      "word_id": 12
+    },
+    {
+      "lesson": 2,
+      "kana": "でんわ",
+      "kanji": "電話",
+      "character": "名",
+      "meaning": "电话",
+      "word_id": 13
+    },
+    {
+      "lesson": 2,
+      "kana": "つくえ",
+      "kanji": "机",
+      "character": "名",
+      "meaning": "桌子，书桌",
+      "word_id": 14
+    },
+    {
+      "lesson": 2,
+      "kana": "いす",
+      "kanji": "",
+      "character": "名",
+      "meaning": "椅子",
+      "word_id": 15
+    },
+    {
+      "lesson": 2,
+      "kana": "かぎ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "钥匙，锁",
+      "word_id": 16
+    },
+    {
+      "lesson": 2,
+      "kana": "とけい",
+      "kanji": "時計",
+      "character": "名",
+      "meaning": "钟，表",
+      "word_id": 17
+    },
+    {
+      "lesson": 2,
+      "kana": "てちょう",
+      "kanji": "手帳",
+      "character": "名",
+      "meaning": "记事本",
+      "word_id": 18
+    },
+    {
+      "lesson": 2,
+      "kana": "しゃしん",
+      "kanji": "写真",
+      "character": "名",
+      "meaning": "照片",
+      "word_id": 19
+    },
+    {
+      "lesson": 2,
+      "kana": "くるま",
+      "kanji": "車",
+      "character": "名",
+      "meaning": "车",
+      "word_id": 20
+    },
+    {
+      "lesson": 2,
+      "kana": "じてんしゃ",
+      "kanji": "自転車",
+      "character": "名",
+      "meaning": "自行车",
+      "word_id": 21
+    },
+    {
+      "lesson": 2,
+      "kana": "おみやげ",
+      "kanji": "お土産",
+      "character": "名",
+      "meaning": "礼物",
+      "word_id": 22
+    },
+    {
+      "lesson": 2,
+      "kana": "めいさんひん",
+      "kanji": "名産品",
+      "character": "名",
+      "meaning": "特产，名产",
+      "word_id": 23
+    },
+    {
+      "lesson": 2,
+      "kana": "シルク",
+      "kanji": "",
+      "character": "名",
+      "meaning": "丝绸",
+      "word_id": 24
+    },
+    {
+      "lesson": 2,
+      "kana": "ハンカチ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "手绢",
+      "word_id": 25
+    },
+    {
+      "lesson": 2,
+      "kana": "かいしゃ",
+      "kanji": "会社",
+      "character": "名",
+      "meaning": "公司",
+      "word_id": 26
+    },
+    {
+      "lesson": 2,
+      "kana": "かた",
+      "kanji": "方",
+      "character": "名",
+      "meaning": "（敬称）位，人",
+      "word_id": 27
+    },
+    {
+      "lesson": 2,
+      "kana": "ひと",
+      "kanji": "人",
+      "character": "名",
+      "meaning": "人",
+      "word_id": 28
+    },
+    {
+      "lesson": 2,
+      "kana": "かぞく",
+      "kanji": "家族",
+      "character": "名",
+      "meaning": "家人，家属",
+      "word_id": 29
+    },
+    {
+      "lesson": 2,
+      "kana": "はは",
+      "kanji": "母",
+      "character": "名",
+      "meaning": "（我）母亲",
+      "word_id": 30
+    },
+    {
+      "lesson": 2,
+      "kana": "おかあさん",
+      "kanji": "お母さん",
+      "character": "名",
+      "meaning": "母亲",
+      "word_id": 31
+    },
+    {
+      "lesson": 2,
+      "kana": "にほんご",
+      "kanji": "日本語",
+      "character": "名",
+      "meaning": "日语",
+      "word_id": 32
+    },
+    {
+      "lesson": 2,
+      "kana": "ちゅうごくご",
+      "kanji": "中国語",
+      "character": "名",
+      "meaning": "汉语，中文",
+      "word_id": 33
+    },
+    {
+      "lesson": 2,
+      "kana": "これ",
+      "kanji": "",
+      "character": "代",
+      "meaning": "这，这个",
+      "word_id": 34
+    },
+    {
+      "lesson": 2,
+      "kana": "それ",
+      "kanji": "",
+      "character": "代",
+      "meaning": "那，那个",
+      "word_id": 35
+    },
+    {
+      "lesson": 2,
+      "kana": "あれ",
+      "kanji": "",
+      "character": "代",
+      "meaning": "那，那个",
+      "word_id": 36
+    },
+    {
+      "lesson": 2,
+      "kana": "どれ",
+      "kanji": "",
+      "character": "疑",
+      "meaning": "哪个",
+      "word_id": 37
+    },
+    {
+      "lesson": 2,
+      "kana": "なん",
+      "kanji": "何",
+      "character": "疑",
+      "meaning": "什么",
+      "word_id": 38
+    },
+    {
+      "lesson": 2,
+      "kana": "だれ",
+      "kanji": "",
+      "character": "疑",
+      "meaning": "谁",
+      "word_id": 39
+    },
+    {
+      "lesson": 2,
+      "kana": "どなた",
+      "kanji": "",
+      "character": "疑",
+      "meaning": "哪位",
+      "word_id": 40
+    },
+    {
+      "lesson": 2,
+      "kana": "この",
+      "kanji": "",
+      "character": "连体",
+      "meaning": "这，这个",
+      "word_id": 41
+    },
+    {
+      "lesson": 2,
+      "kana": "その",
+      "kanji": "",
+      "character": "连体",
+      "meaning": "那，那个",
+      "word_id": 42
+    },
+    {
+      "lesson": 2,
+      "kana": "あの",
+      "kanji": "",
+      "character": "连体",
+      "meaning": "那，那个",
+      "word_id": 43
+    },
+    {
+      "lesson": 2,
+      "kana": "どの",
+      "kanji": "",
+      "character": "连体",
+      "meaning": "哪个",
+      "word_id": 44
+    },
+    {
+      "lesson": 2,
+      "kana": "えっ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "啊",
+      "word_id": 45
+    },
+    {
+      "lesson": 2,
+      "kana": "わあ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "哇",
+      "word_id": 46
+    },
+    {
+      "lesson": 2,
+      "kana": "ええ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "（应答）嗯，是",
+      "word_id": 47
+    },
+    {
+      "lesson": 2,
+      "kana": "ながしま",
+      "kanji": "長島",
+      "character": "专有词",
+      "meaning": "长岛",
+      "word_id": 48
+    },
+    {
+      "lesson": 2,
+      "kana": "にほん",
+      "kanji": "日本",
+      "character": "专有词",
+      "meaning": "日本",
+      "word_id": 49
+    },
+    {
+      "lesson": 2,
+      "kana": "スワトウ",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "汕头",
+      "word_id": 50
+    },
+    {
+      "lesson": 2,
+      "kana": "ロンドン",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "伦敦",
+      "word_id": 51
+    },
+    {
+      "lesson": 2,
+      "kana": "ありがとうございます",
+      "kanji": "",
+      "character": "",
+      "meaning": "谢谢",
+      "word_id": 52
+    },
+    {
+      "lesson": 2,
+      "kana": "おいくつ",
+      "kanji": "",
+      "character": "",
+      "meaning": "多大",
+      "word_id": 53
+    }
+  ]
+}

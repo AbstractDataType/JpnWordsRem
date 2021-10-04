@@ -1,0 +1,420 @@
+{
+  "words": [
+    {
+      "lesson": 10,
+      "kana": "もみじ",
+      "kanji": "紅葉",
+      "character": "名",
+      "meaning": "红叶",
+      "word_id": 0
+    },
+    {
+      "lesson": 10,
+      "kana": "こきょう",
+      "kanji": "故郷",
+      "character": "名",
+      "meaning": "故乡",
+      "word_id": 1
+    },
+    {
+      "lesson": 10,
+      "kana": "とおり",
+      "kanji": "通り",
+      "character": "名",
+      "meaning": "大街",
+      "word_id": 2
+    },
+    {
+      "lesson": 10,
+      "kana": "まち",
+      "kanji": "町",
+      "character": "名",
+      "meaning": "城市，街道",
+      "word_id": 3
+    },
+    {
+      "lesson": 10,
+      "kana": "ところ",
+      "kanji": "所",
+      "character": "名",
+      "meaning": "场所",
+      "word_id": 4
+    },
+    {
+      "lesson": 10,
+      "kana": "おみせ",
+      "kanji": "お店",
+      "character": "名",
+      "meaning": "餐馆；商店",
+      "word_id": 5
+    },
+    {
+      "lesson": 10,
+      "kana": "にんぎょう",
+      "kanji": "人形",
+      "character": "名",
+      "meaning": "玩偶",
+      "word_id": 6
+    },
+    {
+      "lesson": 10,
+      "kana": "さくひん",
+      "kanji": "作品",
+      "character": "名",
+      "meaning": "作品",
+      "word_id": 7
+    },
+    {
+      "lesson": 10,
+      "kana": "ちょうこく",
+      "kanji": "彫刻",
+      "character": "名",
+      "meaning": "雕刻",
+      "word_id": 8
+    },
+    {
+      "lesson": 10,
+      "kana": "じどうしゃ",
+      "kanji": "自動車",
+      "character": "名",
+      "meaning": "汽车",
+      "word_id": 9
+    },
+    {
+      "lesson": 10,
+      "kana": "どうぐ",
+      "kanji": "道具",
+      "character": "名",
+      "meaning": "工具",
+      "word_id": 10
+    },
+    {
+      "lesson": 10,
+      "kana": "さかな",
+      "kanji": "魚",
+      "character": "名",
+      "meaning": "鱼",
+      "word_id": 11
+    },
+    {
+      "lesson": 10,
+      "kana": "おかし",
+      "kanji": "お菓子",
+      "character": "名",
+      "meaning": "点心",
+      "word_id": 12
+    },
+    {
+      "lesson": 10,
+      "kana": "もの",
+      "kanji": "物",
+      "character": "名",
+      "meaning": "物品，东西",
+      "word_id": 13
+    },
+    {
+      "lesson": 10,
+      "kana": "シーズン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "季节",
+      "word_id": 14
+    },
+    {
+      "lesson": 10,
+      "kana": "しゅうがくりょこう",
+      "kanji": "修学旅行",
+      "character": "名",
+      "meaning": "修学旅行",
+      "word_id": 15
+    },
+    {
+      "lesson": 10,
+      "kana": "かんこうきゃく",
+      "kanji": "観光客",
+      "character": "名",
+      "meaning": "游客",
+      "word_id": 16
+    },
+    {
+      "lesson": 10,
+      "kana": "さっか",
+      "kanji": "作家",
+      "character": "名",
+      "meaning": "作家",
+      "word_id": 17
+    },
+    {
+      "lesson": 10,
+      "kana": "ぶちょう",
+      "kanji": "部長",
+      "character": "名",
+      "meaning": "部长",
+      "word_id": 18
+    },
+    {
+      "lesson": 10,
+      "kana": "へいじつ",
+      "kanji": "平日",
+      "character": "名",
+      "meaning": "平日，非休息日",
+      "word_id": 19
+    },
+    {
+      "lesson": 10,
+      "kana": "ひ",
+      "kanji": "日",
+      "character": "名",
+      "meaning": "日子",
+      "word_id": 20
+    },
+    {
+      "lesson": 10,
+      "kana": "せいかつ",
+      "kanji": "生活",
+      "character": "名",
+      "meaning": "生活",
+      "word_id": 21
+    },
+    {
+      "lesson": 10,
+      "kana": "せかい",
+      "kanji": "世界",
+      "character": "名",
+      "meaning": "世界",
+      "word_id": 22
+    },
+    {
+      "lesson": 10,
+      "kana": "はれ",
+      "kanji": "晴れ",
+      "character": "名",
+      "meaning": "晴天",
+      "word_id": 23
+    },
+    {
+      "lesson": 10,
+      "kana": "あめ",
+      "kanji": "雨",
+      "character": "名",
+      "meaning": "雨，下雨",
+      "word_id": 24
+    },
+    {
+      "lesson": 10,
+      "kana": "くもり",
+      "kanji": "曇り",
+      "character": "名",
+      "meaning": "阴天",
+      "word_id": 25
+    },
+    {
+      "lesson": 10,
+      "kana": "ゆき",
+      "kanji": "雪",
+      "character": "名",
+      "meaning": "雪",
+      "word_id": 26
+    },
+    {
+      "lesson": 10,
+      "kana": "きたない",
+      "kanji": "汚い",
+      "character": "形1",
+      "meaning": "脏",
+      "word_id": 27
+    },
+    {
+      "lesson": 10,
+      "kana": "きれい",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "漂亮，干净",
+      "word_id": 28
+    },
+    {
+      "lesson": 10,
+      "kana": "ゆうめい",
+      "kanji": "有名",
+      "character": "形1",
+      "meaning": "有名",
+      "word_id": 29
+    },
+    {
+      "lesson": 10,
+      "kana": "にぎやか",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "热闹，繁华",
+      "word_id": 30
+    },
+    {
+      "lesson": 10,
+      "kana": "しずか",
+      "kanji": "静か",
+      "character": "形2",
+      "meaning": "安静",
+      "word_id": 31
+    },
+    {
+      "lesson": 10,
+      "kana": "ひま",
+      "kanji": "暇",
+      "character": "形2",
+      "meaning": "空闲",
+      "word_id": 32
+    },
+    {
+      "lesson": 10,
+      "kana": "しんせつ",
+      "kanji": "親切",
+      "character": "形2",
+      "meaning": "热情",
+      "word_id": 33
+    },
+    {
+      "lesson": 10,
+      "kana": "すき",
+      "kanji": "好き",
+      "character": "形2",
+      "meaning": "喜欢",
+      "word_id": 34
+    },
+    {
+      "lesson": 10,
+      "kana": "きらい",
+      "kanji": "嫌い",
+      "character": "形2",
+      "meaning": "讨厌",
+      "word_id": 35
+    },
+    {
+      "lesson": 10,
+      "kana": "べんり",
+      "kanji": "便利",
+      "character": "形2",
+      "meaning": "方便",
+      "word_id": 36
+    },
+    {
+      "lesson": 10,
+      "kana": "ふべん",
+      "kanji": "不便",
+      "character": "形2",
+      "meaning": "不方便",
+      "word_id": 37
+    },
+    {
+      "lesson": 10,
+      "kana": "げんき",
+      "kanji": "元気",
+      "character": "形2",
+      "meaning": "健康，有精神",
+      "word_id": 38
+    },
+    {
+      "lesson": 10,
+      "kana": "かんたん",
+      "kanji": "簡単",
+      "character": "形2",
+      "meaning": "简单",
+      "word_id": 39
+    },
+    {
+      "lesson": 10,
+      "kana": "ハンサム",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "英俊，帅气",
+      "word_id": 40
+    },
+    {
+      "lesson": 10,
+      "kana": "どんな",
+      "kanji": "",
+      "character": "疑",
+      "meaning": "什么样的，怎样的",
+      "word_id": 41
+    },
+    {
+      "lesson": 10,
+      "kana": "どう",
+      "kanji": "",
+      "character": "副",
+      "meaning": "怎样，如何",
+      "word_id": 42
+    },
+    {
+      "lesson": 10,
+      "kana": "いかが",
+      "kanji": "",
+      "character": "副",
+      "meaning": "如何",
+      "word_id": 43
+    },
+    {
+      "lesson": 10,
+      "kana": "いろいろ",
+      "kanji": "",
+      "character": "副",
+      "meaning": "各种各样",
+      "word_id": 44
+    },
+    {
+      "lesson": 10,
+      "kana": "でも",
+      "kanji": "",
+      "character": "连",
+      "meaning": "可是，不过",
+      "word_id": 45
+    },
+    {
+      "lesson": 10,
+      "kana": "そして",
+      "kanji": "",
+      "character": "连",
+      "meaning": "而且，于是",
+      "word_id": 46
+    },
+    {
+      "lesson": 10,
+      "kana": "ところで",
+      "kanji": "",
+      "character": "连",
+      "meaning": "（转换话题）哎",
+      "word_id": 47
+    },
+    {
+      "lesson": 10,
+      "kana": "あれえ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "咦",
+      "word_id": 48
+    },
+    {
+      "lesson": 10,
+      "kana": "なら",
+      "kanji": "奈良",
+      "character": "专有词",
+      "meaning": "奈良",
+      "word_id": 49
+    },
+    {
+      "lesson": 10,
+      "kana": "ふじさん",
+      "kanji": "富士山",
+      "character": "专有词",
+      "meaning": "富士山",
+      "word_id": 50
+    },
+    {
+      "lesson": 10,
+      "kana": "もうすこし",
+      "kanji": "もう少し",
+      "character": "",
+      "meaning": "再～一点",
+      "word_id": 51
+    }
+  ]
+}

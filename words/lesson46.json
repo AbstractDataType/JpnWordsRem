@@ -1,0 +1,396 @@
+{
+  "words": [
+    {
+      "lesson": 46,
+      "kana": "けがわ",
+      "kanji": "毛皮",
+      "character": "名",
+      "meaning": "毛皮",
+      "word_id": 0
+    },
+    {
+      "lesson": 46,
+      "kana": "ほんもの",
+      "kanji": "本物",
+      "character": "名",
+      "meaning": "真货，真东西",
+      "word_id": 1
+    },
+    {
+      "lesson": 46,
+      "kana": "がら",
+      "kanji": "柄",
+      "character": "名",
+      "meaning": "花纹，花样",
+      "word_id": 2
+    },
+    {
+      "lesson": 46,
+      "kana": "レモン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "柠檬",
+      "word_id": 3
+    },
+    {
+      "lesson": 46,
+      "kana": "みそしる",
+      "kanji": "みそ汁",
+      "character": "名",
+      "meaning": "酱汤",
+      "word_id": 4
+    },
+    {
+      "lesson": 46,
+      "kana": "おまつり",
+      "kanji": "お祭り",
+      "character": "名",
+      "meaning": "祭日，节日",
+      "word_id": 5
+    },
+    {
+      "lesson": 46,
+      "kana": "オートバイ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "摩托车",
+      "word_id": 6
+    },
+    {
+      "lesson": 46,
+      "kana": "インタビュー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "采访",
+      "word_id": 7
+    },
+    {
+      "lesson": 46,
+      "kana": "プラン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "计划",
+      "word_id": 8
+    },
+    {
+      "lesson": 46,
+      "kana": "ずつう",
+      "kanji": "頭痛",
+      "character": "名",
+      "meaning": "头疼",
+      "word_id": 9
+    },
+    {
+      "lesson": 46,
+      "kana": "さむけ",
+      "kanji": "寒気",
+      "character": "名",
+      "meaning": "寒气，寒战",
+      "word_id": 10
+    },
+    {
+      "lesson": 46,
+      "kana": "はきけ",
+      "kanji": "吐き気",
+      "character": "名",
+      "meaning": "恶心，想要呕吐",
+      "word_id": 11
+    },
+    {
+      "lesson": 46,
+      "kana": "かじ",
+      "kanji": "家事",
+      "character": "名",
+      "meaning": "家务活",
+      "word_id": 12
+    },
+    {
+      "lesson": 46,
+      "kana": "めんせつ",
+      "kanji": "面接",
+      "character": "名",
+      "meaning": "面试",
+      "word_id": 13
+    },
+    {
+      "lesson": 46,
+      "kana": "できごと",
+      "kanji": "出来事",
+      "character": "名",
+      "meaning": "事情，事件",
+      "word_id": 14
+    },
+    {
+      "lesson": 46,
+      "kana": "いけん",
+      "kanji": "意見",
+      "character": "名",
+      "meaning": "意见",
+      "word_id": 15
+    },
+    {
+      "lesson": 46,
+      "kana": "かいせつ",
+      "kanji": "開設",
+      "character": "名",
+      "meaning": "开设",
+      "word_id": 16
+    },
+    {
+      "lesson": 46,
+      "kana": "こうほち",
+      "kanji": "候補地",
+      "character": "名",
+      "meaning": "候选地",
+      "word_id": 17
+    },
+    {
+      "lesson": 46,
+      "kana": "まわり",
+      "kanji": "周り",
+      "character": "名",
+      "meaning": "一带，周围",
+      "word_id": 18
+    },
+    {
+      "lesson": 46,
+      "kana": "あかるさ",
+      "kanji": "明るさ",
+      "character": "名",
+      "meaning": "明朗，快活",
+      "word_id": 19
+    },
+    {
+      "lesson": 46,
+      "kana": "におい",
+      "kanji": "",
+      "character": "名",
+      "meaning": "味道，气味",
+      "word_id": 20
+    },
+    {
+      "lesson": 46,
+      "kana": "せっけん",
+      "kanji": "",
+      "character": "名",
+      "meaning": "肥皂",
+      "word_id": 21
+    },
+    {
+      "lesson": 46,
+      "kana": "こうすい",
+      "kanji": "香水",
+      "character": "名",
+      "meaning": "香水",
+      "word_id": 22
+    },
+    {
+      "lesson": 46,
+      "kana": "ラン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "兰花",
+      "word_id": 23
+    },
+    {
+      "lesson": 46,
+      "kana": "すえ",
+      "kanji": "末",
+      "character": "名",
+      "meaning": "末尾，末了",
+      "word_id": 24
+    },
+    {
+      "lesson": 46,
+      "kana": "はじめ",
+      "kanji": "初め",
+      "character": "名",
+      "meaning": "最初",
+      "word_id": 25
+    },
+    {
+      "lesson": 46,
+      "kana": "はんつき",
+      "kanji": "半月",
+      "character": "名",
+      "meaning": "半月，半个月",
+      "word_id": 26
+    },
+    {
+      "lesson": 46,
+      "kana": "モデル",
+      "kanji": "",
+      "character": "名",
+      "meaning": "模特儿",
+      "word_id": 27
+    },
+    {
+      "lesson": 46,
+      "kana": "けいさつかん",
+      "kanji": "警察官",
+      "character": "名",
+      "meaning": "警察",
+      "word_id": 28
+    },
+    {
+      "lesson": 46,
+      "kana": "おすもうさん",
+      "kanji": "お相撲さん",
+      "character": "名",
+      "meaning": "相扑选手",
+      "word_id": 29
+    },
+    {
+      "lesson": 46,
+      "kana": "かぶきやくしゃ",
+      "kanji": "歌舞伎役者",
+      "character": "名",
+      "meaning": "歌舞伎演员",
+      "word_id": 30
+    },
+    {
+      "lesson": 46,
+      "kana": "すいえいせんしゅ",
+      "kanji": "水泳選手",
+      "character": "名",
+      "meaning": "游泳选手",
+      "word_id": 31
+    },
+    {
+      "lesson": 46,
+      "kana": "すみます",
+      "kanji": "済みます",
+      "character": "动1",
+      "meaning": "结束，完了",
+      "word_id": 32
+    },
+    {
+      "lesson": 46,
+      "kana": "つもります",
+      "kanji": "積もります",
+      "character": "动1",
+      "meaning": "堆积；积攒",
+      "word_id": 33
+    },
+    {
+      "lesson": 46,
+      "kana": "すごします",
+      "kanji": "過ごします",
+      "character": "动1",
+      "meaning": "度过；生活",
+      "word_id": 34
+    },
+    {
+      "lesson": 46,
+      "kana": "ほほえみます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "微笑",
+      "word_id": 35
+    },
+    {
+      "lesson": 46,
+      "kana": "のばします",
+      "kanji": "延ばします",
+      "character": "动1",
+      "meaning": "延长",
+      "word_id": 36
+    },
+    {
+      "lesson": 46,
+      "kana": "すませます",
+      "kanji": "済ませます",
+      "character": "动2",
+      "meaning": "搞完，办完",
+      "word_id": 37
+    },
+    {
+      "lesson": 46,
+      "kana": "かれます",
+      "kanji": "枯れます",
+      "character": "动2",
+      "meaning": "枯萎；干燥",
+      "word_id": 38
+    },
+    {
+      "lesson": 46,
+      "kana": "はっそうします",
+      "kanji": "発送します",
+      "character": "动3",
+      "meaning": "发送，寄送",
+      "word_id": 39
+    },
+    {
+      "lesson": 46,
+      "kana": "きんちょうします",
+      "kanji": "緊張します",
+      "character": "动3",
+      "meaning": "紧张",
+      "word_id": 40
+    },
+    {
+      "lesson": 46,
+      "kana": "さわやか",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "清爽，爽快",
+      "word_id": 41
+    },
+    {
+      "lesson": 46,
+      "kana": "まるで",
+      "kanji": "",
+      "character": "副",
+      "meaning": "好像，就像",
+      "word_id": 42
+    },
+    {
+      "lesson": 46,
+      "kana": "いかにも",
+      "kanji": "",
+      "character": "副",
+      "meaning": "典型的；实在；的确",
+      "word_id": 43
+    },
+    {
+      "lesson": 46,
+      "kana": "ワイタン",
+      "kanji": "外灘",
+      "character": "专有词",
+      "meaning": "外滩",
+      "word_id": 44
+    },
+    {
+      "lesson": 46,
+      "kana": "おきなわ",
+      "kanji": "沖縄",
+      "character": "专有词",
+      "meaning": "冲绳",
+      "word_id": 45
+    },
+    {
+      "lesson": 46,
+      "kana": "ナンキンろ",
+      "kanji": "南京路",
+      "character": "专有词",
+      "meaning": "南京路",
+      "word_id": 46
+    },
+    {
+      "lesson": 46,
+      "kana": "このごろ",
+      "kanji": "",
+      "character": "",
+      "meaning": "最近，近来，最近时期",
+      "word_id": 47
+    },
+    {
+      "lesson": 46,
+      "kana": "じむしょさがし",
+      "kanji": "事務所探し",
+      "character": "",
+      "meaning": "寻找事务所",
+      "word_id": 48
+    }
+  ]
+}

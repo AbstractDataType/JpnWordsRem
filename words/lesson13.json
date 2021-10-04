@@ -1,0 +1,236 @@
+{
+  "words": [
+    {
+      "lesson": 13,
+      "kana": "にもつ",
+      "kanji": "荷物",
+      "character": "名",
+      "meaning": "包裹",
+      "word_id": 0
+    },
+    {
+      "lesson": 13,
+      "kana": "はがき",
+      "kanji": "",
+      "character": "名",
+      "meaning": "明信片",
+      "word_id": 1
+    },
+    {
+      "lesson": 13,
+      "kana": "きって",
+      "kanji": "切手",
+      "character": "名",
+      "meaning": "邮票",
+      "word_id": 2
+    },
+    {
+      "lesson": 13,
+      "kana": "ひきだし",
+      "kanji": "引き出し",
+      "character": "名",
+      "meaning": "抽屉",
+      "word_id": 3
+    },
+    {
+      "lesson": 13,
+      "kana": "アルバム",
+      "kanji": "",
+      "character": "名",
+      "meaning": "相册",
+      "word_id": 4
+    },
+    {
+      "lesson": 13,
+      "kana": "タバコ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "烟，烟草",
+      "word_id": 5
+    },
+    {
+      "lesson": 13,
+      "kana": "まんが",
+      "kanji": "漫画",
+      "character": "名",
+      "meaning": "漫画",
+      "word_id": 6
+    },
+    {
+      "lesson": 13,
+      "kana": "ガレージ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "车库，汽车房",
+      "word_id": 7
+    },
+    {
+      "lesson": 13,
+      "kana": "しゅうり",
+      "kanji": "修理",
+      "character": "名",
+      "meaning": "修理",
+      "word_id": 8
+    },
+    {
+      "lesson": 13,
+      "kana": "いざかや",
+      "kanji": "居酒屋",
+      "character": "名",
+      "meaning": "酒馆",
+      "word_id": 9
+    },
+    {
+      "lesson": 13,
+      "kana": "なまビール",
+      "kanji": "生ビール",
+      "character": "名",
+      "meaning": "生啤",
+      "word_id": 10
+    },
+    {
+      "lesson": 13,
+      "kana": "やきとり",
+      "kanji": "焼き鳥",
+      "character": "名",
+      "meaning": "烤鸡肉串",
+      "word_id": 11
+    },
+    {
+      "lesson": 13,
+      "kana": "からあげ",
+      "kanji": "唐揚げ",
+      "character": "名",
+      "meaning": "炸鸡，油炸食品",
+      "word_id": 12
+    },
+    {
+      "lesson": 13,
+      "kana": "にくじゃが",
+      "kanji": "肉じゃが",
+      "character": "名",
+      "meaning": "土豆炖肉",
+      "word_id": 13
+    },
+    {
+      "lesson": 13,
+      "kana": "ボーリング",
+      "kanji": "",
+      "character": "名",
+      "meaning": "保龄球",
+      "word_id": 14
+    },
+    {
+      "lesson": 13,
+      "kana": "かみ",
+      "kanji": "髪",
+      "character": "名",
+      "meaning": "头发",
+      "word_id": 15
+    },
+    {
+      "lesson": 13,
+      "kana": "ぞう",
+      "kanji": "象",
+      "character": "名",
+      "meaning": "象，大象",
+      "word_id": 16
+    },
+    {
+      "lesson": 13,
+      "kana": "ひる",
+      "kanji": "昼",
+      "character": "名",
+      "meaning": "白天，中午",
+      "word_id": 17
+    },
+    {
+      "lesson": 13,
+      "kana": "ほか",
+      "kanji": "",
+      "character": "名",
+      "meaning": "另外，其他",
+      "word_id": 18
+    },
+    {
+      "lesson": 13,
+      "kana": "かかります",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "花费（时间，金钱）",
+      "word_id": 19
+    },
+    {
+      "lesson": 13,
+      "kana": "さきます",
+      "kanji": "咲きます",
+      "character": "动1",
+      "meaning": "花开",
+      "word_id": 20
+    },
+    {
+      "lesson": 13,
+      "kana": "およぎます",
+      "kanji": "泳ぎます",
+      "character": "动1",
+      "meaning": "游泳",
+      "word_id": 21
+    },
+    {
+      "lesson": 13,
+      "kana": "あそびます",
+      "kanji": "遊びます",
+      "character": "动1",
+      "meaning": "玩，玩耍",
+      "word_id": 22
+    },
+    {
+      "lesson": 13,
+      "kana": "すいます",
+      "kanji": "吸います",
+      "character": "动1",
+      "meaning": "吸（烟）",
+      "word_id": 23
+    },
+    {
+      "lesson": 13,
+      "kana": "きります",
+      "kanji": "切ります",
+      "character": "动1",
+      "meaning": "剪，切，割",
+      "word_id": 24
+    },
+    {
+      "lesson": 13,
+      "kana": "だいたい",
+      "kanji": "",
+      "character": "副",
+      "meaning": "大约，大概，大体",
+      "word_id": 25
+    },
+    {
+      "lesson": 13,
+      "kana": "とりあえず",
+      "kanji": "",
+      "character": "副",
+      "meaning": "暂且",
+      "word_id": 26
+    },
+    {
+      "lesson": 13,
+      "kana": "どのぐらい",
+      "kanji": "",
+      "character": "",
+      "meaning": "多久，多少钱",
+      "word_id": 27
+    },
+    {
+      "lesson": 13,
+      "kana": "どれぐらい",
+      "kanji": "",
+      "character": "",
+      "meaning": "多久，多少钱",
+      "word_id": 28
+    }
+  ]
+}

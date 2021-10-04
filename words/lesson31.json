@@ -1,0 +1,308 @@
+{
+  "words": [
+    {
+      "lesson": 31,
+      "kana": "ボタン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "按钮；纽扣",
+      "word_id": 0
+    },
+    {
+      "lesson": 31,
+      "kana": "ブローチ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "胸针",
+      "word_id": 1
+    },
+    {
+      "lesson": 31,
+      "kana": "カーテン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "窗帘，帘子",
+      "word_id": 2
+    },
+    {
+      "lesson": 31,
+      "kana": "コンクリート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "混凝土，水泥",
+      "word_id": 3
+    },
+    {
+      "lesson": 31,
+      "kana": "プラスチック",
+      "kanji": "",
+      "character": "名",
+      "meaning": "塑胶，塑料",
+      "word_id": 4
+    },
+    {
+      "lesson": 31,
+      "kana": "ひすい",
+      "kanji": "",
+      "character": "名",
+      "meaning": "翡翠",
+      "word_id": 5
+    },
+    {
+      "lesson": 31,
+      "kana": "サービスセンター",
+      "kanji": "",
+      "character": "名",
+      "meaning": "维修服务中心",
+      "word_id": 6
+    },
+    {
+      "lesson": 31,
+      "kana": "かいいん",
+      "kanji": "会員",
+      "character": "名",
+      "meaning": "会员",
+      "word_id": 7
+    },
+    {
+      "lesson": 31,
+      "kana": "とくてん",
+      "kanji": "特典",
+      "character": "名",
+      "meaning": "优惠",
+      "word_id": 8
+    },
+    {
+      "lesson": 31,
+      "kana": "おてあらい",
+      "kanji": "お手洗い",
+      "character": "名",
+      "meaning": "洗手间，厕所",
+      "word_id": 9
+    },
+    {
+      "lesson": 31,
+      "kana": "かいだん",
+      "kanji": "階段",
+      "character": "名",
+      "meaning": "楼梯，台阶",
+      "word_id": 10
+    },
+    {
+      "lesson": 31,
+      "kana": "いこう",
+      "kanji": "以降",
+      "character": "名",
+      "meaning": "以后",
+      "word_id": 11
+    },
+    {
+      "lesson": 31,
+      "kana": "そば",
+      "kanji": "",
+      "character": "名",
+      "meaning": "旁边",
+      "word_id": 12
+    },
+    {
+      "lesson": 31,
+      "kana": "たっきゅうだい",
+      "kanji": "卓球台",
+      "character": "名",
+      "meaning": "乒乓球桌",
+      "word_id": 13
+    },
+    {
+      "lesson": 31,
+      "kana": "サイズ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "大小，尺寸",
+      "word_id": 14
+    },
+    {
+      "lesson": 31,
+      "kana": "にんげん",
+      "kanji": "人間",
+      "character": "名",
+      "meaning": "人，人类",
+      "word_id": 15
+    },
+    {
+      "lesson": 31,
+      "kana": "はくちょう",
+      "kanji": "白鳥",
+      "character": "名",
+      "meaning": "鹅",
+      "word_id": 16
+    },
+    {
+      "lesson": 31,
+      "kana": "でんげん",
+      "kanji": "電源",
+      "character": "名",
+      "meaning": "电源",
+      "word_id": 17
+    },
+    {
+      "lesson": 31,
+      "kana": "スイカ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "西瓜",
+      "word_id": 18
+    },
+    {
+      "lesson": 31,
+      "kana": "おします",
+      "kanji": "押します",
+      "character": "动1",
+      "meaning": "按，推，挤",
+      "word_id": 19
+    },
+    {
+      "lesson": 31,
+      "kana": "つきます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "灯亮，灯开",
+      "word_id": 20
+    },
+    {
+      "lesson": 31,
+      "kana": "さがります",
+      "kanji": "下がります",
+      "character": "动1",
+      "meaning": "下降，降低",
+      "word_id": 21
+    },
+    {
+      "lesson": 31,
+      "kana": "おこります",
+      "kanji": "怒ります",
+      "character": "动1",
+      "meaning": "生气",
+      "word_id": 22
+    },
+    {
+      "lesson": 31,
+      "kana": "まわします",
+      "kanji": "回します",
+      "character": "动1",
+      "meaning": "转，传送，传递",
+      "word_id": 23
+    },
+    {
+      "lesson": 31,
+      "kana": "うごきます",
+      "kanji": "動きます",
+      "character": "动1",
+      "meaning": "运转，转动",
+      "word_id": 24
+    },
+    {
+      "lesson": 31,
+      "kana": "いきます",
+      "kanji": "生きます",
+      "character": "动2",
+      "meaning": "活，生存",
+      "word_id": 25
+    },
+    {
+      "lesson": 31,
+      "kana": "おります",
+      "kanji": "下ります",
+      "character": "动2",
+      "meaning": "下，下来",
+      "word_id": 26
+    },
+    {
+      "lesson": 31,
+      "kana": "フリーズします",
+      "kanji": "",
+      "character": "动3",
+      "meaning": "死机",
+      "word_id": 27
+    },
+    {
+      "lesson": 31,
+      "kana": "こしょうします",
+      "kanji": "故障します",
+      "character": "动3",
+      "meaning": "故障",
+      "word_id": 28
+    },
+    {
+      "lesson": 31,
+      "kana": "うつくしい",
+      "kanji": "美しい",
+      "character": "形1",
+      "meaning": "美丽",
+      "word_id": 29
+    },
+    {
+      "lesson": 31,
+      "kana": "うまい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "高明，好吃，可口",
+      "word_id": 30
+    },
+    {
+      "lesson": 31,
+      "kana": "くわしい",
+      "kanji": "詳しい",
+      "character": "形1",
+      "meaning": "详细",
+      "word_id": 31
+    },
+    {
+      "lesson": 31,
+      "kana": "じゆう",
+      "kanji": "自由",
+      "character": "形2",
+      "meaning": "随便，自由",
+      "word_id": 32
+    },
+    {
+      "lesson": 31,
+      "kana": "ていねい",
+      "kanji": "丁寧",
+      "character": "形2",
+      "meaning": "精心，细心，恭敬",
+      "word_id": 33
+    },
+    {
+      "lesson": 31,
+      "kana": "きちんと",
+      "kanji": "",
+      "character": "副",
+      "meaning": "好好地；正经地",
+      "word_id": 34
+    },
+    {
+      "lesson": 31,
+      "kana": "ただし",
+      "kanji": "",
+      "character": "连",
+      "meaning": "不过，只是",
+      "word_id": 35
+    },
+    {
+      "lesson": 31,
+      "kana": "しかし",
+      "kanji": "",
+      "character": "连",
+      "meaning": "可是，但是",
+      "word_id": 36
+    },
+    {
+      "lesson": 31,
+      "kana": "きもちわるい",
+      "kanji": "気持ち悪い",
+      "character": "",
+      "meaning": "不舒服",
+      "word_id": 37
+    }
+  ]
+}

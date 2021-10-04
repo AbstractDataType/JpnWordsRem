@@ -1,0 +1,228 @@
+{
+  "words": [
+    {
+      "lesson": 22,
+      "kana": "スキーじょう",
+      "kanji": "スキー場",
+      "character": "名",
+      "meaning": "滑雪场",
+      "word_id": 0
+    },
+    {
+      "lesson": 22,
+      "kana": "そうべつかい",
+      "kanji": "送別会",
+      "character": "名",
+      "meaning": "欢送会",
+      "word_id": 1
+    },
+    {
+      "lesson": 22,
+      "kana": "つごう",
+      "kanji": "都合",
+      "character": "名",
+      "meaning": "方便；情况",
+      "word_id": 2
+    },
+    {
+      "lesson": 22,
+      "kana": "よてい",
+      "kanji": "予定",
+      "character": "名",
+      "meaning": "预约",
+      "word_id": 3
+    },
+    {
+      "lesson": 22,
+      "kana": "おもちゃ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "玩具",
+      "word_id": 4
+    },
+    {
+      "lesson": 22,
+      "kana": "かじ",
+      "kanji": "火事",
+      "character": "名",
+      "meaning": "火灾",
+      "word_id": 5
+    },
+    {
+      "lesson": 22,
+      "kana": "きかん",
+      "kanji": "期間",
+      "character": "名",
+      "meaning": "时间，期间",
+      "word_id": 6
+    },
+    {
+      "lesson": 22,
+      "kana": "てんきん",
+      "kanji": "転勤",
+      "character": "名",
+      "meaning": "调动工作",
+      "word_id": 7
+    },
+    {
+      "lesson": 22,
+      "kana": "けいたい",
+      "kanji": "携帯",
+      "character": "名",
+      "meaning": "手机",
+      "word_id": 8
+    },
+    {
+      "lesson": 22,
+      "kana": "バドミントン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "羽毛球",
+      "word_id": 9
+    },
+    {
+      "lesson": 22,
+      "kana": "ラケット",
+      "kanji": "",
+      "character": "名",
+      "meaning": "球拍",
+      "word_id": 10
+    },
+    {
+      "lesson": 22,
+      "kana": "おくさん",
+      "kanji": "奥さん",
+      "character": "名",
+      "meaning": "夫人，（别人的）爱人",
+      "word_id": 11
+    },
+    {
+      "lesson": 22,
+      "kana": "かしゅ",
+      "kanji": "歌手",
+      "character": "名",
+      "meaning": "歌手",
+      "word_id": 12
+    },
+    {
+      "lesson": 22,
+      "kana": "だいとうりょう",
+      "kanji": "大統領",
+      "character": "名",
+      "meaning": "总统",
+      "word_id": 13
+    },
+    {
+      "lesson": 22,
+      "kana": "やります",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "做",
+      "word_id": 14
+    },
+    {
+      "lesson": 22,
+      "kana": "うれしい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "高兴",
+      "word_id": 15
+    },
+    {
+      "lesson": 22,
+      "kana": "ねむい",
+      "kanji": "眠い",
+      "character": "形1",
+      "meaning": "困倦",
+      "word_id": 16
+    },
+    {
+      "lesson": 22,
+      "kana": "おもい",
+      "kanji": "重い",
+      "character": "形1",
+      "meaning": "重，沉重",
+      "word_id": 17
+    },
+    {
+      "lesson": 22,
+      "kana": "きゅう",
+      "kanji": "急",
+      "character": "形2",
+      "meaning": "突然；紧急",
+      "word_id": 18
+    },
+    {
+      "lesson": 22,
+      "kana": "まあまあ",
+      "kanji": "",
+      "character": "副",
+      "meaning": "大致，还算",
+      "word_id": 19
+    },
+    {
+      "lesson": 22,
+      "kana": "ごめん",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "抱歉，请原谅",
+      "word_id": 20
+    },
+    {
+      "lesson": 22,
+      "kana": "ううん",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "不",
+      "word_id": 21
+    },
+    {
+      "lesson": 22,
+      "kana": "いや",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "不",
+      "word_id": 22
+    },
+    {
+      "lesson": 22,
+      "kana": "うん",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "嗯",
+      "word_id": 23
+    },
+    {
+      "lesson": 22,
+      "kana": "しみず",
+      "kanji": "清水",
+      "character": "专有词",
+      "meaning": "清水",
+      "word_id": 24
+    },
+    {
+      "lesson": 22,
+      "kana": "おおた",
+      "kanji": "太田",
+      "character": "专有词",
+      "meaning": "太田",
+      "word_id": 25
+    },
+    {
+      "lesson": 22,
+      "kana": "モーツァルト",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "莫扎特",
+      "word_id": 26
+    },
+    {
+      "lesson": 22,
+      "kana": "ディズニーランド",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "迪斯尼乐园",
+      "word_id": 27
+    }
+  ]
+}

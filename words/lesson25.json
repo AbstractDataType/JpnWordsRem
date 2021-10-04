@@ -1,0 +1,276 @@
+{
+  "words": [
+    {
+      "lesson": 25,
+      "kana": "すうがく",
+      "kanji": "数学",
+      "character": "名",
+      "meaning": "数学",
+      "word_id": 0
+    },
+    {
+      "lesson": 25,
+      "kana": "せんもん",
+      "kanji": "専門",
+      "character": "名",
+      "meaning": "专门",
+      "word_id": 1
+    },
+    {
+      "lesson": 25,
+      "kana": "じょゆう",
+      "kanji": "女優",
+      "character": "名",
+      "meaning": "女演员",
+      "word_id": 2
+    },
+    {
+      "lesson": 25,
+      "kana": "えいぎょうか",
+      "kanji": "営業課",
+      "character": "名",
+      "meaning": "营业科",
+      "word_id": 3
+    },
+    {
+      "lesson": 25,
+      "kana": "しがい",
+      "kanji": "市街",
+      "character": "名",
+      "meaning": "市内，市街，繁华街道",
+      "word_id": 4
+    },
+    {
+      "lesson": 25,
+      "kana": "どうろ",
+      "kanji": "道路",
+      "character": "名",
+      "meaning": "道路，马路",
+      "word_id": 5
+    },
+    {
+      "lesson": 25,
+      "kana": "こうつうりょう",
+      "kanji": "交通量",
+      "character": "名",
+      "meaning": "交通流量，通行量",
+      "word_id": 6
+    },
+    {
+      "lesson": 25,
+      "kana": "くうこう",
+      "kanji": "空港",
+      "character": "名",
+      "meaning": "机场",
+      "word_id": 7
+    },
+    {
+      "lesson": 25,
+      "kana": "こうそくどうろ",
+      "kanji": "高速道路",
+      "character": "名",
+      "meaning": "高速公路",
+      "word_id": 8
+    },
+    {
+      "lesson": 25,
+      "kana": "ぶひんこうじょう",
+      "kanji": "部品工場",
+      "character": "名",
+      "meaning": "零件制造厂",
+      "word_id": 9
+    },
+    {
+      "lesson": 25,
+      "kana": "エレベーター",
+      "kanji": "",
+      "character": "名",
+      "meaning": "电梯",
+      "word_id": 10
+    },
+    {
+      "lesson": 25,
+      "kana": "えほん",
+      "kanji": "絵本",
+      "character": "名",
+      "meaning": "图画书，连环画",
+      "word_id": 11
+    },
+    {
+      "lesson": 25,
+      "kana": "しぜん",
+      "kanji": "自然",
+      "character": "名",
+      "meaning": "大自然",
+      "word_id": 12
+    },
+    {
+      "lesson": 25,
+      "kana": "きゅうりょう",
+      "kanji": "給料",
+      "character": "名",
+      "meaning": "工资",
+      "word_id": 13
+    },
+    {
+      "lesson": 25,
+      "kana": "こんや",
+      "kanji": "今夜",
+      "character": "名",
+      "meaning": "今天晚上",
+      "word_id": 14
+    },
+    {
+      "lesson": 25,
+      "kana": "けが",
+      "kanji": "",
+      "character": "名",
+      "meaning": "伤",
+      "word_id": 15
+    },
+    {
+      "lesson": 25,
+      "kana": "とまります(泊まります)",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "住，过夜，住宿",
+      "word_id": 16
+    },
+    {
+      "lesson": 25,
+      "kana": "むすびます(結びます)",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "连接，系",
+      "word_id": 17
+    },
+    {
+      "lesson": 25,
+      "kana": "とります",
+      "kanji": "取ります",
+      "character": "动1",
+      "meaning": "印，记下",
+      "word_id": 18
+    },
+    {
+      "lesson": 25,
+      "kana": "うまれます",
+      "kanji": "生まれます",
+      "character": "动2",
+      "meaning": "出生，诞生",
+      "word_id": 19
+    },
+    {
+      "lesson": 25,
+      "kana": "とうさんします",
+      "kanji": "倒産します",
+      "character": "动3",
+      "meaning": "倒闭，破产",
+      "word_id": 20
+    },
+    {
+      "lesson": 25,
+      "kana": "じゅうたいします",
+      "kanji": "渋滞します",
+      "character": "动3",
+      "meaning": "堵车，停滞",
+      "word_id": 21
+    },
+    {
+      "lesson": 25,
+      "kana": "チエックします",
+      "kanji": "",
+      "character": "动3",
+      "meaning": "确认",
+      "word_id": 22
+    },
+    {
+      "lesson": 25,
+      "kana": "ゆたか",
+      "kanji": "豊か",
+      "character": "形2",
+      "meaning": "充裕，丰富",
+      "word_id": 23
+    },
+    {
+      "lesson": 25,
+      "kana": "おおきな",
+      "kanji": "大きな",
+      "character": "连体",
+      "meaning": "大的",
+      "word_id": 24
+    },
+    {
+      "lesson": 25,
+      "kana": "ちいさな",
+      "kanji": "小さな",
+      "character": "连体",
+      "meaning": "小的",
+      "word_id": 25
+    },
+    {
+      "lesson": 25,
+      "kana": "べつに",
+      "kanji": "別に",
+      "character": "副",
+      "meaning": "并不",
+      "word_id": 26
+    },
+    {
+      "lesson": 25,
+      "kana": "たい",
+      "kanji": "戴",
+      "character": "专有词",
+      "meaning": "戴",
+      "word_id": 27
+    },
+    {
+      "lesson": 25,
+      "kana": "しゅう",
+      "kanji": "周",
+      "character": "专有词",
+      "meaning": "周",
+      "word_id": 28
+    },
+    {
+      "lesson": 25,
+      "kana": "とう",
+      "kanji": "唐",
+      "character": "专有词",
+      "meaning": "唐",
+      "word_id": 29
+    },
+    {
+      "lesson": 25,
+      "kana": "ちゅうごくこうくう",
+      "kanji": "中国航空",
+      "character": "专有词",
+      "meaning": "中国航空",
+      "word_id": 30
+    },
+    {
+      "lesson": 25,
+      "kana": "てんあんはんてん",
+      "kanji": "天安飯店",
+      "character": "专有词",
+      "meaning": "天安饭店",
+      "word_id": 31
+    },
+    {
+      "lesson": 25,
+      "kana": "さんかんろ",
+      "kanji": "三環路",
+      "character": "专有词",
+      "meaning": "三环路",
+      "word_id": 32
+    },
+    {
+      "lesson": 25,
+      "kana": "このあたり",
+      "kanji": "",
+      "character": "",
+      "meaning": "这一带，这附近",
+      "word_id": 33
+    }
+  ]
+}

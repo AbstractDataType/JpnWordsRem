@@ -1,0 +1,292 @@
+{
+  "words": [
+    {
+      "lesson": 30,
+      "kana": "たくはいびん",
+      "kanji": "宅配便",
+      "character": "名",
+      "meaning": "送货上门服务",
+      "word_id": 0
+    },
+    {
+      "lesson": 30,
+      "kana": "ほうこくしょ",
+      "kanji": "報告書",
+      "character": "名",
+      "meaning": "报告书",
+      "word_id": 1
+    },
+    {
+      "lesson": 30,
+      "kana": "つゆ",
+      "kanji": "梅雨",
+      "character": "名",
+      "meaning": "梅雨",
+      "word_id": 2
+    },
+    {
+      "lesson": 30,
+      "kana": "あき",
+      "kanji": "秋",
+      "character": "名",
+      "meaning": "秋天，秋季",
+      "word_id": 3
+    },
+    {
+      "lesson": 30,
+      "kana": "ピクニック",
+      "kanji": "",
+      "character": "名",
+      "meaning": "郊游",
+      "word_id": 4
+    },
+    {
+      "lesson": 30,
+      "kana": "こうらくち",
+      "kanji": "行楽地",
+      "character": "名",
+      "meaning": "景点，浏览地",
+      "word_id": 5
+    },
+    {
+      "lesson": 30,
+      "kana": "ピザ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "比萨饼",
+      "word_id": 6
+    },
+    {
+      "lesson": 30,
+      "kana": "しゅうでん",
+      "kanji": "終電",
+      "character": "名",
+      "meaning": "末班电车",
+      "word_id": 7
+    },
+    {
+      "lesson": 30,
+      "kana": "まちあいしつ",
+      "kanji": "待合室",
+      "character": "名",
+      "meaning": "候诊室，等候室",
+      "word_id": 8
+    },
+    {
+      "lesson": 30,
+      "kana": "かんじゃ",
+      "kanji": "患者",
+      "character": "名",
+      "meaning": "病人，患者",
+      "word_id": 9
+    },
+    {
+      "lesson": 30,
+      "kana": "はいざら",
+      "kanji": "灰皿",
+      "character": "名",
+      "meaning": "烟灰缸",
+      "word_id": 10
+    },
+    {
+      "lesson": 30,
+      "kana": "すいがら",
+      "kanji": "吸殻",
+      "character": "名",
+      "meaning": "烟头，烟灰，烟蒂",
+      "word_id": 11
+    },
+    {
+      "lesson": 30,
+      "kana": "は",
+      "kanji": "歯",
+      "character": "名",
+      "meaning": "牙齿",
+      "word_id": 12
+    },
+    {
+      "lesson": 30,
+      "kana": "かれ",
+      "kanji": "彼",
+      "character": "代",
+      "meaning": "他",
+      "word_id": 13
+    },
+    {
+      "lesson": 30,
+      "kana": "そろいます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "到齐，齐全",
+      "word_id": 14
+    },
+    {
+      "lesson": 30,
+      "kana": "よります",
+      "kanji": "寄ります",
+      "character": "动1",
+      "meaning": "顺便去；靠近",
+      "word_id": 15
+    },
+    {
+      "lesson": 30,
+      "kana": "ひらきます",
+      "kanji": "開きます",
+      "character": "动1",
+      "meaning": "开，开张",
+      "word_id": 16
+    },
+    {
+      "lesson": 30,
+      "kana": "むかえます",
+      "kanji": "迎えます",
+      "character": "动2",
+      "meaning": "迎接",
+      "word_id": 17
+    },
+    {
+      "lesson": 30,
+      "kana": "ひっこします",
+      "kanji": "引っ越します",
+      "character": "动1",
+      "meaning": "搬迁",
+      "word_id": 18
+    },
+    {
+      "lesson": 30,
+      "kana": "こわれます",
+      "kanji": "壊れます",
+      "character": "动2",
+      "meaning": "出故障，坏",
+      "word_id": 19
+    },
+    {
+      "lesson": 30,
+      "kana": "まちがえます",
+      "kanji": "間違えます",
+      "character": "动2",
+      "meaning": "搞错",
+      "word_id": 20
+    },
+    {
+      "lesson": 30,
+      "kana": "しゅっぱつします",
+      "kanji": "出発します",
+      "character": "动3",
+      "meaning": "出发",
+      "word_id": 21
+    },
+    {
+      "lesson": 30,
+      "kana": "てんしょくします",
+      "kanji": "転職します",
+      "character": "动3",
+      "meaning": "换工作",
+      "word_id": 22
+    },
+    {
+      "lesson": 30,
+      "kana": "パンクします",
+      "kanji": "",
+      "character": "动3",
+      "meaning": "轮胎爆裂，撑破",
+      "word_id": 23
+    },
+    {
+      "lesson": 30,
+      "kana": "さびしい",
+      "kanji": "寂しい",
+      "character": "形1",
+      "meaning": "寂寞",
+      "word_id": 24
+    },
+    {
+      "lesson": 30,
+      "kana": "たのしみ",
+      "kanji": "楽しみ",
+      "character": "形2",
+      "meaning": "愉快，期待",
+      "word_id": 25
+    },
+    {
+      "lesson": 30,
+      "kana": "とくべつ",
+      "kanji": "特別",
+      "character": "形2",
+      "meaning": "特别",
+      "word_id": 26
+    },
+    {
+      "lesson": 30,
+      "kana": "それでは",
+      "kanji": "",
+      "character": "连",
+      "meaning": "那么",
+      "word_id": 27
+    },
+    {
+      "lesson": 30,
+      "kana": "それじゃ",
+      "kanji": "",
+      "character": "连",
+      "meaning": "那么",
+      "word_id": 28
+    },
+    {
+      "lesson": 30,
+      "kana": "そうか",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "是吗",
+      "word_id": 29
+    },
+    {
+      "lesson": 30,
+      "kana": "まあ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "嗯，嘿，哎哟",
+      "word_id": 30
+    },
+    {
+      "lesson": 30,
+      "kana": "パク",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "朴",
+      "word_id": 31
+    },
+    {
+      "lesson": 30,
+      "kana": "ちょうこうくだり",
+      "kanji": "長江下り",
+      "character": "专有词",
+      "meaning": "坐船浏览长江两岸风光",
+      "word_id": 32
+    },
+    {
+      "lesson": 30,
+      "kana": "こうざん",
+      "kanji": "香山",
+      "character": "专有词",
+      "meaning": "香山",
+      "word_id": 33
+    },
+    {
+      "lesson": 30,
+      "kana": "ペキンしょくぶつえん",
+      "kanji": "北京植物園",
+      "character": "专有词",
+      "meaning": "北京植物园",
+      "word_id": 34
+    },
+    {
+      "lesson": 30,
+      "kana": "しかたない",
+      "kanji": "仕方ない",
+      "character": "",
+      "meaning": "没有办法",
+      "word_id": 35
+    }
+  ]
+}

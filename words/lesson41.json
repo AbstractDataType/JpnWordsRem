@@ -1,0 +1,556 @@
+{
+  "words": [
+    {
+      "lesson": 41,
+      "kana": "ことり",
+      "kanji": "小鳥",
+      "character": "名",
+      "meaning": "小鸟，鸟儿",
+      "word_id": 0
+    },
+    {
+      "lesson": 41,
+      "kana": "ばんぱく",
+      "kanji": "万博",
+      "character": "名",
+      "meaning": "世博会，万国博览会",
+      "word_id": 1
+    },
+    {
+      "lesson": 41,
+      "kana": "いせき",
+      "kanji": "遺跡",
+      "character": "名",
+      "meaning": "遗址，遗迹",
+      "word_id": 2
+    },
+    {
+      "lesson": 41,
+      "kana": "じょうし",
+      "kanji": "上司",
+      "character": "名",
+      "meaning": "上司",
+      "word_id": 3
+    },
+    {
+      "lesson": 41,
+      "kana": "すり",
+      "kanji": "",
+      "character": "名",
+      "meaning": "扒手，小偷",
+      "word_id": 4
+    },
+    {
+      "lesson": 41,
+      "kana": "せだい",
+      "kanji": "世代",
+      "character": "名",
+      "meaning": "世代；一代",
+      "word_id": 5
+    },
+    {
+      "lesson": 41,
+      "kana": "しじょう",
+      "kanji": "市場",
+      "character": "名",
+      "meaning": "市场",
+      "word_id": 6
+    },
+    {
+      "lesson": 41,
+      "kana": "ちょうさ",
+      "kanji": "調査",
+      "character": "名",
+      "meaning": "调查",
+      "word_id": 7
+    },
+    {
+      "lesson": 41,
+      "kana": "しゅっか",
+      "kanji": "出荷",
+      "character": "名",
+      "meaning": "上市，运出货物",
+      "word_id": 8
+    },
+    {
+      "lesson": 41,
+      "kana": "せいちょう",
+      "kanji": "成長",
+      "character": "名",
+      "meaning": "成长",
+      "word_id": 9
+    },
+    {
+      "lesson": 41,
+      "kana": "あらし",
+      "kanji": "嵐",
+      "character": "名",
+      "meaning": "暴风雨，风暴",
+      "word_id": 10
+    },
+    {
+      "lesson": 41,
+      "kana": "ダイナマイト",
+      "kanji": "",
+      "character": "名",
+      "meaning": "炸药",
+      "word_id": 11
+    },
+    {
+      "lesson": 41,
+      "kana": "ネーミング",
+      "kanji": "",
+      "character": "名",
+      "meaning": "名称，命名，取名",
+      "word_id": 12
+    },
+    {
+      "lesson": 41,
+      "kana": "コストグウン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "降低成本",
+      "word_id": 13
+    },
+    {
+      "lesson": 41,
+      "kana": "ていかかく",
+      "kanji": "低価格",
+      "character": "名",
+      "meaning": "低价（格）",
+      "word_id": 14
+    },
+    {
+      "lesson": 41,
+      "kana": "ぎゅうにく",
+      "kanji": "牛肉",
+      "character": "名",
+      "meaning": "牛肉",
+      "word_id": 15
+    },
+    {
+      "lesson": 41,
+      "kana": "いっさくねん",
+      "kanji": "一昨年",
+      "character": "名",
+      "meaning": "前年",
+      "word_id": 16
+    },
+    {
+      "lesson": 41,
+      "kana": "おととし",
+      "kanji": "",
+      "character": "名",
+      "meaning": "前年",
+      "word_id": 17
+    },
+    {
+      "lesson": 41,
+      "kana": "さくねん",
+      "kanji": "昨年",
+      "character": "名",
+      "meaning": "去年",
+      "word_id": 18
+    },
+    {
+      "lesson": 41,
+      "kana": "こんご",
+      "kanji": "今後",
+      "character": "名",
+      "meaning": "今后",
+      "word_id": 19
+    },
+    {
+      "lesson": 41,
+      "kana": "すべて",
+      "kanji": "",
+      "character": "名",
+      "meaning": "全部，所有",
+      "word_id": 20
+    },
+    {
+      "lesson": 41,
+      "kana": "びしょぬれ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "落汤鸡，湿透，濡湿",
+      "word_id": 21
+    },
+    {
+      "lesson": 41,
+      "kana": "みりょく",
+      "kanji": "魅力",
+      "character": "名",
+      "meaning": "吸引力，魅力",
+      "word_id": 22
+    },
+    {
+      "lesson": 41,
+      "kana": "おしょくじけん",
+      "kanji": "汚職事件",
+      "character": "名",
+      "meaning": "贪污事件",
+      "word_id": 23
+    },
+    {
+      "lesson": 41,
+      "kana": "しじょうちょうさ",
+      "kanji": "市場調査",
+      "character": "名",
+      "meaning": "市场调查",
+      "word_id": 24
+    },
+    {
+      "lesson": 41,
+      "kana": "こうつうじじょう",
+      "kanji": "交通事情",
+      "character": "名",
+      "meaning": "交通状况",
+      "word_id": 25
+    },
+    {
+      "lesson": 41,
+      "kana": "ごうべんがいしゃ",
+      "kanji": "合弁会社",
+      "character": "名",
+      "meaning": "合资公司",
+      "word_id": 26
+    },
+    {
+      "lesson": 41,
+      "kana": "しかります",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "训，责备，斥责",
+      "word_id": 27
+    },
+    {
+      "lesson": 41,
+      "kana": "かみます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "咬，嚼",
+      "word_id": 28
+    },
+    {
+      "lesson": 41,
+      "kana": "さそいます",
+      "kanji": "誘います",
+      "character": "动1",
+      "meaning": "邀请，约请",
+      "word_id": 29
+    },
+    {
+      "lesson": 41,
+      "kana": "まきこみます",
+      "kanji": "巻き込みます",
+      "character": "动1",
+      "meaning": "卷入，卷进",
+      "word_id": 30
+    },
+    {
+      "lesson": 41,
+      "kana": "いたります",
+      "kanji": "至ります",
+      "character": "动1",
+      "meaning": "到达，达到",
+      "word_id": 31
+    },
+    {
+      "lesson": 41,
+      "kana": "みつかります",
+      "kanji": "見つかります",
+      "character": "动1",
+      "meaning": "找到，发现",
+      "word_id": 32
+    },
+    {
+      "lesson": 41,
+      "kana": "ふみます",
+      "kanji": "踏みます",
+      "character": "动1",
+      "meaning": "踩，踏",
+      "word_id": 33
+    },
+    {
+      "lesson": 41,
+      "kana": "はかります",
+      "kanji": "図ります",
+      "character": "动1",
+      "meaning": "谋求；考虑",
+      "word_id": 34
+    },
+    {
+      "lesson": 41,
+      "kana": "みこみます",
+      "kanji": "見込みます",
+      "character": "动1",
+      "meaning": "预料，估计",
+      "word_id": 35
+    },
+    {
+      "lesson": 41,
+      "kana": "ぬすみます",
+      "kanji": "盗みます",
+      "character": "动1",
+      "meaning": "盗取，偷盗",
+      "word_id": 36
+    },
+    {
+      "lesson": 41,
+      "kana": "おこします",
+      "kanji": "起こします",
+      "character": "动1",
+      "meaning": "叫醒，唤醒",
+      "word_id": 37
+    },
+    {
+      "lesson": 41,
+      "kana": "ほめます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "表扬，赞扬",
+      "word_id": 38
+    },
+    {
+      "lesson": 41,
+      "kana": "もとめます",
+      "kanji": "求めます",
+      "character": "动2",
+      "meaning": "要求；追求；寻求",
+      "word_id": 39
+    },
+    {
+      "lesson": 41,
+      "kana": "いじめます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "欺负，折磨，欺侮",
+      "word_id": 40
+    },
+    {
+      "lesson": 41,
+      "kana": "ぶつけます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "碰上，撞上；扔，投，掷",
+      "word_id": 41
+    },
+    {
+      "lesson": 41,
+      "kana": "はっけんします",
+      "kanji": "発見します",
+      "character": "动3",
+      "meaning": "发现",
+      "word_id": 42
+    },
+    {
+      "lesson": 41,
+      "kana": "じしょくします",
+      "kanji": "辞職します",
+      "character": "动3",
+      "meaning": "辞职",
+      "word_id": 43
+    },
+    {
+      "lesson": 41,
+      "kana": "そうりつします",
+      "kanji": "創立します",
+      "character": "动3",
+      "meaning": "成立，创立",
+      "word_id": 44
+    },
+    {
+      "lesson": 41,
+      "kana": "いらいします",
+      "kanji": "依頼します",
+      "character": "动3",
+      "meaning": "委托，请求",
+      "word_id": 45
+    },
+    {
+      "lesson": 41,
+      "kana": "はつばいします",
+      "kanji": "発売します",
+      "character": "动3",
+      "meaning": "上市，发售，出售",
+      "word_id": 46
+    },
+    {
+      "lesson": 41,
+      "kana": "かいはつします",
+      "kanji": "開発します",
+      "character": "动3",
+      "meaning": "开发",
+      "word_id": 47
+    },
+    {
+      "lesson": 41,
+      "kana": "せいぞうします",
+      "kanji": "製造します",
+      "character": "动3",
+      "meaning": "生产，制造",
+      "word_id": 48
+    },
+    {
+      "lesson": 41,
+      "kana": "かんりします",
+      "kanji": "管理します",
+      "character": "动3",
+      "meaning": "管理",
+      "word_id": 49
+    },
+    {
+      "lesson": 41,
+      "kana": "じつげんします",
+      "kanji": "実現します",
+      "character": "动3",
+      "meaning": "实现",
+      "word_id": 50
+    },
+    {
+      "lesson": 41,
+      "kana": "せんれんします",
+      "kanji": "洗練します",
+      "character": "动3",
+      "meaning": "精炼，洗练",
+      "word_id": 51
+    },
+    {
+      "lesson": 41,
+      "kana": "ほうそうします",
+      "kanji": "放送します",
+      "character": "动3",
+      "meaning": "广播，播送",
+      "word_id": 52
+    },
+    {
+      "lesson": 41,
+      "kana": "せいさんします",
+      "kanji": "生産します",
+      "character": "动3",
+      "meaning": "生产",
+      "word_id": 53
+    },
+    {
+      "lesson": 41,
+      "kana": "ほんやくします",
+      "kanji": "翻訳します",
+      "character": "动3",
+      "meaning": "翻译，笔译",
+      "word_id": 54
+    },
+    {
+      "lesson": 41,
+      "kana": "はつめいします",
+      "kanji": "発明します",
+      "character": "动3",
+      "meaning": "发明",
+      "word_id": 55
+    },
+    {
+      "lesson": 41,
+      "kana": "はばひろい",
+      "kanji": "幅広い",
+      "character": "形1",
+      "meaning": "广泛，宽广，辽阔",
+      "word_id": 56
+    },
+    {
+      "lesson": 41,
+      "kana": "おおはば",
+      "kanji": "大幅",
+      "character": "形2",
+      "meaning": "大幅（度），广泛",
+      "word_id": 57
+    },
+    {
+      "lesson": 41,
+      "kana": "たいりょう",
+      "kanji": "大量",
+      "character": "形2",
+      "meaning": "大量",
+      "word_id": 58
+    },
+    {
+      "lesson": 41,
+      "kana": "もっとも",
+      "kanji": "最も",
+      "character": "副",
+      "meaning": "最",
+      "word_id": 59
+    },
+    {
+      "lesson": 41,
+      "kana": "いやあ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "哎呀",
+      "word_id": 60
+    },
+    {
+      "lesson": 41,
+      "kana": "ニュートン",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "牛顿",
+      "word_id": 61
+    },
+    {
+      "lesson": 41,
+      "kana": "ノーベル",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "诺贝尔",
+      "word_id": 62
+    },
+    {
+      "lesson": 41,
+      "kana": "オーストラリア",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "澳大利亚",
+      "word_id": 63
+    },
+    {
+      "lesson": 41,
+      "kana": "シーエスコンス",
+      "kanji": "CS公司",
+      "character": "专有词",
+      "meaning": "CS公司",
+      "word_id": 64
+    },
+    {
+      "lesson": 41,
+      "kana": "チンタオビール",
+      "kanji": "青岛ビール",
+      "character": "专有词",
+      "meaning": "青岛啤酒",
+      "word_id": 65
+    },
+    {
+      "lesson": 41,
+      "kana": "あキューせいでん",
+      "kanji": "阿Q正伝",
+      "character": "专有词",
+      "meaning": "阿Q正传",
+      "word_id": 66
+    },
+    {
+      "lesson": 41,
+      "kana": "まいりました",
+      "kanji": "参りました",
+      "character": "",
+      "meaning": "真糟糕，真倒霉",
+      "word_id": 67
+    },
+    {
+      "lesson": 41,
+      "kana": "ばんゆういんりょくのほうそく",
+      "kanji": "万有引力の法則",
+      "character": "",
+      "meaning": "万有引力定律",
+      "word_id": 68
+    }
+  ]
+}

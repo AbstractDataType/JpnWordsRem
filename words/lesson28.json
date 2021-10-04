@@ -1,0 +1,284 @@
+{
+  "words": [
+    {
+      "lesson": 28,
+      "kana": "マフラー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "围巾",
+      "word_id": 0
+    },
+    {
+      "lesson": 28,
+      "kana": "ネックレス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "项链",
+      "word_id": 1
+    },
+    {
+      "lesson": 28,
+      "kana": "かぐ",
+      "kanji": "家具",
+      "character": "名",
+      "meaning": "家具",
+      "word_id": 2
+    },
+    {
+      "lesson": 28,
+      "kana": "ぶんしょう",
+      "kanji": "文章",
+      "character": "名",
+      "meaning": "文章",
+      "word_id": 3
+    },
+    {
+      "lesson": 28,
+      "kana": "いみ",
+      "kanji": "意味",
+      "character": "名",
+      "meaning": "意思",
+      "word_id": 4
+    },
+    {
+      "lesson": 28,
+      "kana": "ふんいき",
+      "kanji": "雰囲気",
+      "character": "名",
+      "meaning": "气氛",
+      "word_id": 5
+    },
+    {
+      "lesson": 28,
+      "kana": "はつおん",
+      "kanji": "発音",
+      "character": "名",
+      "meaning": "发音",
+      "word_id": 6
+    },
+    {
+      "lesson": 28,
+      "kana": "ふどうさんや",
+      "kanji": "不動産屋",
+      "character": "名",
+      "meaning": "房产公司",
+      "word_id": 7
+    },
+    {
+      "lesson": 28,
+      "kana": "いんしょくてん",
+      "kanji": "飲食店",
+      "character": "名",
+      "meaning": "饮食店",
+      "word_id": 8
+    },
+    {
+      "lesson": 28,
+      "kana": "たいしかん",
+      "kanji": "大使館",
+      "character": "名",
+      "meaning": "大使馆",
+      "word_id": 9
+    },
+    {
+      "lesson": 28,
+      "kana": "しんきょ",
+      "kanji": "新居",
+      "character": "名",
+      "meaning": "新居",
+      "word_id": 10
+    },
+    {
+      "lesson": 28,
+      "kana": "ひっこし",
+      "kanji": "引っ越し",
+      "character": "名",
+      "meaning": "搬家",
+      "word_id": 11
+    },
+    {
+      "lesson": 28,
+      "kana": "きんじょ",
+      "kanji": "近所",
+      "character": "名",
+      "meaning": "附近",
+      "word_id": 12
+    },
+    {
+      "lesson": 28,
+      "kana": "まご",
+      "kanji": "孫",
+      "character": "名",
+      "meaning": "孙子，孙女",
+      "word_id": 13
+    },
+    {
+      "lesson": 28,
+      "kana": "かかり",
+      "kanji": "係",
+      "character": "名",
+      "meaning": "工作人员，主管人员",
+      "word_id": 14
+    },
+    {
+      "lesson": 28,
+      "kana": "ししゃちょう",
+      "kanji": "支社長",
+      "character": "名",
+      "meaning": "分公司经理",
+      "word_id": 15
+    },
+    {
+      "lesson": 28,
+      "kana": "しゅうしょく",
+      "kanji": "就職",
+      "character": "名",
+      "meaning": "就业",
+      "word_id": 16
+    },
+    {
+      "lesson": 28,
+      "kana": "インターネット",
+      "kanji": "",
+      "character": "名",
+      "meaning": "互联网",
+      "word_id": 17
+    },
+    {
+      "lesson": 28,
+      "kana": "ひろいます",
+      "kanji": "拾います",
+      "character": "动1",
+      "meaning": "捡，拾",
+      "word_id": 18
+    },
+    {
+      "lesson": 28,
+      "kana": "やくします",
+      "kanji": "訳します",
+      "character": "动1",
+      "meaning": "翻译",
+      "word_id": 19
+    },
+    {
+      "lesson": 28,
+      "kana": "くれます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "给",
+      "word_id": 20
+    },
+    {
+      "lesson": 28,
+      "kana": "とどけます",
+      "kanji": "届けます",
+      "character": "动2",
+      "meaning": "送到，送去",
+      "word_id": 21
+    },
+    {
+      "lesson": 28,
+      "kana": "あんないします",
+      "kanji": "案内します",
+      "character": "动3",
+      "meaning": "向导，导游",
+      "word_id": 22
+    },
+    {
+      "lesson": 28,
+      "kana": "こうかんします",
+      "kanji": "交換します",
+      "character": "动3",
+      "meaning": "换，交换",
+      "word_id": 23
+    },
+    {
+      "lesson": 28,
+      "kana": "しょうかいします",
+      "kanji": "紹介します",
+      "character": "动3",
+      "meaning": "介绍",
+      "word_id": 24
+    },
+    {
+      "lesson": 28,
+      "kana": "すてき",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "漂亮，极好",
+      "word_id": 25
+    },
+    {
+      "lesson": 28,
+      "kana": "とくい",
+      "kanji": "得意",
+      "character": "形2",
+      "meaning": "擅长",
+      "word_id": 26
+    },
+    {
+      "lesson": 28,
+      "kana": "しんせん",
+      "kanji": "新鮮",
+      "character": "形2",
+      "meaning": "新鲜",
+      "word_id": 27
+    },
+    {
+      "lesson": 28,
+      "kana": "うまく",
+      "kanji": "",
+      "character": "副",
+      "meaning": "高明地，很好地",
+      "word_id": 28
+    },
+    {
+      "lesson": 28,
+      "kana": "それに",
+      "kanji": "",
+      "character": "连",
+      "meaning": "而且",
+      "word_id": 29
+    },
+    {
+      "lesson": 28,
+      "kana": "なかた",
+      "kanji": "中田",
+      "character": "专有词",
+      "meaning": "中田",
+      "word_id": 30
+    },
+    {
+      "lesson": 28,
+      "kana": "こくぼう",
+      "kanji": "国貿",
+      "character": "专有词",
+      "meaning": "国贸",
+      "word_id": 31
+    },
+    {
+      "lesson": 28,
+      "kana": "どういたしまして",
+      "kanji": "",
+      "character": "",
+      "meaning": "没关系",
+      "word_id": 32
+    },
+    {
+      "lesson": 28,
+      "kana": "どのへん",
+      "kanji": "どの辺",
+      "character": "",
+      "meaning": "哪儿",
+      "word_id": 33
+    },
+    {
+      "lesson": 28,
+      "kana": "さき",
+      "kanji": "",
+      "character": "",
+      "meaning": "(先)之前",
+      "word_id": 34
+    }
+  ]
+}

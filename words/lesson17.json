@@ -1,0 +1,244 @@
+{
+  "words": [
+    {
+      "lesson": 17,
+      "kana": "ようふく",
+      "kanji": "洋服",
+      "character": "名",
+      "meaning": "西服",
+      "word_id": 0
+    },
+    {
+      "lesson": 17,
+      "kana": "セーター",
+      "kanji": "",
+      "character": "名",
+      "meaning": "毛衣",
+      "word_id": 1
+    },
+    {
+      "lesson": 17,
+      "kana": "ノートパソコン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "笔记本电脑",
+      "word_id": 2
+    },
+    {
+      "lesson": 17,
+      "kana": "バイク",
+      "kanji": "",
+      "character": "名",
+      "meaning": "摩托车",
+      "word_id": 3
+    },
+    {
+      "lesson": 17,
+      "kana": "おしるこ",
+      "kanji": "お汁粉",
+      "character": "名",
+      "meaning": "年糕小豆汤",
+      "word_id": 4
+    },
+    {
+      "lesson": 17,
+      "kana": "てんぷら",
+      "kanji": "天ぷら",
+      "character": "名",
+      "meaning": "天麸罗",
+      "word_id": 5
+    },
+    {
+      "lesson": 17,
+      "kana": "はつもうで",
+      "kanji": "初詣",
+      "character": "名",
+      "meaning": "新年后首次参拜",
+      "word_id": 6
+    },
+    {
+      "lesson": 17,
+      "kana": "けんこう",
+      "kanji": "健康",
+      "character": "名",
+      "meaning": "健康",
+      "word_id": 7
+    },
+    {
+      "lesson": 17,
+      "kana": "れんあい",
+      "kanji": "恋愛",
+      "character": "名",
+      "meaning": "恋爱",
+      "word_id": 8
+    },
+    {
+      "lesson": 17,
+      "kana": "ドラマ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "连续剧",
+      "word_id": 9
+    },
+    {
+      "lesson": 17,
+      "kana": "あいて",
+      "kanji": "相手",
+      "character": "名",
+      "meaning": "对象，对方",
+      "word_id": 10
+    },
+    {
+      "lesson": 17,
+      "kana": "こいびと",
+      "kanji": "恋人",
+      "character": "名",
+      "meaning": "恋人",
+      "word_id": 11
+    },
+    {
+      "lesson": 17,
+      "kana": "せんぱい",
+      "kanji": "先輩",
+      "character": "名",
+      "meaning": "前辈",
+      "word_id": 12
+    },
+    {
+      "lesson": 17,
+      "kana": "だんせい",
+      "kanji": "男性",
+      "character": "名",
+      "meaning": "男性",
+      "word_id": 13
+    },
+    {
+      "lesson": 17,
+      "kana": "がいこくじん",
+      "kanji": "外国人",
+      "character": "名",
+      "meaning": "外国人",
+      "word_id": 14
+    },
+    {
+      "lesson": 17,
+      "kana": "なつ",
+      "kanji": "夏",
+      "character": "名",
+      "meaning": "夏天",
+      "word_id": 15
+    },
+    {
+      "lesson": 17,
+      "kana": "はじめます",
+      "kanji": "始めます",
+      "character": "动2",
+      "meaning": "开始",
+      "word_id": 16
+    },
+    {
+      "lesson": 17,
+      "kana": "れんらくしあす",
+      "kanji": "連絡しあす",
+      "character": "动3",
+      "meaning": "联系",
+      "word_id": 17
+    },
+    {
+      "lesson": 17,
+      "kana": "ほしい",
+      "kanji": "欲しい",
+      "character": "形1",
+      "meaning": "想要",
+      "word_id": 18
+    },
+    {
+      "lesson": 17,
+      "kana": "りっぱ",
+      "kanji": "立派",
+      "character": "形1",
+      "meaning": "美观，杰出",
+      "word_id": 19
+    },
+    {
+      "lesson": 17,
+      "kana": "こんど",
+      "kanji": "今度",
+      "character": "副",
+      "meaning": "下次；这回",
+      "word_id": 20
+    },
+    {
+      "lesson": 17,
+      "kana": "ぜひ",
+      "kanji": "",
+      "character": "副",
+      "meaning": "一定",
+      "word_id": 21
+    },
+    {
+      "lesson": 17,
+      "kana": "そろそろ",
+      "kanji": "",
+      "character": "副",
+      "meaning": "快要",
+      "word_id": 22
+    },
+    {
+      "lesson": 17,
+      "kana": "まず",
+      "kanji": "",
+      "character": "副",
+      "meaning": "先，首先",
+      "word_id": 23
+    },
+    {
+      "lesson": 17,
+      "kana": "ベートーベン",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "贝多芬",
+      "word_id": 24
+    },
+    {
+      "lesson": 17,
+      "kana": "ショパン",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "肖邦",
+      "word_id": 25
+    },
+    {
+      "lesson": 17,
+      "kana": "こきゅう",
+      "kanji": "故宮",
+      "character": "专有词",
+      "meaning": "故宫",
+      "word_id": 26
+    },
+    {
+      "lesson": 17,
+      "kana": "ヨーロッパ",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "欧洲",
+      "word_id": 27
+    },
+    {
+      "lesson": 17,
+      "kana": "ホンコン",
+      "kanji": "香港",
+      "character": "专有词",
+      "meaning": "香港",
+      "word_id": 28
+    },
+    {
+      "lesson": 17,
+      "kana": "スイス",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "瑞士",
+      "word_id": 29
+    }
+  ]
+}
