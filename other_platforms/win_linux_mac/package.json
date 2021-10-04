@@ -4,7 +4,10 @@
   "description": "A tool to help remember Japanere words.",
   "main": "main.js",
   "scripts": {
-    "package": "electron-packager ./ JpnWordsRem --all --out ./OutApp --electron-version 15.0.0 --overwrite --icon=./icons/256.ico"
+    "package-all": "electron-packager ./ JpnWordsRem --all --out ./OutApp --electron-version 15.0.0 --overwrite --icon=./icons/256.ico",
+    "package-win": "electron-packager ./ JpnWordsRem --paltform=win32 --out ./OutApp --electron-version 15.0.0 --overwrite --icon=./icons/256.ico",
+    "package-mac": "electron-packager ./ JpnWordsRem --paltform=darwin --out ./OutApp --electron-version 15.0.0 --overwrite --icon=./icons/256.ico",
+    "package-linux": "electron-packager ./ JpnWordsRem --paltform=linux --out ./OutApp --electron-version 15.0.0 --overwrite --icon=./icons/256.ico"
   },
   "author": "abstractData",
   "license": "Apache-2.0",
