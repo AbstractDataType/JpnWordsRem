@@ -139,7 +139,7 @@
 
 - **mac的软件，这里所说的根目录位于"压缩包/NihonngoWordsRem-darwin-xxx/NihonngoWordsRem.app/Contents/Resources/app/"。**
   
-- **安卓apk文件有签名不能修改，只能自己重新打包。上述win/mac/linux/android的打包方法在 "other_platforms/android/" 与 "JpnWordsRem/other_platforms/win_linux_mac/" 中**
+- **安卓apk文件有签名不能修改，只能自己重新打包。上述win/mac/linux/android的打包方法在 "other_platforms/android/" 与 "other_platforms/win_linux_mac/" 中**
 
 根目录应该是如下结构：
 
