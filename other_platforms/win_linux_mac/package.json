@@ -1,0 +1,12 @@
+{
+  "name": "jpnwordsrem",
+  "version": "1.0.0",
+  "description": "A tool to help remember Japanere words.",
+  "main": "main.js",
+  "scripts": {
+    "package": "electron-packager ./ JpnWordsRem --all --out ./OutApp --electron-version 15.0.0 --overwrite --icon=./icons/256.ico"
+  },
+  "author": "abstractData",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
