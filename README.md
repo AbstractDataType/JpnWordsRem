@@ -203,8 +203,13 @@
 
 
 --- 
-##Reference
-[adminLTE]https://github.com/ColorlibHQ/AdminLTE
+## Thanks
+
+[adminLTE](https://github.com/ColorlibHQ/AdminLTE)
+<br>
+<br> 
+<br>    
 
 
-## enjoy!
+
+# Enjoy!
