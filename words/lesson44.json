@@ -1,0 +1,516 @@
+{
+  "words": [
+    {
+      "lesson": 44,
+      "kana": "しゃいんりょこう",
+      "kanji": "社員旅行",
+      "character": "名",
+      "meaning": "全社旅行",
+      "word_id": 0
+    },
+    {
+      "lesson": 44,
+      "kana": "しんにゅうしゃいん",
+      "kanji": "新入社員",
+      "character": "名",
+      "meaning": "新来的职员",
+      "word_id": 1
+    },
+    {
+      "lesson": 44,
+      "kana": "かいぎじょう",
+      "kanji": "会議場",
+      "character": "名",
+      "meaning": "会场",
+      "word_id": 2
+    },
+    {
+      "lesson": 44,
+      "kana": "こくさいかいぎ",
+      "kanji": "国際会議",
+      "character": "名",
+      "meaning": "国际会议",
+      "word_id": 3
+    },
+    {
+      "lesson": 44,
+      "kana": "ビアガーデン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "庭院式的啤酒店",
+      "word_id": 4
+    },
+    {
+      "lesson": 44,
+      "kana": "おおがたスーパー",
+      "kanji": "大型スーパー",
+      "character": "名",
+      "meaning": "大型超市",
+      "word_id": 5
+    },
+    {
+      "lesson": 44,
+      "kana": "みずうみ",
+      "kanji": "湖",
+      "character": "名",
+      "meaning": "湖",
+      "word_id": 6
+    },
+    {
+      "lesson": 44,
+      "kana": "パトカー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "警车，巡逻车",
+      "word_id": 7
+    },
+    {
+      "lesson": 44,
+      "kana": "サイレン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "警笛，警报器",
+      "word_id": 8
+    },
+    {
+      "lesson": 44,
+      "kana": "アニメ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "动画片",
+      "word_id": 9
+    },
+    {
+      "lesson": 44,
+      "kana": "パワー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "能力，力量",
+      "word_id": 10
+    },
+    {
+      "lesson": 44,
+      "kana": "こころ",
+      "kanji": "心",
+      "character": "名",
+      "meaning": "心",
+      "word_id": 11
+    },
+    {
+      "lesson": 44,
+      "kana": "たいど",
+      "kanji": "態度",
+      "character": "名",
+      "meaning": "态度",
+      "word_id": 12
+    },
+    {
+      "lesson": 44,
+      "kana": "せいかく",
+      "kanji": "性格",
+      "character": "名",
+      "meaning": "性格",
+      "word_id": 13
+    },
+    {
+      "lesson": 44,
+      "kana": "ひょうばん",
+      "kanji": "評判",
+      "character": "名",
+      "meaning": "评价，评论",
+      "word_id": 14
+    },
+    {
+      "lesson": 44,
+      "kana": "ぎょうれつ",
+      "kanji": "行列",
+      "character": "名",
+      "meaning": "行列，队伍",
+      "word_id": 15
+    },
+    {
+      "lesson": 44,
+      "kana": "ようき",
+      "kanji": "容器",
+      "character": "名",
+      "meaning": "容器",
+      "word_id": 16
+    },
+    {
+      "lesson": 44,
+      "kana": "ないよう",
+      "kanji": "内容",
+      "character": "名",
+      "meaning": "内容",
+      "word_id": 17
+    },
+    {
+      "lesson": 44,
+      "kana": "うれゆき",
+      "kanji": "売れ行き",
+      "character": "名",
+      "meaning": "销路，销售（情况）",
+      "word_id": 18
+    },
+    {
+      "lesson": 44,
+      "kana": "のりもの",
+      "kanji": "乗り物",
+      "character": "名",
+      "meaning": "乘坐物",
+      "word_id": 19
+    },
+    {
+      "lesson": 44,
+      "kana": "あせ",
+      "kanji": "汗",
+      "character": "名",
+      "meaning": "汗",
+      "word_id": 20
+    },
+    {
+      "lesson": 44,
+      "kana": "ばい",
+      "kanji": "倍",
+      "character": "名",
+      "meaning": "倍，加倍",
+      "word_id": 21
+    },
+    {
+      "lesson": 44,
+      "kana": "たて",
+      "kanji": "縦",
+      "character": "名",
+      "meaning": "纵，竖",
+      "word_id": 22
+    },
+    {
+      "lesson": 44,
+      "kana": "ちゅうごくぜんど",
+      "kanji": "中国全土",
+      "character": "名",
+      "meaning": "全中国",
+      "word_id": 23
+    },
+    {
+      "lesson": 44,
+      "kana": "ちょうきよほう",
+      "kanji": "長期予報",
+      "character": "名",
+      "meaning": "长期预报",
+      "word_id": 24
+    },
+    {
+      "lesson": 44,
+      "kana": "わらい",
+      "kanji": "笑い",
+      "character": "名",
+      "meaning": "笑",
+      "word_id": 25
+    },
+    {
+      "lesson": 44,
+      "kana": "あつさ",
+      "kanji": "暑さ",
+      "character": "名",
+      "meaning": "暑热，暑气",
+      "word_id": 26
+    },
+    {
+      "lesson": 44,
+      "kana": "うつくしさ",
+      "kanji": "美しさ",
+      "character": "名",
+      "meaning": "美好，美丽程度",
+      "word_id": 27
+    },
+    {
+      "lesson": 44,
+      "kana": "おもしろさ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "趣味，有趣程度",
+      "word_id": 28
+    },
+    {
+      "lesson": 44,
+      "kana": "おおきさ",
+      "kanji": "大きさ",
+      "character": "名",
+      "meaning": "大小",
+      "word_id": 29
+    },
+    {
+      "lesson": 44,
+      "kana": "たかさ",
+      "kanji": "高さ",
+      "character": "名",
+      "meaning": "高度",
+      "word_id": 30
+    },
+    {
+      "lesson": 44,
+      "kana": "ふかさ",
+      "kanji": "深さ",
+      "character": "名",
+      "meaning": "深度",
+      "word_id": 31
+    },
+    {
+      "lesson": 44,
+      "kana": "ながさ",
+      "kanji": "長さ",
+      "character": "名",
+      "meaning": "长度",
+      "word_id": 32
+    },
+    {
+      "lesson": 44,
+      "kana": "ひろさ",
+      "kanji": "広さ",
+      "character": "名",
+      "meaning": "面积",
+      "word_id": 33
+    },
+    {
+      "lesson": 44,
+      "kana": "ふとさ",
+      "kanji": "太さ",
+      "character": "名",
+      "meaning": "粗（度）",
+      "word_id": 34
+    },
+    {
+      "lesson": 44,
+      "kana": "おもさ",
+      "kanji": "重さ",
+      "character": "名",
+      "meaning": "重量",
+      "word_id": 35
+    },
+    {
+      "lesson": 44,
+      "kana": "あつさ",
+      "kanji": "厚さ",
+      "character": "名",
+      "meaning": "厚度",
+      "word_id": 36
+    },
+    {
+      "lesson": 44,
+      "kana": "はやさ",
+      "kanji": "速さ",
+      "character": "名",
+      "meaning": "速度",
+      "word_id": 37
+    },
+    {
+      "lesson": 44,
+      "kana": "べんりさ",
+      "kanji": "便利さ",
+      "character": "名",
+      "meaning": "方便程度",
+      "word_id": 38
+    },
+    {
+      "lesson": 44,
+      "kana": "ふくざつさ",
+      "kanji": "複雑さ",
+      "character": "名",
+      "meaning": "复杂程度",
+      "word_id": 39
+    },
+    {
+      "lesson": 44,
+      "kana": "おいしさ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "美味，好吃程度",
+      "word_id": 40
+    },
+    {
+      "lesson": 44,
+      "kana": "じゅうようさ",
+      "kanji": "重要さ",
+      "character": "名",
+      "meaning": "重要性，重要程度",
+      "word_id": 41
+    },
+    {
+      "lesson": 44,
+      "kana": "あまさ",
+      "kanji": "甘さ",
+      "character": "名",
+      "meaning": "甜度",
+      "word_id": 42
+    },
+    {
+      "lesson": 44,
+      "kana": "ひろがります",
+      "kanji": "広がります",
+      "character": "动1",
+      "meaning": "蔓延，拓宽",
+      "word_id": 43
+    },
+    {
+      "lesson": 44,
+      "kana": "もどります",
+      "kanji": "戻ります",
+      "character": "动1",
+      "meaning": "返回，回到",
+      "word_id": 44
+    },
+    {
+      "lesson": 44,
+      "kana": "おどろきます",
+      "kanji": "驚きます",
+      "character": "动1",
+      "meaning": "惊讶，吃惊",
+      "word_id": 45
+    },
+    {
+      "lesson": 44,
+      "kana": "しゃれます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "别致，风趣；打扮得漂亮",
+      "word_id": 46
+    },
+    {
+      "lesson": 44,
+      "kana": "じっかんします",
+      "kanji": "実感します",
+      "character": "动3",
+      "meaning": "切实感受，真切感受",
+      "word_id": 47
+    },
+    {
+      "lesson": 44,
+      "kana": "ふかい",
+      "kanji": "深い",
+      "character": "形1",
+      "meaning": "深",
+      "word_id": 48
+    },
+    {
+      "lesson": 44,
+      "kana": "おとなしい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "温顺，老实",
+      "word_id": 49
+    },
+    {
+      "lesson": 44,
+      "kana": "はずかしい",
+      "kanji": "恥ずかしい",
+      "character": "形1",
+      "meaning": "害羞，难为情",
+      "word_id": 50
+    },
+    {
+      "lesson": 44,
+      "kana": "めずらしい",
+      "kanji": "珍しい",
+      "character": "形1",
+      "meaning": "珍奇，新奇",
+      "word_id": 51
+    },
+    {
+      "lesson": 44,
+      "kana": "ごうか",
+      "kanji": "豪華",
+      "character": "形2",
+      "meaning": "豪华，奢华",
+      "word_id": 52
+    },
+    {
+      "lesson": 44,
+      "kana": "こうちょう",
+      "kanji": "好調",
+      "character": "形2",
+      "meaning": "顺利，情况良好",
+      "word_id": 53
+    },
+    {
+      "lesson": 44,
+      "kana": "ひかえめ",
+      "kanji": "控えめ",
+      "character": "形2",
+      "meaning": "分量少，节制，控制；拘谨",
+      "word_id": 54
+    },
+    {
+      "lesson": 44,
+      "kana": "こうひょう",
+      "kanji": "好評",
+      "character": "形2",
+      "meaning": "好评，称赞",
+      "word_id": 55
+    },
+    {
+      "lesson": 44,
+      "kana": "だいじ",
+      "kanji": "大事",
+      "character": "形2",
+      "meaning": "重要，宝贵",
+      "word_id": 56
+    },
+    {
+      "lesson": 44,
+      "kana": "かなり",
+      "kanji": "",
+      "character": "副",
+      "meaning": "颇，相当",
+      "word_id": 57
+    },
+    {
+      "lesson": 44,
+      "kana": "けっこう",
+      "kanji": "",
+      "character": "副",
+      "meaning": "很，相当",
+      "word_id": 58
+    },
+    {
+      "lesson": 44,
+      "kana": "ささき",
+      "kanji": "佐々木",
+      "character": "专有词",
+      "meaning": "佐佐木",
+      "word_id": 59
+    },
+    {
+      "lesson": 44,
+      "kana": "びわこ",
+      "kanji": "琵琶湖",
+      "character": "专有词",
+      "meaning": "琵琶湖",
+      "word_id": 60
+    },
+    {
+      "lesson": 44,
+      "kana": "のぞみ",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "＂希望号＂（新干线的名称）",
+      "word_id": 61
+    },
+    {
+      "lesson": 44,
+      "kana": "おかげさまで",
+      "kanji": "",
+      "character": "",
+      "meaning": "托您的福",
+      "word_id": 62
+    },
+    {
+      "lesson": 44,
+      "kana": "なんといっても",
+      "kanji": "何と言っても",
+      "character": "",
+      "meaning": "首先是，无论如何",
+      "word_id": 63
+    }
+  ]
+}

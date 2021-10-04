@@ -1,0 +1,348 @@
+{
+  "words": [
+    {
+      "lesson": 35,
+      "kana": "マラソンたいかい(マラソン大会)",
+      "kanji": "",
+      "character": "名",
+      "meaning": "马拉松大会",
+      "word_id": 0
+    },
+    {
+      "lesson": 35,
+      "kana": "ホームパーテイー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "家庭聚会",
+      "word_id": 1
+    },
+    {
+      "lesson": 35,
+      "kana": "ゴーカート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "游戏汽车，玩具汽车",
+      "word_id": 2
+    },
+    {
+      "lesson": 35,
+      "kana": "テレビゲーム",
+      "kanji": "",
+      "character": "名",
+      "meaning": "电子游戏",
+      "word_id": 3
+    },
+    {
+      "lesson": 35,
+      "kana": "ちゅうし(中止)",
+      "kanji": "",
+      "character": "名",
+      "meaning": "中止，中顿",
+      "word_id": 4
+    },
+    {
+      "lesson": 35,
+      "kana": "ひょうげん(表現)",
+      "kanji": "",
+      "character": "名",
+      "meaning": "表达，表现",
+      "word_id": 5
+    },
+    {
+      "lesson": 35,
+      "kana": "はんたい(反対)",
+      "kanji": "",
+      "character": "名",
+      "meaning": "反对",
+      "word_id": 6
+    },
+    {
+      "lesson": 35,
+      "kana": "えいぎょう",
+      "kanji": "営業",
+      "character": "名",
+      "meaning": "营业",
+      "word_id": 7
+    },
+    {
+      "lesson": 35,
+      "kana": "ざいこ",
+      "kanji": "在庫",
+      "character": "名",
+      "meaning": "库存，存货",
+      "word_id": 8
+    },
+    {
+      "lesson": 35,
+      "kana": "おとな",
+      "kanji": "大人",
+      "character": "名",
+      "meaning": "大人，成人",
+      "word_id": 9
+    },
+    {
+      "lesson": 35,
+      "kana": "おじ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "叔叔，伯伯，舅舅",
+      "word_id": 10
+    },
+    {
+      "lesson": 35,
+      "kana": "しょうがくせい",
+      "kanji": "小学生",
+      "character": "名",
+      "meaning": "小学生",
+      "word_id": 11
+    },
+    {
+      "lesson": 35,
+      "kana": "うちゅうひこうし",
+      "kanji": "宇宙飛行士",
+      "character": "名",
+      "meaning": "宇航员",
+      "word_id": 12
+    },
+    {
+      "lesson": 35,
+      "kana": "カタログ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "目录",
+      "word_id": 13
+    },
+    {
+      "lesson": 35,
+      "kana": "たからくじ",
+      "kanji": "宝くじ",
+      "character": "名",
+      "meaning": "彩票",
+      "word_id": 14
+    },
+    {
+      "lesson": 35,
+      "kana": "せいせき",
+      "kanji": "成績",
+      "character": "名",
+      "meaning": "成绩",
+      "word_id": 15
+    },
+    {
+      "lesson": 35,
+      "kana": "けいさん",
+      "kanji": "計算",
+      "character": "名",
+      "meaning": "计算",
+      "word_id": 16
+    },
+    {
+      "lesson": 35,
+      "kana": "けしゴム",
+      "kanji": "消しゴム",
+      "character": "名",
+      "meaning": "橡皮",
+      "word_id": 17
+    },
+    {
+      "lesson": 35,
+      "kana": "は",
+      "kanji": "歯",
+      "character": "名",
+      "meaning": "叶子",
+      "word_id": 18
+    },
+    {
+      "lesson": 35,
+      "kana": "ビタミンざい",
+      "kanji": "ビタミン剤",
+      "character": "名",
+      "meaning": "维生素片剂",
+      "word_id": 19
+    },
+    {
+      "lesson": 35,
+      "kana": "ちゅうこ",
+      "kanji": "中古",
+      "character": "名",
+      "meaning": "二手货，旧货",
+      "word_id": 20
+    },
+    {
+      "lesson": 35,
+      "kana": "きかい",
+      "kanji": "機会",
+      "character": "名",
+      "meaning": "机会",
+      "word_id": 21
+    },
+    {
+      "lesson": 35,
+      "kana": "きゅうじつ",
+      "kanji": "休日",
+      "character": "名",
+      "meaning": "休息日，假日",
+      "word_id": 22
+    },
+    {
+      "lesson": 35,
+      "kana": "こんかい",
+      "kanji": "今回",
+      "character": "名",
+      "meaning": "这次，这回",
+      "word_id": 23
+    },
+    {
+      "lesson": 35,
+      "kana": "こんげつ",
+      "kanji": "今月",
+      "character": "名",
+      "meaning": "这个月",
+      "word_id": 24
+    },
+    {
+      "lesson": 35,
+      "kana": "さいしゅうてんけん",
+      "kanji": "最終点検",
+      "character": "名",
+      "meaning": "最终检查",
+      "word_id": 25
+    },
+    {
+      "lesson": 35,
+      "kana": "ききます",
+      "kanji": "効きます",
+      "character": "动1",
+      "meaning": "有效，起作用",
+      "word_id": 26
+    },
+    {
+      "lesson": 35,
+      "kana": "いわいます",
+      "kanji": "祝います",
+      "character": "动1",
+      "meaning": "祝贺",
+      "word_id": 27
+    },
+    {
+      "lesson": 35,
+      "kana": "あたります",
+      "kanji": "当たります",
+      "character": "动1",
+      "meaning": "中（彩），抽中",
+      "word_id": 28
+    },
+    {
+      "lesson": 35,
+      "kana": "あきます",
+      "kanji": "空きます",
+      "character": "动1",
+      "meaning": "空，有空",
+      "word_id": 29
+    },
+    {
+      "lesson": 35,
+      "kana": "くさります",
+      "kanji": "腐ります",
+      "character": "动1",
+      "meaning": "腐烂，腐败",
+      "word_id": 30
+    },
+    {
+      "lesson": 35,
+      "kana": "みつけます",
+      "kanji": "見つけます",
+      "character": "动2",
+      "meaning": "找到，发现，看见",
+      "word_id": 31
+    },
+    {
+      "lesson": 35,
+      "kana": "はれます",
+      "kanji": "晴れます",
+      "character": "动2",
+      "meaning": "晴朗，天晴",
+      "word_id": 32
+    },
+    {
+      "lesson": 35,
+      "kana": "たずねます",
+      "kanji": "訪ねます",
+      "character": "动2",
+      "meaning": "访问，拜访",
+      "word_id": 33
+    },
+    {
+      "lesson": 35,
+      "kana": "たいざいします",
+      "kanji": "滞在します",
+      "character": "动3",
+      "meaning": "停留，滞留",
+      "word_id": 34
+    },
+    {
+      "lesson": 35,
+      "kana": "きゅうけいします",
+      "kanji": "休憩します",
+      "character": "动3",
+      "meaning": "休息",
+      "word_id": 35
+    },
+    {
+      "lesson": 35,
+      "kana": "さんかします",
+      "kanji": "参加します",
+      "character": "动3",
+      "meaning": "参加",
+      "word_id": 36
+    },
+    {
+      "lesson": 35,
+      "kana": "かんぱいします",
+      "kanji": "乾杯します",
+      "character": "动3",
+      "meaning": "干杯",
+      "word_id": 37
+    },
+    {
+      "lesson": 35,
+      "kana": "へん",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "不恰当，奇怪，反常",
+      "word_id": 38
+    },
+    {
+      "lesson": 35,
+      "kana": "かんぜん",
+      "kanji": "完全",
+      "character": "形2",
+      "meaning": "充分，完全",
+      "word_id": 39
+    },
+    {
+      "lesson": 35,
+      "kana": "ひつよう",
+      "kanji": "必要",
+      "character": "形2",
+      "meaning": "必要，必须",
+      "word_id": 40
+    },
+    {
+      "lesson": 35,
+      "kana": "だんだん",
+      "kanji": "",
+      "character": "副",
+      "meaning": "渐渐地，逐渐地",
+      "word_id": 41
+    },
+    {
+      "lesson": 35,
+      "kana": "もし",
+      "kanji": "",
+      "character": "副",
+      "meaning": "如果，假如",
+      "word_id": 42
+    }
+  ]
+}

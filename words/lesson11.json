@@ -1,0 +1,436 @@
+{
+  "words": [
+    {
+      "lesson": 11,
+      "kana": "うた",
+      "kanji": "歌",
+      "character": "名",
+      "meaning": "歌，歌曲",
+      "word_id": 0
+    },
+    {
+      "lesson": 11,
+      "kana": "カラオケ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "卡拉OK",
+      "word_id": 1
+    },
+    {
+      "lesson": 11,
+      "kana": "ロック",
+      "kanji": "",
+      "character": "名",
+      "meaning": "摇滚乐",
+      "word_id": 2
+    },
+    {
+      "lesson": 11,
+      "kana": "ボブッス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "流行音乐",
+      "word_id": 3
+    },
+    {
+      "lesson": 11,
+      "kana": "クラシック",
+      "kanji": "",
+      "character": "名",
+      "meaning": "(西方的)古典音乐",
+      "word_id": 4
+    },
+    {
+      "lesson": 11,
+      "kana": "ピアノ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "钢琴",
+      "word_id": 5
+    },
+    {
+      "lesson": 11,
+      "kana": "え",
+      "kanji": "絵",
+      "character": "名",
+      "meaning": "画",
+      "word_id": 6
+    },
+    {
+      "lesson": 11,
+      "kana": "えいご",
+      "kanji": "英語",
+      "character": "名",
+      "meaning": "英语",
+      "word_id": 7
+    },
+    {
+      "lesson": 11,
+      "kana": "スペインご",
+      "kanji": "スペイン語",
+      "character": "名",
+      "meaning": "西班牙语",
+      "word_id": 8
+    },
+    {
+      "lesson": 11,
+      "kana": "スポーツ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "体育，运动",
+      "word_id": 9
+    },
+    {
+      "lesson": 11,
+      "kana": "すいえい",
+      "kanji": "水泳",
+      "character": "名",
+      "meaning": "游泳",
+      "word_id": 10
+    },
+    {
+      "lesson": 11,
+      "kana": "ゴルフ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "高尔夫球",
+      "word_id": 11
+    },
+    {
+      "lesson": 11,
+      "kana": "うんてん",
+      "kanji": "運転",
+      "character": "名",
+      "meaning": "开车",
+      "word_id": 12
+    },
+    {
+      "lesson": 11,
+      "kana": "のみもの",
+      "kanji": "飲み物",
+      "character": "名",
+      "meaning": "饮料",
+      "word_id": 13
+    },
+    {
+      "lesson": 11,
+      "kana": "おさけ",
+      "kanji": "お酒",
+      "character": "名",
+      "meaning": "酒，酒类",
+      "word_id": 14
+    },
+    {
+      "lesson": 11,
+      "kana": "にく",
+      "kanji": "肉",
+      "character": "名",
+      "meaning": "肉",
+      "word_id": 15
+    },
+    {
+      "lesson": 11,
+      "kana": "やさい",
+      "kanji": "野菜",
+      "character": "名",
+      "meaning": "蔬菜",
+      "word_id": 16
+    },
+    {
+      "lesson": 11,
+      "kana": "くだもの",
+      "kanji": "果物",
+      "character": "名",
+      "meaning": "水果",
+      "word_id": 17
+    },
+    {
+      "lesson": 11,
+      "kana": "ヒマワリ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "向日葵",
+      "word_id": 18
+    },
+    {
+      "lesson": 11,
+      "kana": "バラ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "蔷薇，玫瑰",
+      "word_id": 19
+    },
+    {
+      "lesson": 11,
+      "kana": "コンピュータ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "计算机，电脑",
+      "word_id": 20
+    },
+    {
+      "lesson": 11,
+      "kana": "まど",
+      "kanji": "窓",
+      "character": "名",
+      "meaning": "窗，窗户",
+      "word_id": 21
+    },
+    {
+      "lesson": 11,
+      "kana": "けっこんしき",
+      "kanji": "結婚式",
+      "character": "名",
+      "meaning": "结婚典礼",
+      "word_id": 22
+    },
+    {
+      "lesson": 11,
+      "kana": "しゃしんてん",
+      "kanji": "写真展",
+      "character": "名",
+      "meaning": "摄影展",
+      "word_id": 23
+    },
+    {
+      "lesson": 11,
+      "kana": "りょかん",
+      "kanji": "旅館",
+      "character": "名",
+      "meaning": "旅馆，旅店",
+      "word_id": 24
+    },
+    {
+      "lesson": 11,
+      "kana": "べっそう",
+      "kanji": "別荘",
+      "character": "名",
+      "meaning": "别墅",
+      "word_id": 25
+    },
+    {
+      "lesson": 11,
+      "kana": "よせぎざいく",
+      "kanji": "寄木細工",
+      "character": "名",
+      "meaning": "木片儿拼花工艺品",
+      "word_id": 26
+    },
+    {
+      "lesson": 11,
+      "kana": "もよう",
+      "kanji": "模様",
+      "character": "名",
+      "meaning": "花纹，纹案",
+      "word_id": 27
+    },
+    {
+      "lesson": 11,
+      "kana": "がいこく",
+      "kanji": "外国",
+      "character": "名",
+      "meaning": "外国",
+      "word_id": 28
+    },
+    {
+      "lesson": 11,
+      "kana": "かいぎ",
+      "kanji": "会議",
+      "character": "名",
+      "meaning": "会议",
+      "word_id": 29
+    },
+    {
+      "lesson": 11,
+      "kana": "あし",
+      "kanji": "脚",
+      "character": "名",
+      "meaning": "腿",
+      "word_id": 30
+    },
+    {
+      "lesson": 11,
+      "kana": "ぼく",
+      "kanji": "",
+      "character": "代",
+      "meaning": "我（男性自称）",
+      "word_id": 31
+    },
+    {
+      "lesson": 11,
+      "kana": "わかります",
+      "kanji": "分かります",
+      "character": "动1",
+      "meaning": "懂，明白",
+      "word_id": 32
+    },
+    {
+      "lesson": 11,
+      "kana": "まよいます",
+      "kanji": "迷います",
+      "character": "动1",
+      "meaning": "犹豫，难以决定",
+      "word_id": 33
+    },
+    {
+      "lesson": 11,
+      "kana": "できます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "会；能；完成",
+      "word_id": 34
+    },
+    {
+      "lesson": 11,
+      "kana": "しめます",
+      "kanji": "閉めます",
+      "character": "动2",
+      "meaning": "关闭，关门",
+      "word_id": 35
+    },
+    {
+      "lesson": 11,
+      "kana": "つかれます",
+      "kanji": "疲れます",
+      "character": "动2",
+      "meaning": "疲倦，疲惫",
+      "word_id": 36
+    },
+    {
+      "lesson": 11,
+      "kana": "さんぽします",
+      "kanji": "散歩します",
+      "character": "动3",
+      "meaning": "散步",
+      "word_id": 37
+    },
+    {
+      "lesson": 11,
+      "kana": "こわい",
+      "kanji": "怖い",
+      "character": "形1",
+      "meaning": "害怕，恐怖",
+      "word_id": 38
+    },
+    {
+      "lesson": 11,
+      "kana": "あかい",
+      "kanji": "赤い",
+      "character": "形1",
+      "meaning": "红",
+      "word_id": 39
+    },
+    {
+      "lesson": 11,
+      "kana": "いたい",
+      "kanji": "痛い",
+      "character": "形1",
+      "meaning": "疼，疼痛",
+      "word_id": 40
+    },
+    {
+      "lesson": 11,
+      "kana": "じょうず",
+      "kanji": "上手",
+      "character": "形2",
+      "meaning": "擅长，高明，水平高",
+      "word_id": 41
+    },
+    {
+      "lesson": 11,
+      "kana": "へた",
+      "kanji": "下手",
+      "character": "形2",
+      "meaning": "不高明，水平低",
+      "word_id": 42
+    },
+    {
+      "lesson": 11,
+      "kana": "にがて",
+      "kanji": "苦手",
+      "character": "形2",
+      "meaning": "不擅长，不善于",
+      "word_id": 43
+    },
+    {
+      "lesson": 11,
+      "kana": "ときどき",
+      "kanji": "時々",
+      "character": "副",
+      "meaning": "有时，时不时",
+      "word_id": 44
+    },
+    {
+      "lesson": 11,
+      "kana": "よく",
+      "kanji": "",
+      "character": "副",
+      "meaning": "经常，常常",
+      "word_id": 45
+    },
+    {
+      "lesson": 11,
+      "kana": "たまに",
+      "kanji": "",
+      "character": "副",
+      "meaning": "偶尔，很少",
+      "word_id": 46
+    },
+    {
+      "lesson": 11,
+      "kana": "また",
+      "kanji": "",
+      "character": "副",
+      "meaning": "还，再，又",
+      "word_id": 47
+    },
+    {
+      "lesson": 11,
+      "kana": "どうして",
+      "kanji": "",
+      "character": "副",
+      "meaning": "为什么",
+      "word_id": 48
+    },
+    {
+      "lesson": 11,
+      "kana": "だから",
+      "kanji": "",
+      "character": "连",
+      "meaning": "所以，因此",
+      "word_id": 49
+    },
+    {
+      "lesson": 11,
+      "kana": "ですから",
+      "kanji": "",
+      "character": "连",
+      "meaning": "所以，因此",
+      "word_id": 50
+    },
+    {
+      "lesson": 11,
+      "kana": "うーん",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "嗯……，这个……",
+      "word_id": 51
+    },
+    {
+      "lesson": 11,
+      "kana": "けっこうです",
+      "kanji": "結構です",
+      "character": "",
+      "meaning": "不用，不要",
+      "word_id": 52
+    },
+    {
+      "lesson": 11,
+      "kana": "きにいります",
+      "kanji": "気に入ります",
+      "character": "",
+      "meaning": "喜欢，中意",
+      "word_id": 53
+    }
+  ]
+}

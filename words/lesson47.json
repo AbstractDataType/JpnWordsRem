@@ -1,0 +1,140 @@
+{
+  "words": [
+    {
+      "lesson": 47,
+      "kana": "したみ",
+      "kanji": "下見",
+      "character": "名",
+      "meaning": "视察",
+      "word_id": 0
+    },
+    {
+      "lesson": 47,
+      "kana": "スタッフ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "职员，同事",
+      "word_id": 1
+    },
+    {
+      "lesson": 47,
+      "kana": "おこさん",
+      "kanji": "お子さん",
+      "character": "名",
+      "meaning": "您的孩子",
+      "word_id": 2
+    },
+    {
+      "lesson": 47,
+      "kana": "めしあがります",
+      "kanji": "召し上がります",
+      "character": "动1",
+      "meaning": "（尊他）吃，喝",
+      "word_id": 3
+    },
+    {
+      "lesson": 47,
+      "kana": "ごらんになります",
+      "kanji": "ご覧になります",
+      "character": "动1",
+      "meaning": "（尊他）看，读",
+      "word_id": 4
+    },
+    {
+      "lesson": 47,
+      "kana": "おっしゃいます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "（尊他）说，讲",
+      "word_id": 5
+    },
+    {
+      "lesson": 47,
+      "kana": "いらっしゃいます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "（尊他）去，来，在",
+      "word_id": 6
+    },
+    {
+      "lesson": 47,
+      "kana": "おいでになります",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "（尊他）去，来，在",
+      "word_id": 7
+    },
+    {
+      "lesson": 47,
+      "kana": "なさいます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "（尊他）做，干",
+      "word_id": 8
+    },
+    {
+      "lesson": 47,
+      "kana": "くださいます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "（尊他）给",
+      "word_id": 9
+    },
+    {
+      "lesson": 47,
+      "kana": "チェックインします",
+      "kanji": "",
+      "character": "动3",
+      "meaning": "办理入住手续",
+      "word_id": 10
+    },
+    {
+      "lesson": 47,
+      "kana": "ちょっこうします",
+      "kanji": "直行します",
+      "character": "动3",
+      "meaning": "直接去，直达",
+      "word_id": 11
+    },
+    {
+      "lesson": 47,
+      "kana": "さきほど",
+      "kanji": "先ほど",
+      "character": "副",
+      "meaning": "刚才，方才",
+      "word_id": 12
+    },
+    {
+      "lesson": 47,
+      "kana": "きむら",
+      "kanji": "木村",
+      "character": "专有词",
+      "meaning": "木村",
+      "word_id": 13
+    },
+    {
+      "lesson": 47,
+      "kana": "こう",
+      "kanji": "黄",
+      "character": "专有词",
+      "meaning": "黄",
+      "word_id": 14
+    },
+    {
+      "lesson": 47,
+      "kana": "ペキンくうこう",
+      "kanji": "北京空港",
+      "character": "专有词",
+      "meaning": "北京机场",
+      "word_id": 15
+    },
+    {
+      "lesson": 47,
+      "kana": "ごぞんじです",
+      "kanji": "ご存じです",
+      "character": "",
+      "meaning": "（尊他）知道",
+      "word_id": 16
+    }
+  ]
+}

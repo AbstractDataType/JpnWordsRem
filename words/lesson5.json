@@ -1,0 +1,412 @@
+{
+  "words": [
+    {
+      "lesson": 5,
+      "kana": "いま",
+      "kanji": "今",
+      "character": "名",
+      "meaning": "现在",
+      "word_id": 0
+    },
+    {
+      "lesson": 5,
+      "kana": "せんしゅう",
+      "kanji": "先週",
+      "character": "名",
+      "meaning": "上个星期",
+      "word_id": 1
+    },
+    {
+      "lesson": 5,
+      "kana": "らいしゅう",
+      "kanji": "来週",
+      "character": "名",
+      "meaning": "下个星期",
+      "word_id": 2
+    },
+    {
+      "lesson": 5,
+      "kana": "さらいしゅう",
+      "kanji": "さ来週",
+      "character": "名",
+      "meaning": "下下个星期",
+      "word_id": 3
+    },
+    {
+      "lesson": 5,
+      "kana": "こんしゅう",
+      "kanji": "今週",
+      "character": "名",
+      "meaning": "这个星期",
+      "word_id": 4
+    },
+    {
+      "lesson": 5,
+      "kana": "きのう",
+      "kanji": "昨日",
+      "character": "名",
+      "meaning": "昨天",
+      "word_id": 5
+    },
+    {
+      "lesson": 5,
+      "kana": "あした",
+      "kanji": "明日",
+      "character": "名",
+      "meaning": "明天",
+      "word_id": 6
+    },
+    {
+      "lesson": 5,
+      "kana": "あさって",
+      "kanji": "",
+      "character": "名",
+      "meaning": "后天",
+      "word_id": 7
+    },
+    {
+      "lesson": 5,
+      "kana": "おととい",
+      "kanji": "",
+      "character": "名",
+      "meaning": "前天",
+      "word_id": 8
+    },
+    {
+      "lesson": 5,
+      "kana": "まいにち",
+      "kanji": "毎日",
+      "character": "名",
+      "meaning": "每天，每日",
+      "word_id": 9
+    },
+    {
+      "lesson": 5,
+      "kana": "まいあさ",
+      "kanji": "毎朝",
+      "character": "名",
+      "meaning": "每天早晨",
+      "word_id": 10
+    },
+    {
+      "lesson": 5,
+      "kana": "まいばん",
+      "kanji": "毎晩",
+      "character": "名",
+      "meaning": "每天晚上",
+      "word_id": 11
+    },
+    {
+      "lesson": 5,
+      "kana": "まいしゅう",
+      "kanji": "毎週",
+      "character": "名",
+      "meaning": "每个星期",
+      "word_id": 12
+    },
+    {
+      "lesson": 5,
+      "kana": "ごぜん",
+      "kanji": "午前",
+      "character": "名",
+      "meaning": "上午",
+      "word_id": 13
+    },
+    {
+      "lesson": 5,
+      "kana": "ごご",
+      "kanji": "午後",
+      "character": "名",
+      "meaning": "下午",
+      "word_id": 14
+    },
+    {
+      "lesson": 5,
+      "kana": "にちようび",
+      "kanji": "日曜日",
+      "character": "名",
+      "meaning": "星期日",
+      "word_id": 15
+    },
+    {
+      "lesson": 5,
+      "kana": "げつようび",
+      "kanji": "月曜日",
+      "character": "名",
+      "meaning": "星期一",
+      "word_id": 16
+    },
+    {
+      "lesson": 5,
+      "kana": "かようび",
+      "kanji": "火曜日",
+      "character": "名",
+      "meaning": "星期二",
+      "word_id": 17
+    },
+    {
+      "lesson": 5,
+      "kana": "きんようび",
+      "kanji": "金曜日",
+      "character": "名",
+      "meaning": "星期五",
+      "word_id": 18
+    },
+    {
+      "lesson": 5,
+      "kana": "どようび",
+      "kanji": "土曜日",
+      "character": "名",
+      "meaning": "星期六",
+      "word_id": 19
+    },
+    {
+      "lesson": 5,
+      "kana": "けさ",
+      "kanji": "今朝",
+      "character": "名",
+      "meaning": "今天早晨",
+      "word_id": 20
+    },
+    {
+      "lesson": 5,
+      "kana": "こんばん",
+      "kanji": "今晩",
+      "character": "名",
+      "meaning": "今天晚上",
+      "word_id": 21
+    },
+    {
+      "lesson": 5,
+      "kana": "らいねん",
+      "kanji": "来年",
+      "character": "名",
+      "meaning": "明年",
+      "word_id": 22
+    },
+    {
+      "lesson": 5,
+      "kana": "きょねん",
+      "kanji": "去年",
+      "character": "名",
+      "meaning": "去年",
+      "word_id": 23
+    },
+    {
+      "lesson": 5,
+      "kana": "よる",
+      "kanji": "夜",
+      "character": "名",
+      "meaning": "晚上，夜里，夜晚",
+      "word_id": 24
+    },
+    {
+      "lesson": 5,
+      "kana": "ばん",
+      "kanji": "晩",
+      "character": "名",
+      "meaning": "晚上",
+      "word_id": 25
+    },
+    {
+      "lesson": 5,
+      "kana": "あさ",
+      "kanji": "朝",
+      "character": "名",
+      "meaning": "早晨",
+      "word_id": 26
+    },
+    {
+      "lesson": 5,
+      "kana": "がっこう",
+      "kanji": "学校",
+      "character": "名",
+      "meaning": "学校",
+      "word_id": 27
+    },
+    {
+      "lesson": 5,
+      "kana": "しけん",
+      "kanji": "試験",
+      "character": "名",
+      "meaning": "考试",
+      "word_id": 28
+    },
+    {
+      "lesson": 5,
+      "kana": "しごと",
+      "kanji": "仕事",
+      "character": "名",
+      "meaning": "工作",
+      "word_id": 29
+    },
+    {
+      "lesson": 5,
+      "kana": "ちこく",
+      "kanji": "遅刻",
+      "character": "名",
+      "meaning": "迟到",
+      "word_id": 30
+    },
+    {
+      "lesson": 5,
+      "kana": "やすみ",
+      "kanji": "休み",
+      "character": "名",
+      "meaning": "休息",
+      "word_id": 31
+    },
+    {
+      "lesson": 5,
+      "kana": "しゅっちょう",
+      "kanji": "出張",
+      "character": "名",
+      "meaning": "出差",
+      "word_id": 32
+    },
+    {
+      "lesson": 5,
+      "kana": "けんしゅう",
+      "kanji": "研修",
+      "character": "名",
+      "meaning": "进修",
+      "word_id": 33
+    },
+    {
+      "lesson": 5,
+      "kana": "りょこう",
+      "kanji": "旅行",
+      "character": "名",
+      "meaning": "旅行",
+      "word_id": 34
+    },
+    {
+      "lesson": 5,
+      "kana": "てんらんかい",
+      "kanji": "展覧会",
+      "character": "名",
+      "meaning": "展览会",
+      "word_id": 35
+    },
+    {
+      "lesson": 5,
+      "kana": "かんげいかい",
+      "kanji": "歓迎会",
+      "character": "名",
+      "meaning": "欢迎会",
+      "word_id": 36
+    },
+    {
+      "lesson": 5,
+      "kana": "パーティー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "联欢会",
+      "word_id": 37
+    },
+    {
+      "lesson": 5,
+      "kana": "おたく",
+      "kanji": "お宅",
+      "character": "名",
+      "meaning": "府上，（您）家",
+      "word_id": 38
+    },
+    {
+      "lesson": 5,
+      "kana": "いつ",
+      "kanji": "",
+      "character": "疑",
+      "meaning": "什么时候",
+      "word_id": 39
+    },
+    {
+      "lesson": 5,
+      "kana": "やすみます",
+      "kanji": "休みます",
+      "character": "动1",
+      "meaning": "休息",
+      "word_id": 40
+    },
+    {
+      "lesson": 5,
+      "kana": "はたらきます",
+      "kanji": "働きます",
+      "character": "动1",
+      "meaning": "工作",
+      "word_id": 41
+    },
+    {
+      "lesson": 5,
+      "kana": "はじまります",
+      "kanji": "始まります",
+      "character": "动1",
+      "meaning": "开始",
+      "word_id": 42
+    },
+    {
+      "lesson": 5,
+      "kana": "おわります",
+      "kanji": "終わります",
+      "character": "动1",
+      "meaning": "结束",
+      "word_id": 43
+    },
+    {
+      "lesson": 5,
+      "kana": "おきます",
+      "kanji": "起きます",
+      "character": "动2",
+      "meaning": "起床",
+      "word_id": 44
+    },
+    {
+      "lesson": 5,
+      "kana": "ねます",
+      "kanji": "寝ます",
+      "character": "动2",
+      "meaning": "睡觉",
+      "word_id": 45
+    },
+    {
+      "lesson": 5,
+      "kana": "べんきょうします",
+      "kanji": "勉強します",
+      "character": "动3",
+      "meaning": "学习",
+      "word_id": 46
+    },
+    {
+      "lesson": 5,
+      "kana": "いつも",
+      "kanji": "",
+      "character": "副",
+      "meaning": "经常，总是",
+      "word_id": 47
+    },
+    {
+      "lesson": 5,
+      "kana": "ペキンししゃ",
+      "kanji": "北京支社",
+      "character": "专有词",
+      "meaning": "北京分社",
+      "word_id": 48
+    },
+    {
+      "lesson": 5,
+      "kana": "こうべ",
+      "kanji": "神戸",
+      "character": "专有词",
+      "meaning": "神户",
+      "word_id": 49
+    },
+    {
+      "lesson": 5,
+      "kana": "おはよう",
+      "kanji": "",
+      "character": "",
+      "meaning": "你早",
+      "word_id": 50
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "words": [
+    {
+      "lesson": 24,
+      "kana": "ハイキング",
+      "kanji": "",
+      "character": "名",
+      "meaning": "郊游，远足",
+      "word_id": 0
+    },
+    {
+      "lesson": 24,
+      "kana": "おわかれ",
+      "kanji": "お別れ",
+      "character": "名",
+      "meaning": "分别，分手",
+      "word_id": 1
+    },
+    {
+      "lesson": 24,
+      "kana": "はなし",
+      "kanji": "話",
+      "character": "名",
+      "meaning": "说话",
+      "word_id": 2
+    },
+    {
+      "lesson": 24,
+      "kana": "みおくり",
+      "kanji": "見送り",
+      "character": "名",
+      "meaning": "送行，送别",
+      "word_id": 3
+    },
+    {
+      "lesson": 24,
+      "kana": "あいだ",
+      "kanji": "間",
+      "character": "名",
+      "meaning": "时间，期间",
+      "word_id": 4
+    },
+    {
+      "lesson": 24,
+      "kana": "ほうりつ",
+      "kanji": "法律",
+      "character": "名",
+      "meaning": "法律",
+      "word_id": 5
+    },
+    {
+      "lesson": 24,
+      "kana": "おもいます",
+      "kanji": "思います",
+      "character": "动1",
+      "meaning": "想，思考",
+      "word_id": 6
+    },
+    {
+      "lesson": 24,
+      "kana": "いいます",
+      "kanji": "言います",
+      "character": "动1",
+      "meaning": "说，讲",
+      "word_id": 7
+    },
+    {
+      "lesson": 24,
+      "kana": "さがします",
+      "kanji": "探します",
+      "character": "动1",
+      "meaning": "找，寻找，寻求",
+      "word_id": 8
+    },
+    {
+      "lesson": 24,
+      "kana": "わらいます",
+      "kanji": "笑います",
+      "character": "动1",
+      "meaning": "笑",
+      "word_id": 9
+    },
+    {
+      "lesson": 24,
+      "kana": "やめます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "戒，停止，放弃",
+      "word_id": 10
+    },
+    {
+      "lesson": 24,
+      "kana": "きめます",
+      "kanji": "決めます",
+      "character": "动2",
+      "meaning": "决定",
+      "word_id": 11
+    },
+    {
+      "lesson": 24,
+      "kana": "ねぼうします",
+      "kanji": "寝坊します",
+      "character": "动3",
+      "meaning": "睡懒觉",
+      "word_id": 12
+    },
+    {
+      "lesson": 24,
+      "kana": "がいしゅつします",
+      "kanji": "外出します",
+      "character": "动3",
+      "meaning": "外出，出去",
+      "word_id": 13
+    },
+    {
+      "lesson": 24,
+      "kana": "けんきゅうします",
+      "kanji": "研究します",
+      "character": "动3",
+      "meaning": "研究",
+      "word_id": 14
+    },
+    {
+      "lesson": 24,
+      "kana": "おかしい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "可笑，滑稽",
+      "word_id": 15
+    },
+    {
+      "lesson": 24,
+      "kana": "いっぱい",
+      "kanji": "",
+      "character": "副",
+      "meaning": "满",
+      "word_id": 16
+    },
+    {
+      "lesson": 24,
+      "kana": "すこい",
+      "kanji": "",
+      "character": "副",
+      "meaning": "惊人的，了不起",
+      "word_id": 17
+    },
+    {
+      "lesson": 24,
+      "kana": "とうとう",
+      "kanji": "",
+      "character": "副",
+      "meaning": "终于，终究，到底",
+      "word_id": 18
+    },
+    {
+      "lesson": 24,
+      "kana": "かならず",
+      "kanji": "必ず",
+      "character": "副",
+      "meaning": "一定，必定",
+      "word_id": 19
+    },
+    {
+      "lesson": 24,
+      "kana": "ぜったいに",
+      "kanji": "絶対に",
+      "character": "副",
+      "meaning": "绝对",
+      "word_id": 20
+    },
+    {
+      "lesson": 24,
+      "kana": "ば",
+      "kanji": "馬",
+      "character": "专有词",
+      "meaning": "马",
+      "word_id": 21
+    },
+    {
+      "lesson": 24,
+      "kana": "おせわになりました",
+      "kanji": "お世話になりました",
+      "character": "",
+      "meaning": "承蒙照顾",
+      "word_id": 22
+    },
+    {
+      "lesson": 24,
+      "kana": "よろしくおつたえください",
+      "kanji": "よろしくお伝えください",
+      "character": "",
+      "meaning": "请代问好",
+      "word_id": 23
+    },
+    {
+      "lesson": 24,
+      "kana": "おげんきで",
+      "kanji": "お元気で",
+      "character": "",
+      "meaning": "请多保重",
+      "word_id": 24
+    },
+    {
+      "lesson": 24,
+      "kana": "おきをつけて",
+      "kanji": "お気をつけて",
+      "character": "",
+      "meaning": "小心点儿",
+      "word_id": 25
+    },
+    {
+      "lesson": 24,
+      "kana": "さようなら",
+      "kanji": "",
+      "character": "",
+      "meaning": "再见",
+      "word_id": 26
+    },
+    {
+      "lesson": 24,
+      "kana": "どうやって",
+      "kanji": "",
+      "character": "",
+      "meaning": "怎样，如何",
+      "word_id": 27
+    },
+    {
+      "lesson": 24,
+      "kana": "やくにたちます",
+      "kanji": "役に立ちます",
+      "character": "",
+      "meaning": "有用",
+      "word_id": 28
+    },
+    {
+      "lesson": 24,
+      "kana": "おなかがいっぱいです",
+      "kanji": "",
+      "character": "",
+      "meaning": "吃饱，饱",
+      "word_id": 29
+    }
+  ]
+}

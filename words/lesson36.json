@@ -1,0 +1,436 @@
+{
+  "words": [
+    {
+      "lesson": 36,
+      "kana": "さいしょ",
+      "kanji": "最初",
+      "character": "名",
+      "meaning": "开始的时候，最初",
+      "word_id": 0
+    },
+    {
+      "lesson": 36,
+      "kana": "しゅっしん",
+      "kanji": "出身",
+      "character": "名",
+      "meaning": "出生地",
+      "word_id": 1
+    },
+    {
+      "lesson": 36,
+      "kana": "こうじょう",
+      "kanji": "工場",
+      "character": "名",
+      "meaning": "工厂",
+      "word_id": 2
+    },
+    {
+      "lesson": 36,
+      "kana": "えんとつ",
+      "kanji": "煙突",
+      "character": "名",
+      "meaning": "烟筒",
+      "word_id": 3
+    },
+    {
+      "lesson": 36,
+      "kana": "フライパン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "平底锅",
+      "word_id": 4
+    },
+    {
+      "lesson": 36,
+      "kana": "たまごやき",
+      "kanji": "卵焼き",
+      "character": "名",
+      "meaning": "煎鸡蛋",
+      "word_id": 5
+    },
+    {
+      "lesson": 36,
+      "kana": "グラウンド",
+      "kanji": "",
+      "character": "名",
+      "meaning": "操场，运动场",
+      "word_id": 6
+    },
+    {
+      "lesson": 36,
+      "kana": "おくじょう",
+      "kanji": "屋上",
+      "character": "名",
+      "meaning": "屋顶上，屋顶",
+      "word_id": 7
+    },
+    {
+      "lesson": 36,
+      "kana": "たこ",
+      "kanji": "凧",
+      "character": "名",
+      "meaning": "风筝",
+      "word_id": 8
+    },
+    {
+      "lesson": 36,
+      "kana": "テープ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "磁带，音像带",
+      "word_id": 9
+    },
+    {
+      "lesson": 36,
+      "kana": "どくしょ",
+      "kanji": "読書",
+      "character": "名",
+      "meaning": "读书",
+      "word_id": 10
+    },
+    {
+      "lesson": 36,
+      "kana": "しんせい",
+      "kanji": "申請",
+      "character": "名",
+      "meaning": "申请",
+      "word_id": 11
+    },
+    {
+      "lesson": 36,
+      "kana": "かんさいべん",
+      "kanji": "関西弁",
+      "character": "名",
+      "meaning": "关西话，关西方言",
+      "word_id": 12
+    },
+    {
+      "lesson": 36,
+      "kana": "にちじょうかいわ",
+      "kanji": "日常会話",
+      "character": "名",
+      "meaning": "日常会话",
+      "word_id": 13
+    },
+    {
+      "lesson": 36,
+      "kana": "にほんぶんか",
+      "kanji": "日本文化",
+      "character": "名",
+      "meaning": "日本文化",
+      "word_id": 14
+    },
+    {
+      "lesson": 36,
+      "kana": "せいさんコスト",
+      "kanji": "生産コスト",
+      "character": "名",
+      "meaning": "生产成本",
+      "word_id": 15
+    },
+    {
+      "lesson": 36,
+      "kana": "こうつうじこ",
+      "kanji": "交通事故",
+      "character": "名",
+      "meaning": "交通事故",
+      "word_id": 16
+    },
+    {
+      "lesson": 36,
+      "kana": "ごしゅじん",
+      "kanji": "ご主人",
+      "character": "名",
+      "meaning": "您丈夫，您先生",
+      "word_id": 17
+    },
+    {
+      "lesson": 36,
+      "kana": "はかりうり",
+      "kanji": "量り売り",
+      "character": "名",
+      "meaning": "称斤卖，论重量卖",
+      "word_id": 18
+    },
+    {
+      "lesson": 36,
+      "kana": "わらいごえ",
+      "kanji": "笑い声",
+      "character": "名",
+      "meaning": "笑声",
+      "word_id": 19
+    },
+    {
+      "lesson": 36,
+      "kana": "もちあるきます",
+      "kanji": "持ち歩きます",
+      "character": "动1",
+      "meaning": "携带，拿着走",
+      "word_id": 20
+    },
+    {
+      "lesson": 36,
+      "kana": "くりかえします",
+      "kanji": "繰り返します",
+      "character": "动1",
+      "meaning": "反复",
+      "word_id": 21
+    },
+    {
+      "lesson": 36,
+      "kana": "さわぎます",
+      "kanji": "騒ぎます",
+      "character": "动1",
+      "meaning": "吵嚷，吵闹",
+      "word_id": 22
+    },
+    {
+      "lesson": 36,
+      "kana": "まにあいます",
+      "kanji": "間に合います",
+      "character": "动1",
+      "meaning": "来得及，赶得上",
+      "word_id": 23
+    },
+    {
+      "lesson": 36,
+      "kana": "なきます",
+      "kanji": "鳴きます",
+      "character": "动1",
+      "meaning": "叫，鸣，啼",
+      "word_id": 24
+    },
+    {
+      "lesson": 36,
+      "kana": "ねむります",
+      "kanji": "眠ります",
+      "character": "动1",
+      "meaning": "睡觉",
+      "word_id": 25
+    },
+    {
+      "lesson": 36,
+      "kana": "なります",
+      "kanji": "鳴ります",
+      "character": "动1",
+      "meaning": "鸣响，响起",
+      "word_id": 26
+    },
+    {
+      "lesson": 36,
+      "kana": "よろこびます",
+      "kanji": "喜びます",
+      "character": "动1",
+      "meaning": "喜悦，高兴",
+      "word_id": 27
+    },
+    {
+      "lesson": 36,
+      "kana": "やくだちます",
+      "kanji": "役立ちます",
+      "character": "动1",
+      "meaning": "有用，有益",
+      "word_id": 28
+    },
+    {
+      "lesson": 36,
+      "kana": "やといます",
+      "kanji": "雇います",
+      "character": "动1",
+      "meaning": "雇佣",
+      "word_id": 29
+    },
+    {
+      "lesson": 36,
+      "kana": "なきます",
+      "kanji": "泣きます",
+      "character": "动1",
+      "meaning": "哭，哭泣",
+      "word_id": 30
+    },
+    {
+      "lesson": 36,
+      "kana": "ふります",
+      "kanji": "振ります",
+      "character": "动1",
+      "meaning": "挥动，摆动",
+      "word_id": 31
+    },
+    {
+      "lesson": 36,
+      "kana": "みえます",
+      "kanji": "見えます",
+      "character": "动2",
+      "meaning": "看到，看得见",
+      "word_id": 32
+    },
+    {
+      "lesson": 36,
+      "kana": "きこえます",
+      "kanji": "聞こえます",
+      "character": "动2",
+      "meaning": "听到，听得见",
+      "word_id": 33
+    },
+    {
+      "lesson": 36,
+      "kana": "つうじます",
+      "kanji": "通じます",
+      "character": "动2",
+      "meaning": "通过，相通",
+      "word_id": 34
+    },
+    {
+      "lesson": 36,
+      "kana": "あげます",
+      "kanji": "揚げます",
+      "character": "动2",
+      "meaning": "放（风筝）；扬起",
+      "word_id": 35
+    },
+    {
+      "lesson": 36,
+      "kana": "なれます",
+      "kanji": "慣れます",
+      "character": "动2",
+      "meaning": "习惯",
+      "word_id": 36
+    },
+    {
+      "lesson": 36,
+      "kana": "ぬれます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "淋湿，打湿",
+      "word_id": 37
+    },
+    {
+      "lesson": 36,
+      "kana": "やけます",
+      "kanji": "焼けます",
+      "character": "动2",
+      "meaning": "着火，燃烧",
+      "word_id": 38
+    },
+    {
+      "lesson": 36,
+      "kana": "さげます",
+      "kanji": "下げます",
+      "character": "动2",
+      "meaning": "降低，下降",
+      "word_id": 39
+    },
+    {
+      "lesson": 36,
+      "kana": "しっぱいします",
+      "kanji": "失敗します",
+      "character": "动3",
+      "meaning": "出岔子，失败",
+      "word_id": 40
+    },
+    {
+      "lesson": 36,
+      "kana": "くろうします",
+      "kanji": "苦労します",
+      "character": "动3",
+      "meaning": "辛苦，辛劳",
+      "word_id": 41
+    },
+    {
+      "lesson": 36,
+      "kana": "びっくりします",
+      "kanji": "",
+      "character": "动3",
+      "meaning": "吃惊，吓一跳",
+      "word_id": 42
+    },
+    {
+      "lesson": 36,
+      "kana": "しゅっせきします",
+      "kanji": "出席します",
+      "character": "动3",
+      "meaning": "出席",
+      "word_id": 43
+    },
+    {
+      "lesson": 36,
+      "kana": "かなしい",
+      "kanji": "悲しい",
+      "character": "形1",
+      "meaning": "悲伤，悲哀",
+      "word_id": 44
+    },
+    {
+      "lesson": 36,
+      "kana": "ほんと",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "真的",
+      "word_id": 45
+    },
+    {
+      "lesson": 36,
+      "kana": "とにかく",
+      "kanji": "",
+      "character": "副",
+      "meaning": "特别是，总之",
+      "word_id": 46
+    },
+    {
+      "lesson": 36,
+      "kana": "まだまだ",
+      "kanji": "",
+      "character": "副",
+      "meaning": "还，尚，仍",
+      "word_id": 47
+    },
+    {
+      "lesson": 36,
+      "kana": "ぺらぺら",
+      "kanji": "",
+      "character": "副",
+      "meaning": "流利地",
+      "word_id": 48
+    },
+    {
+      "lesson": 36,
+      "kana": "ワンワン",
+      "kanji": "",
+      "character": "副",
+      "meaning": "（狗）汪汪（叫）",
+      "word_id": 49
+    },
+    {
+      "lesson": 36,
+      "kana": "ザーザー",
+      "kanji": "",
+      "character": "副",
+      "meaning": "（雨）哗啦哗啦",
+      "word_id": 50
+    },
+    {
+      "lesson": 36,
+      "kana": "すやすや",
+      "kanji": "",
+      "character": "副",
+      "meaning": "香甜地，安静地",
+      "word_id": 51
+    },
+    {
+      "lesson": 36,
+      "kana": "くねくね",
+      "kanji": "",
+      "character": "副",
+      "meaning": "弯曲，弯弯曲曲",
+      "word_id": 52
+    },
+    {
+      "lesson": 36,
+      "kana": "メキシコ",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "墨西哥",
+      "word_id": 53
+    }
+  ]
+}

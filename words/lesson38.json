@@ -1,0 +1,300 @@
+{
+  "words": [
+    {
+      "lesson": 38,
+      "kana": "しょうひん",
+      "kanji": "商品",
+      "character": "名",
+      "meaning": "商品",
+      "word_id": 0
+    },
+    {
+      "lesson": 38,
+      "kana": "ごみばこ",
+      "kanji": "ごみ箱",
+      "character": "名",
+      "meaning": "垃圾箱",
+      "word_id": 1
+    },
+    {
+      "lesson": 38,
+      "kana": "コップ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "杯子，杯",
+      "word_id": 2
+    },
+    {
+      "lesson": 38,
+      "kana": "ペットボトル",
+      "kanji": "",
+      "character": "名",
+      "meaning": "塑料瓶",
+      "word_id": 3
+    },
+    {
+      "lesson": 38,
+      "kana": "エンジン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "发动机，引擎",
+      "word_id": 4
+    },
+    {
+      "lesson": 38,
+      "kana": "タイヤ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "轮胎",
+      "word_id": 5
+    },
+    {
+      "lesson": 38,
+      "kana": "フートン",
+      "kanji": "胡同",
+      "character": "名",
+      "meaning": "胡同",
+      "word_id": 6
+    },
+    {
+      "lesson": 38,
+      "kana": "ろじ",
+      "kanji": "路地",
+      "character": "名",
+      "meaning": "小巷，弄堂",
+      "word_id": 7
+    },
+    {
+      "lesson": 38,
+      "kana": "ヨウテイアオ",
+      "kanji": "油条",
+      "character": "名",
+      "meaning": "油条",
+      "word_id": 8
+    },
+    {
+      "lesson": 38,
+      "kana": "にほんしょく",
+      "kanji": "日本食",
+      "character": "名",
+      "meaning": "日本食品",
+      "word_id": 9
+    },
+    {
+      "lesson": 38,
+      "kana": "さしみ",
+      "kanji": "刺身",
+      "character": "名",
+      "meaning": "生鲜鱼，贝片",
+      "word_id": 10
+    },
+    {
+      "lesson": 38,
+      "kana": "たな",
+      "kanji": "棚",
+      "character": "名",
+      "meaning": "橱柜，搁板",
+      "word_id": 11
+    },
+    {
+      "lesson": 38,
+      "kana": "たたみ",
+      "kanji": "畳",
+      "character": "名",
+      "meaning": "草席，草垫",
+      "word_id": 12
+    },
+    {
+      "lesson": 38,
+      "kana": "きもの",
+      "kanji": "着物",
+      "character": "名",
+      "meaning": "和服，衣服",
+      "word_id": 13
+    },
+    {
+      "lesson": 38,
+      "kana": "ぐあい",
+      "kanji": "具合",
+      "character": "名",
+      "meaning": "情况",
+      "word_id": 14
+    },
+    {
+      "lesson": 38,
+      "kana": "ひらがな",
+      "kanji": "平仮名",
+      "character": "名",
+      "meaning": "平假名",
+      "word_id": 15
+    },
+    {
+      "lesson": 38,
+      "kana": "あかちゃん",
+      "kanji": "赤ちゃん",
+      "character": "名",
+      "meaning": "婴儿，幼儿",
+      "word_id": 16
+    },
+    {
+      "lesson": 38,
+      "kana": "はんぶん",
+      "kanji": "半分",
+      "character": "名",
+      "meaning": "一半",
+      "word_id": 17
+    },
+    {
+      "lesson": 38,
+      "kana": "さいしゅう",
+      "kanji": "最終",
+      "character": "名",
+      "meaning": "最终",
+      "word_id": 18
+    },
+    {
+      "lesson": 38,
+      "kana": "しあい",
+      "kanji": "試合",
+      "character": "名",
+      "meaning": "比赛，竞赛",
+      "word_id": 19
+    },
+    {
+      "lesson": 38,
+      "kana": "えいじしんぶん",
+      "kanji": "英字新聞",
+      "character": "名",
+      "meaning": "英文报纸",
+      "word_id": 20
+    },
+    {
+      "lesson": 38,
+      "kana": "えいせいほうそう",
+      "kanji": "衛星放送",
+      "character": "名",
+      "meaning": "卫星广播",
+      "word_id": 21
+    },
+    {
+      "lesson": 38,
+      "kana": "ストレス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "精神紧张状态",
+      "word_id": 22
+    },
+    {
+      "lesson": 38,
+      "kana": "でんとうてき",
+      "kanji": "伝統的",
+      "character": "名",
+      "meaning": "传统的",
+      "word_id": 23
+    },
+    {
+      "lesson": 38,
+      "kana": "いりくみます",
+      "kanji": "入り組みます",
+      "character": "动1",
+      "meaning": "错综复杂",
+      "word_id": 24
+    },
+    {
+      "lesson": 38,
+      "kana": "へります",
+      "kanji": "減ります",
+      "character": "动1",
+      "meaning": "减少",
+      "word_id": 25
+    },
+    {
+      "lesson": 38,
+      "kana": "うごかします",
+      "kanji": "動かします",
+      "character": "动1",
+      "meaning": "开动，移动，摇动",
+      "word_id": 26
+    },
+    {
+      "lesson": 38,
+      "kana": "かちます",
+      "kanji": "勝ちます",
+      "character": "动1",
+      "meaning": "取胜，获胜",
+      "word_id": 27
+    },
+    {
+      "lesson": 38,
+      "kana": "とおりぬけます",
+      "kanji": "通り抜けます",
+      "character": "动2",
+      "meaning": "走得出去，穿过，通过",
+      "word_id": 28
+    },
+    {
+      "lesson": 38,
+      "kana": "かんじます",
+      "kanji": "感じます",
+      "character": "动2",
+      "meaning": "感觉，觉得",
+      "word_id": 29
+    },
+    {
+      "lesson": 38,
+      "kana": "とりかえます",
+      "kanji": "取り替えます",
+      "character": "动2",
+      "meaning": "更换，交换",
+      "word_id": 30
+    },
+    {
+      "lesson": 38,
+      "kana": "てつやします",
+      "kanji": "徹夜します",
+      "character": "动3",
+      "meaning": "熬通宵，彻夜",
+      "word_id": 31
+    },
+    {
+      "lesson": 38,
+      "kana": "やけどします",
+      "kanji": "火傷します",
+      "character": "动3",
+      "meaning": "烫伤，烧伤",
+      "word_id": 32
+    },
+    {
+      "lesson": 38,
+      "kana": "なんだか",
+      "kanji": "",
+      "character": "副",
+      "meaning": "总觉得，总有点",
+      "word_id": 33
+    },
+    {
+      "lesson": 38,
+      "kana": "うえのどうぶつえん",
+      "kanji": "上野動物園",
+      "character": "专有词",
+      "meaning": "上野动物园",
+      "word_id": 34
+    },
+    {
+      "lesson": 38,
+      "kana": "このへん",
+      "kanji": "この辺",
+      "character": "",
+      "meaning": "这一带，这附近，这儿",
+      "word_id": 35
+    },
+    {
+      "lesson": 38,
+      "kana": "いそいで",
+      "kanji": "急いで",
+      "character": "",
+      "meaning": "急急忙忙地，匆忙地",
+      "word_id": 36
+    }
+  ]
+}

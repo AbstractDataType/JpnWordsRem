@@ -1,0 +1,356 @@
+{
+  "words": [
+    {
+      "lesson": 6,
+      "kana": "らいげつ",
+      "kanji": "来月",
+      "character": "名",
+      "meaning": "下个月",
+      "word_id": 0
+    },
+    {
+      "lesson": 6,
+      "kana": "せんげつ",
+      "kanji": "先月",
+      "character": "名",
+      "meaning": "上个月",
+      "word_id": 1
+    },
+    {
+      "lesson": 6,
+      "kana": "よなか",
+      "kanji": "夜中",
+      "character": "名",
+      "meaning": "午夜，半夜",
+      "word_id": 2
+    },
+    {
+      "lesson": 6,
+      "kana": "ゆうべ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "昨天晚上",
+      "word_id": 3
+    },
+    {
+      "lesson": 6,
+      "kana": "コンサート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "音乐会",
+      "word_id": 4
+    },
+    {
+      "lesson": 6,
+      "kana": "クリスマス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "圣诞节",
+      "word_id": 5
+    },
+    {
+      "lesson": 6,
+      "kana": "たんじょうび",
+      "kanji": "誕生日",
+      "character": "名",
+      "meaning": "生日",
+      "word_id": 6
+    },
+    {
+      "lesson": 6,
+      "kana": "こどものひ",
+      "kanji": "こどもの日",
+      "character": "名",
+      "meaning": "儿童节",
+      "word_id": 7
+    },
+    {
+      "lesson": 6,
+      "kana": "なつやすみ",
+      "kanji": "夏休み",
+      "character": "名",
+      "meaning": "暑假",
+      "word_id": 8
+    },
+    {
+      "lesson": 6,
+      "kana": "こうつうきかん",
+      "kanji": "交通機関",
+      "character": "名",
+      "meaning": "交通工具",
+      "word_id": 9
+    },
+    {
+      "lesson": 6,
+      "kana": "しんかんせん",
+      "kanji": "新幹線",
+      "character": "名",
+      "meaning": "新干线",
+      "word_id": 10
+    },
+    {
+      "lesson": 6,
+      "kana": "ひこうき",
+      "kanji": "飛行機",
+      "character": "名",
+      "meaning": "飞机",
+      "word_id": 11
+    },
+    {
+      "lesson": 6,
+      "kana": "フェリー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "渡轮",
+      "word_id": 12
+    },
+    {
+      "lesson": 6,
+      "kana": "でんしゃ",
+      "kanji": "電車",
+      "character": "名",
+      "meaning": "电车",
+      "word_id": 13
+    },
+    {
+      "lesson": 6,
+      "kana": "バス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "公共汽车",
+      "word_id": 14
+    },
+    {
+      "lesson": 6,
+      "kana": "タクシー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "出租车",
+      "word_id": 15
+    },
+    {
+      "lesson": 6,
+      "kana": "びじゅつかん",
+      "kanji": "美術館",
+      "character": "名",
+      "meaning": "美术馆",
+      "word_id": 16
+    },
+    {
+      "lesson": 6,
+      "kana": "アパート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "公寓",
+      "word_id": 17
+    },
+    {
+      "lesson": 6,
+      "kana": "うち",
+      "kanji": "",
+      "character": "名",
+      "meaning": "家",
+      "word_id": 18
+    },
+    {
+      "lesson": 6,
+      "kana": "プール",
+      "kanji": "",
+      "character": "名",
+      "meaning": "游泳池",
+      "word_id": 19
+    },
+    {
+      "lesson": 6,
+      "kana": "ともだち",
+      "kanji": "友達",
+      "character": "名",
+      "meaning": "朋友",
+      "word_id": 20
+    },
+    {
+      "lesson": 6,
+      "kana": "おとうと",
+      "kanji": "弟",
+      "character": "名",
+      "meaning": "弟弟",
+      "word_id": 21
+    },
+    {
+      "lesson": 6,
+      "kana": "いきます",
+      "kanji": "行きます",
+      "character": "动1",
+      "meaning": "去",
+      "word_id": 22
+    },
+    {
+      "lesson": 6,
+      "kana": "かえります",
+      "kanji": "帰ります",
+      "character": "动1",
+      "meaning": "回来，回去",
+      "word_id": 23
+    },
+    {
+      "lesson": 6,
+      "kana": "きます",
+      "kanji": "来ます",
+      "character": "动3",
+      "meaning": "来",
+      "word_id": 24
+    },
+    {
+      "lesson": 6,
+      "kana": "たしか",
+      "kanji": "",
+      "character": "副",
+      "meaning": "好像是，大概；的确",
+      "word_id": 25
+    },
+    {
+      "lesson": 6,
+      "kana": "まっすぐ",
+      "kanji": "",
+      "character": "副",
+      "meaning": "径直，笔直",
+      "word_id": 26
+    },
+    {
+      "lesson": 6,
+      "kana": "いっしょに",
+      "kanji": "",
+      "character": "副",
+      "meaning": "一起",
+      "word_id": 27
+    },
+    {
+      "lesson": 6,
+      "kana": "さとう",
+      "kanji": "佐藤",
+      "character": "专有词",
+      "meaning": "佐藤",
+      "word_id": 28
+    },
+    {
+      "lesson": 6,
+      "kana": "ペキン",
+      "kanji": "北京",
+      "character": "专有词",
+      "meaning": "北京",
+      "word_id": 29
+    },
+    {
+      "lesson": 6,
+      "kana": "アメリカ",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "美国",
+      "word_id": 30
+    },
+    {
+      "lesson": 6,
+      "kana": "かんこく",
+      "kanji": "韓国",
+      "character": "专有词",
+      "meaning": "韩国",
+      "word_id": 31
+    },
+    {
+      "lesson": 6,
+      "kana": "フランス",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "法国",
+      "word_id": 32
+    },
+    {
+      "lesson": 6,
+      "kana": "ひろしま",
+      "kanji": "広島",
+      "character": "专有词",
+      "meaning": "广岛",
+      "word_id": 33
+    },
+    {
+      "lesson": 6,
+      "kana": "きょうと",
+      "kanji": "京都",
+      "character": "专有词",
+      "meaning": "京都",
+      "word_id": 34
+    },
+    {
+      "lesson": 6,
+      "kana": "ほっかいどう",
+      "kanji": "北海道",
+      "character": "专有词",
+      "meaning": "北海道",
+      "word_id": 35
+    },
+    {
+      "lesson": 6,
+      "kana": "はこね",
+      "kanji": "箱根",
+      "character": "专有词",
+      "meaning": "箱根",
+      "word_id": 36
+    },
+    {
+      "lesson": 6,
+      "kana": "ぎんざ",
+      "kanji": "銀座",
+      "character": "专有词",
+      "meaning": "银座",
+      "word_id": 37
+    },
+    {
+      "lesson": 6,
+      "kana": "しぶや",
+      "kanji": "渋谷",
+      "character": "专有词",
+      "meaning": "涩谷",
+      "word_id": 38
+    },
+    {
+      "lesson": 6,
+      "kana": "しんじゅく",
+      "kanji": "新宿",
+      "character": "专有词",
+      "meaning": "新宿",
+      "word_id": 39
+    },
+    {
+      "lesson": 6,
+      "kana": "おつかれさまでした",
+      "kanji": "お疲れ様でした",
+      "character": "",
+      "meaning": "够累的",
+      "word_id": 40
+    },
+    {
+      "lesson": 6,
+      "kana": "おさきにしつれいします",
+      "kanji": "お先に失礼します",
+      "character": "",
+      "meaning": "我先走了，我先告辞了",
+      "word_id": 41
+    },
+    {
+      "lesson": 6,
+      "kana": "あるいて",
+      "kanji": "歩いて",
+      "character": "",
+      "meaning": "步行",
+      "word_id": 42
+    },
+    {
+      "lesson": 6,
+      "kana": "たいへんですね",
+      "kanji": "大変ですね",
+      "character": "",
+      "meaning": "真不容易，够受的，不得了",
+      "word_id": 43
+    }
+  ]
+}

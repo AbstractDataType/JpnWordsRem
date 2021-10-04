@@ -1,0 +1,324 @@
+{
+  "words": [
+    {
+      "lesson": 20,
+      "kana": "しゅみ",
+      "kanji": "趣味",
+      "character": "名",
+      "meaning": "爱好",
+      "word_id": 0
+    },
+    {
+      "lesson": 20,
+      "kana": "とくぎ",
+      "kanji": "特技",
+      "character": "名",
+      "meaning": "特长，拿手的技术",
+      "word_id": 1
+    },
+    {
+      "lesson": 20,
+      "kana": "きょうみ",
+      "kanji": "興味",
+      "character": "名",
+      "meaning": "兴趣",
+      "word_id": 2
+    },
+    {
+      "lesson": 20,
+      "kana": "ゆめ",
+      "kanji": "夢",
+      "character": "名",
+      "meaning": "梦，理想",
+      "word_id": 3
+    },
+    {
+      "lesson": 20,
+      "kana": "ギター",
+      "kanji": "",
+      "character": "名",
+      "meaning": "吉他",
+      "word_id": 4
+    },
+    {
+      "lesson": 20,
+      "kana": "こきゅう",
+      "kanji": "胡弓",
+      "character": "名",
+      "meaning": "胡琴",
+      "word_id": 5
+    },
+    {
+      "lesson": 20,
+      "kana": "しょどう",
+      "kanji": "書道",
+      "character": "名",
+      "meaning": "书法",
+      "word_id": 6
+    },
+    {
+      "lesson": 20,
+      "kana": "つり",
+      "kanji": "釣り",
+      "character": "名",
+      "meaning": "钓鱼",
+      "word_id": 7
+    },
+    {
+      "lesson": 20,
+      "kana": "ドライブ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "兜风，开汽车远游",
+      "word_id": 8
+    },
+    {
+      "lesson": 20,
+      "kana": "あみもの",
+      "kanji": "編み物",
+      "character": "",
+      "meaning": "编制；编织品",
+      "word_id": 9
+    },
+    {
+      "lesson": 20,
+      "kana": "てづくり",
+      "kanji": "手作り",
+      "character": "名",
+      "meaning": "手工做，自己做，手制",
+      "word_id": 10
+    },
+    {
+      "lesson": 20,
+      "kana": "ちゅうかがい",
+      "kanji": "中華街",
+      "character": "名",
+      "meaning": "中华街",
+      "word_id": 11
+    },
+    {
+      "lesson": 20,
+      "kana": "ちゅうかりょうり",
+      "kanji": "中華料理",
+      "character": "名",
+      "meaning": "中国菜",
+      "word_id": 12
+    },
+    {
+      "lesson": 20,
+      "kana": "ギョーザ",
+      "kanji": "餃子",
+      "character": "名",
+      "meaning": "饺子",
+      "word_id": 13
+    },
+    {
+      "lesson": 20,
+      "kana": "かわ",
+      "kanji": "皮",
+      "character": "名",
+      "meaning": "皮",
+      "word_id": 14
+    },
+    {
+      "lesson": 20,
+      "kana": "しゅんせつ",
+      "kanji": "春節",
+      "character": "名",
+      "meaning": "春节",
+      "word_id": 15
+    },
+    {
+      "lesson": 20,
+      "kana": "ししまい",
+      "kanji": "獅子舞",
+      "character": "名",
+      "meaning": "狮子舞",
+      "word_id": 16
+    },
+    {
+      "lesson": 20,
+      "kana": "りょう",
+      "kanji": "寮",
+      "character": "名",
+      "meaning": "宿舍",
+      "word_id": 17
+    },
+    {
+      "lesson": 20,
+      "kana": "せんたくき",
+      "kanji": "洗濯機",
+      "character": "名",
+      "meaning": "洗衣机",
+      "word_id": 18
+    },
+    {
+      "lesson": 20,
+      "kana": "シャワー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "淋浴",
+      "word_id": 19
+    },
+    {
+      "lesson": 20,
+      "kana": "おなか",
+      "kanji": "",
+      "character": "名",
+      "meaning": "肚子",
+      "word_id": 20
+    },
+    {
+      "lesson": 20,
+      "kana": "じゅぎょう",
+      "kanji": "授業",
+      "character": "名",
+      "meaning": "授课，上课",
+      "word_id": 21
+    },
+    {
+      "lesson": 20,
+      "kana": "しりょう",
+      "kanji": "資料",
+      "character": "名",
+      "meaning": "资料",
+      "word_id": 22
+    },
+    {
+      "lesson": 20,
+      "kana": "フランスご",
+      "kanji": "フランス語",
+      "character": "名",
+      "meaning": "法语",
+      "word_id": 23
+    },
+    {
+      "lesson": 20,
+      "kana": "しょうせつ",
+      "kanji": "小説",
+      "character": "名",
+      "meaning": "小说",
+      "word_id": 24
+    },
+    {
+      "lesson": 20,
+      "kana": "かいがん",
+      "kanji": "海岸",
+      "character": "名",
+      "meaning": "海岸",
+      "word_id": 25
+    },
+    {
+      "lesson": 20,
+      "kana": "ふゆやすみ",
+      "kanji": "冬休み",
+      "character": "名",
+      "meaning": "寒假",
+      "word_id": 26
+    },
+    {
+      "lesson": 20,
+      "kana": "キャンプ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "野营",
+      "word_id": 27
+    },
+    {
+      "lesson": 20,
+      "kana": "みんな",
+      "kanji": "",
+      "character": "名",
+      "meaning": "大家",
+      "word_id": 28
+    },
+    {
+      "lesson": 20,
+      "kana": "じぶん",
+      "kanji": "自分",
+      "character": "名",
+      "meaning": "自己",
+      "word_id": 29
+    },
+    {
+      "lesson": 20,
+      "kana": "ぜんいん",
+      "kanji": "全員",
+      "character": "名",
+      "meaning": "全员",
+      "word_id": 30
+    },
+    {
+      "lesson": 20,
+      "kana": "ひきます",
+      "kanji": "弾きます",
+      "character": "动1",
+      "meaning": "弹",
+      "word_id": 31
+    },
+    {
+      "lesson": 20,
+      "kana": "すきます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "（肚子）饿，空",
+      "word_id": 32
+    },
+    {
+      "lesson": 20,
+      "kana": "のぼります",
+      "kanji": "登ります",
+      "character": "动1",
+      "meaning": "登，上",
+      "word_id": 33
+    },
+    {
+      "lesson": 20,
+      "kana": "あつめます",
+      "kanji": "集めます",
+      "character": "动2",
+      "meaning": "收集",
+      "word_id": 34
+    },
+    {
+      "lesson": 20,
+      "kana": "あびます",
+      "kanji": "浴びます",
+      "character": "动2",
+      "meaning": "淋；浇",
+      "word_id": 35
+    },
+    {
+      "lesson": 20,
+      "kana": "ごちそうします",
+      "kanji": "",
+      "character": "动3",
+      "meaning": "请客，摆盛宴",
+      "word_id": 36
+    },
+    {
+      "lesson": 20,
+      "kana": "きこくします",
+      "kanji": "帰国します",
+      "character": "动3",
+      "meaning": "回国",
+      "word_id": 37
+    },
+    {
+      "lesson": 20,
+      "kana": "とくに",
+      "kanji": "特に",
+      "character": "副",
+      "meaning": "特别",
+      "word_id": 38
+    },
+    {
+      "lesson": 20,
+      "kana": "おなかがすきます",
+      "kanji": "",
+      "character": "",
+      "meaning": "肚子饿",
+      "word_id": 39
+    }
+  ]
+}

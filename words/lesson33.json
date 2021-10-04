@@ -1,0 +1,380 @@
+{
+  "words": [
+    {
+      "lesson": 33,
+      "kana": "スーツケース",
+      "kanji": "",
+      "character": "名",
+      "meaning": "旅行箱",
+      "word_id": 0
+    },
+    {
+      "lesson": 33,
+      "kana": "トランク",
+      "kanji": "",
+      "character": "名",
+      "meaning": "后备箱；手提箱，皮箱",
+      "word_id": 1
+    },
+    {
+      "lesson": 33,
+      "kana": "スーツ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "西服，女套装",
+      "word_id": 2
+    },
+    {
+      "lesson": 33,
+      "kana": "ズボン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "裤子",
+      "word_id": 3
+    },
+    {
+      "lesson": 33,
+      "kana": "テイーシャツ",
+      "kanji": "Tシャツ",
+      "character": "名",
+      "meaning": "T恤衫",
+      "word_id": 4
+    },
+    {
+      "lesson": 33,
+      "kana": "サンダル",
+      "kanji": "",
+      "character": "名",
+      "meaning": "凉鞋",
+      "word_id": 5
+    },
+    {
+      "lesson": 33,
+      "kana": "ぼうし",
+      "kanji": "帽子",
+      "character": "名",
+      "meaning": "帽子",
+      "word_id": 6
+    },
+    {
+      "lesson": 33,
+      "kana": "うでどけい",
+      "kanji": "腕時計",
+      "character": "名",
+      "meaning": "手表",
+      "word_id": 7
+    },
+    {
+      "lesson": 33,
+      "kana": "こもの",
+      "kanji": "小物",
+      "character": "名",
+      "meaning": "小东西，细小的附件",
+      "word_id": 8
+    },
+    {
+      "lesson": 33,
+      "kana": "うんてんしゅ",
+      "kanji": "運転手",
+      "character": "名",
+      "meaning": "司机",
+      "word_id": 9
+    },
+    {
+      "lesson": 33,
+      "kana": "から",
+      "kanji": "空",
+      "character": "名",
+      "meaning": "空",
+      "word_id": 10
+    },
+    {
+      "lesson": 33,
+      "kana": "うんどうかい",
+      "kanji": "運動会",
+      "character": "名",
+      "meaning": "运动会",
+      "word_id": 11
+    },
+    {
+      "lesson": 33,
+      "kana": "チーム",
+      "kanji": "",
+      "character": "名",
+      "meaning": "队，团体",
+      "word_id": 12
+    },
+    {
+      "lesson": 33,
+      "kana": "さいご",
+      "kanji": "最後",
+      "character": "名",
+      "meaning": "最后",
+      "word_id": 13
+    },
+    {
+      "lesson": 33,
+      "kana": "さいかい",
+      "kanji": "再会",
+      "character": "名",
+      "meaning": "重逢，再会",
+      "word_id": 14
+    },
+    {
+      "lesson": 33,
+      "kana": "ひさしぶり",
+      "kanji": "久しぶり",
+      "character": "名",
+      "meaning": "好久不见",
+      "word_id": 15
+    },
+    {
+      "lesson": 33,
+      "kana": "カキ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "柿子",
+      "word_id": 16
+    },
+    {
+      "lesson": 33,
+      "kana": "せいりょういんりょうすい",
+      "kanji": "清涼飲料水",
+      "character": "名",
+      "meaning": "清凉饮料",
+      "word_id": 17
+    },
+    {
+      "lesson": 33,
+      "kana": "しまります",
+      "kanji": "閉まります",
+      "character": "动1",
+      "meaning": "关闭，关",
+      "word_id": 18
+    },
+    {
+      "lesson": 33,
+      "kana": "こわします",
+      "kanji": "壊します",
+      "character": "动1",
+      "meaning": "弄坏",
+      "word_id": 19
+    },
+    {
+      "lesson": 33,
+      "kana": "わります",
+      "kanji": "割ります",
+      "character": "动1",
+      "meaning": "割开，打破，打坏",
+      "word_id": 20
+    },
+    {
+      "lesson": 33,
+      "kana": "つきます",
+      "kanji": "付きます",
+      "character": "动1",
+      "meaning": "附带，附加",
+      "word_id": 21
+    },
+    {
+      "lesson": 33,
+      "kana": "かかります",
+      "kanji": "掛かります",
+      "character": "动1",
+      "meaning": "挂，悬挂",
+      "word_id": 22
+    },
+    {
+      "lesson": 33,
+      "kana": "よごします",
+      "kanji": "汚します",
+      "character": "动1",
+      "meaning": "弄脏",
+      "word_id": 23
+    },
+    {
+      "lesson": 33,
+      "kana": "やみます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "停，停息，停止",
+      "word_id": 24
+    },
+    {
+      "lesson": 33,
+      "kana": "たちます",
+      "kanji": "建ちます",
+      "character": "动1",
+      "meaning": "盖，建",
+      "word_id": 25
+    },
+    {
+      "lesson": 33,
+      "kana": "ならびます",
+      "kanji": "並びます",
+      "character": "动1",
+      "meaning": "排队，排，列队",
+      "word_id": 26
+    },
+    {
+      "lesson": 33,
+      "kana": "つきます",
+      "kanji": "着きます",
+      "character": "动1",
+      "meaning": "到，到达",
+      "word_id": 27
+    },
+    {
+      "lesson": 33,
+      "kana": "かぶります",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "戴",
+      "word_id": 28
+    },
+    {
+      "lesson": 33,
+      "kana": "はきます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "穿（鞋，裤子）",
+      "word_id": 29
+    },
+    {
+      "lesson": 33,
+      "kana": "かいます",
+      "kanji": "飼います",
+      "character": "动1",
+      "meaning": "饲养",
+      "word_id": 30
+    },
+    {
+      "lesson": 33,
+      "kana": "きえます",
+      "kanji": "消えます",
+      "character": "动2",
+      "meaning": "熄灭，消失",
+      "word_id": 31
+    },
+    {
+      "lesson": 33,
+      "kana": "かけます",
+      "kanji": "掛けます",
+      "character": "动2",
+      "meaning": "挂",
+      "word_id": 32
+    },
+    {
+      "lesson": 33,
+      "kana": "おちます",
+      "kanji": "落ちます",
+      "character": "动2",
+      "meaning": "落下，掉",
+      "word_id": 33
+    },
+    {
+      "lesson": 33,
+      "kana": "われます",
+      "kanji": "割れます",
+      "character": "动2",
+      "meaning": "裂开，破裂",
+      "word_id": 34
+    },
+    {
+      "lesson": 33,
+      "kana": "たてます",
+      "kanji": "建てます",
+      "character": "动2",
+      "meaning": "盖，建造",
+      "word_id": 35
+    },
+    {
+      "lesson": 33,
+      "kana": "まけます",
+      "kanji": "負けます",
+      "character": "动2",
+      "meaning": "输，败",
+      "word_id": 36
+    },
+    {
+      "lesson": 33,
+      "kana": "よごれます",
+      "kanji": "汚れます",
+      "character": "动2",
+      "meaning": "脏",
+      "word_id": 37
+    },
+    {
+      "lesson": 33,
+      "kana": "えらい",
+      "kanji": "偉い",
+      "character": "形1",
+      "meaning": "了不起，伟大",
+      "word_id": 38
+    },
+    {
+      "lesson": 33,
+      "kana": "らく",
+      "kanji": "楽",
+      "character": "形2",
+      "meaning": "容易，简易；快乐，轻松",
+      "word_id": 39
+    },
+    {
+      "lesson": 33,
+      "kana": "ざんねん",
+      "kanji": "残念",
+      "character": "形2",
+      "meaning": "可惜，遗憾",
+      "word_id": 40
+    },
+    {
+      "lesson": 33,
+      "kana": "きゅうに",
+      "kanji": "急に",
+      "character": "副",
+      "meaning": "突然",
+      "word_id": 41
+    },
+    {
+      "lesson": 33,
+      "kana": "ぜんぶ",
+      "kanji": "全部",
+      "character": "副",
+      "meaning": "全部",
+      "word_id": 42
+    },
+    {
+      "lesson": 33,
+      "kana": "あいかわらず",
+      "kanji": "相変わらず",
+      "character": "副",
+      "meaning": "照旧，依然",
+      "word_id": 43
+    },
+    {
+      "lesson": 33,
+      "kana": "うっかり",
+      "kanji": "",
+      "character": "副",
+      "meaning": "不留神，不注意",
+      "word_id": 44
+    },
+    {
+      "lesson": 33,
+      "kana": "それにすても",
+      "kanji": "",
+      "character": "连",
+      "meaning": "即便那样，话虽如此",
+      "word_id": 45
+    },
+    {
+      "lesson": 33,
+      "kana": "おひさしぶりです",
+      "kanji": "お久しぶりです",
+      "character": "",
+      "meaning": "好久不见",
+      "word_id": 46
+    }
+  ]
+}

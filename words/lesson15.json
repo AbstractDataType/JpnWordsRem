@@ -1,0 +1,356 @@
+{
+  "words": [
+    {
+      "lesson": 15,
+      "kana": "ボート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "小船，小艇",
+      "word_id": 0
+    },
+    {
+      "lesson": 15,
+      "kana": "ベンチ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "长椅，长凳",
+      "word_id": 1
+    },
+    {
+      "lesson": 15,
+      "kana": "しやくしょ",
+      "kanji": "市役所",
+      "character": "名",
+      "meaning": "市政府",
+      "word_id": 2
+    },
+    {
+      "lesson": 15,
+      "kana": "けいたいでんわ",
+      "kanji": "携帯電話",
+      "character": "名",
+      "meaning": "手机",
+      "word_id": 3
+    },
+    {
+      "lesson": 15,
+      "kana": "きんえん",
+      "kanji": "禁煙",
+      "character": "名",
+      "meaning": "禁止吸烟",
+      "word_id": 4
+    },
+    {
+      "lesson": 15,
+      "kana": "かぜ",
+      "kanji": "風邪",
+      "character": "名",
+      "meaning": "感冒",
+      "word_id": 5
+    },
+    {
+      "lesson": 15,
+      "kana": "ねつ",
+      "kanji": "熱",
+      "character": "名",
+      "meaning": "发烧，体温",
+      "word_id": 6
+    },
+    {
+      "lesson": 15,
+      "kana": "すいみん",
+      "kanji": "睡眠",
+      "character": "名",
+      "meaning": "睡眠",
+      "word_id": 7
+    },
+    {
+      "lesson": 15,
+      "kana": "おふろ",
+      "kanji": "お風呂",
+      "character": "名",
+      "meaning": "澡堂，浴室",
+      "word_id": 8
+    },
+    {
+      "lesson": 15,
+      "kana": "やっきょく",
+      "kanji": "薬局",
+      "character": "名",
+      "meaning": "药店",
+      "word_id": 9
+    },
+    {
+      "lesson": 15,
+      "kana": "クーラー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "空调",
+      "word_id": 10
+    },
+    {
+      "lesson": 15,
+      "kana": "ひ",
+      "kanji": "火",
+      "character": "名",
+      "meaning": "火",
+      "word_id": 11
+    },
+    {
+      "lesson": 15,
+      "kana": "き",
+      "kanji": "気",
+      "character": "名",
+      "meaning": "精神，意识",
+      "word_id": 12
+    },
+    {
+      "lesson": 15,
+      "kana": "うちあわせ",
+      "kanji": "打ち合わせ",
+      "character": "名",
+      "meaning": "事先商量，碰头，商洽",
+      "word_id": 13
+    },
+    {
+      "lesson": 15,
+      "kana": "むり",
+      "kanji": "無理",
+      "character": "名",
+      "meaning": "勉强，难以办到",
+      "word_id": 14
+    },
+    {
+      "lesson": 15,
+      "kana": "ちゅうしゃきんし",
+      "kanji": "駐車禁止",
+      "character": "名",
+      "meaning": "禁止停车",
+      "word_id": 15
+    },
+    {
+      "lesson": 15,
+      "kana": "たちいりきんし",
+      "kanji": "立入禁止",
+      "character": "名",
+      "meaning": "禁止进入",
+      "word_id": 16
+    },
+    {
+      "lesson": 15,
+      "kana": "かきげんきん",
+      "kanji": "火気厳禁",
+      "character": "名",
+      "meaning": "严禁烟火",
+      "word_id": 17
+    },
+    {
+      "lesson": 15,
+      "kana": "さつえいきんし",
+      "kanji": "撮影禁止",
+      "character": "名",
+      "meaning": "禁止拍照",
+      "word_id": 18
+    },
+    {
+      "lesson": 15,
+      "kana": "のります",
+      "kanji": "乗ります",
+      "character": "动1",
+      "meaning": "乘坐，乘",
+      "word_id": 19
+    },
+    {
+      "lesson": 15,
+      "kana": "つかいます",
+      "kanji": "使います",
+      "character": "动1",
+      "meaning": "用，使用",
+      "word_id": 20
+    },
+    {
+      "lesson": 15,
+      "kana": "すわります",
+      "kanji": "座ります",
+      "character": "动1",
+      "meaning": "坐，落座",
+      "word_id": 21
+    },
+    {
+      "lesson": 15,
+      "kana": "はいります",
+      "kanji": "入ります",
+      "character": "动1",
+      "meaning": "进入，加入",
+      "word_id": 22
+    },
+    {
+      "lesson": 15,
+      "kana": "もうします",
+      "kanji": "申します",
+      "character": "动1",
+      "meaning": "是，说，讲，告诉",
+      "word_id": 23
+    },
+    {
+      "lesson": 15,
+      "kana": "とります",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "取，取得",
+      "word_id": 24
+    },
+    {
+      "lesson": 15,
+      "kana": "うたいます",
+      "kanji": "歌います",
+      "character": "动1",
+      "meaning": "唱，歌唱",
+      "word_id": 25
+    },
+    {
+      "lesson": 15,
+      "kana": "つたえます",
+      "kanji": "伝えます",
+      "character": "动2",
+      "meaning": "说，传达，转告",
+      "word_id": 26
+    },
+    {
+      "lesson": 15,
+      "kana": "とめます",
+      "kanji": "止めます",
+      "character": "动2",
+      "meaning": "停，制止",
+      "word_id": 27
+    },
+    {
+      "lesson": 15,
+      "kana": "あたたかい",
+      "kanji": "暖かい",
+      "character": "形1",
+      "meaning": "热乎，温暖",
+      "word_id": 28
+    },
+    {
+      "lesson": 15,
+      "kana": "だいじょうぶ",
+      "kanji": "大丈夫",
+      "character": "形2",
+      "meaning": "没关系，放心",
+      "word_id": 29
+    },
+    {
+      "lesson": 15,
+      "kana": "だめ",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "不行，不可以",
+      "word_id": 30
+    },
+    {
+      "lesson": 15,
+      "kana": "じゅうぶん",
+      "kanji": "十分",
+      "character": "副",
+      "meaning": "好好地，充足地",
+      "word_id": 31
+    },
+    {
+      "lesson": 15,
+      "kana": "もちろん",
+      "kanji": "",
+      "character": "副",
+      "meaning": "当然，不用说",
+      "word_id": 32
+    },
+    {
+      "lesson": 15,
+      "kana": "ゆっくり",
+      "kanji": "",
+      "character": "副",
+      "meaning": "好好地，安静地",
+      "word_id": 33
+    },
+    {
+      "lesson": 15,
+      "kana": "もしもし",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "喂",
+      "word_id": 34
+    },
+    {
+      "lesson": 15,
+      "kana": "いえ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "不，不是",
+      "word_id": 35
+    },
+    {
+      "lesson": 15,
+      "kana": "おだいじに",
+      "kanji": "お大事に",
+      "character": "",
+      "meaning": "请多保重",
+      "word_id": 36
+    },
+    {
+      "lesson": 15,
+      "kana": "いけません",
+      "kanji": "",
+      "character": "",
+      "meaning": "不行，不可以",
+      "word_id": 37
+    },
+    {
+      "lesson": 15,
+      "kana": "かまいません",
+      "kanji": "",
+      "character": "",
+      "meaning": "没关系，不要紧",
+      "word_id": 38
+    },
+    {
+      "lesson": 15,
+      "kana": "まだです",
+      "kanji": "",
+      "character": "",
+      "meaning": "还没有，仍然……没有",
+      "word_id": 39
+    },
+    {
+      "lesson": 15,
+      "kana": "きをつけます",
+      "kanji": "気をつけます",
+      "character": "",
+      "meaning": "注意",
+      "word_id": 40
+    },
+    {
+      "lesson": 15,
+      "kana": "むりをします",
+      "kanji": "無理をします",
+      "character": "",
+      "meaning": "勉强",
+      "word_id": 41
+    },
+    {
+      "lesson": 15,
+      "kana": "すいみんをとります",
+      "kanji": "睡眠をとります",
+      "character": "",
+      "meaning": "睡觉",
+      "word_id": 42
+    },
+    {
+      "lesson": 15,
+      "kana": "おふろにはいります",
+      "kanji": "お風呂にはいります",
+      "character": "",
+      "meaning": "洗澡",
+      "word_id": 43
+    }
+  ]
+}

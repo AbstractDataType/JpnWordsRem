@@ -1,0 +1,212 @@
+{
+  "words": [
+    {
+      "lesson": 21,
+      "kana": "ことば",
+      "kanji": "言葉",
+      "character": "名",
+      "meaning": "语言",
+      "word_id": 0
+    },
+    {
+      "lesson": 21,
+      "kana": "メールアドレス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "邮件地址",
+      "word_id": 1
+    },
+    {
+      "lesson": 21,
+      "kana": "れんきゅう",
+      "kanji": "連休",
+      "character": "名",
+      "meaning": "连休",
+      "word_id": 2
+    },
+    {
+      "lesson": 21,
+      "kana": "ゴールデンウィーク",
+      "kanji": "",
+      "character": "名",
+      "meaning": "黄金周",
+      "word_id": 3
+    },
+    {
+      "lesson": 21,
+      "kana": "おわり",
+      "kanji": "終わり",
+      "character": "名",
+      "meaning": "结束",
+      "word_id": 4
+    },
+    {
+      "lesson": 21,
+      "kana": "きゅうけいじかん",
+      "kanji": "休憩時間",
+      "character": "名",
+      "meaning": "休息时间",
+      "word_id": 5
+    },
+    {
+      "lesson": 21,
+      "kana": "きょうげき",
+      "kanji": "京劇",
+      "character": "名",
+      "meaning": "京剧",
+      "word_id": 6
+    },
+    {
+      "lesson": 21,
+      "kana": "きっぷ",
+      "kanji": "切符",
+      "character": "名",
+      "meaning": "票（券）",
+      "word_id": 7
+    },
+    {
+      "lesson": 21,
+      "kana": "からだ",
+      "kanji": "体",
+      "character": "名",
+      "meaning": "身体",
+      "word_id": 8
+    },
+    {
+      "lesson": 21,
+      "kana": "じしん",
+      "kanji": "地震",
+      "character": "名",
+      "meaning": "地震",
+      "word_id": 9
+    },
+    {
+      "lesson": 21,
+      "kana": "どろぼう",
+      "kanji": "泥棒",
+      "character": "名",
+      "meaning": "小偷，盗贼",
+      "word_id": 10
+    },
+    {
+      "lesson": 21,
+      "kana": "ちゅうしゃじょう",
+      "kanji": "駐車場",
+      "character": "名",
+      "meaning": "停车场",
+      "word_id": 11
+    },
+    {
+      "lesson": 21,
+      "kana": "わたします",
+      "kanji": "渡します",
+      "character": "动1",
+      "meaning": "交给",
+      "word_id": 12
+    },
+    {
+      "lesson": 21,
+      "kana": "おくれます",
+      "kanji": "遅れます",
+      "character": "动2",
+      "meaning": "迟到",
+      "word_id": 13
+    },
+    {
+      "lesson": 21,
+      "kana": "かんがえます",
+      "kanji": "考えます",
+      "character": "动2",
+      "meaning": "考虑",
+      "word_id": 14
+    },
+    {
+      "lesson": 21,
+      "kana": "しらべます",
+      "kanji": "調べます",
+      "character": "动2",
+      "meaning": "调查",
+      "word_id": 15
+    },
+    {
+      "lesson": 21,
+      "kana": "きます",
+      "kanji": "着ます",
+      "character": "动2",
+      "meaning": "穿",
+      "word_id": 16
+    },
+    {
+      "lesson": 21,
+      "kana": "よやくします",
+      "kanji": "予約します",
+      "character": "动3",
+      "meaning": "预约",
+      "word_id": 17
+    },
+    {
+      "lesson": 21,
+      "kana": "かんしゃします",
+      "kanji": "感謝します",
+      "character": "动3",
+      "meaning": "感谢",
+      "word_id": 18
+    },
+    {
+      "lesson": 21,
+      "kana": "うんどうします",
+      "kanji": "運動します",
+      "character": "动3",
+      "meaning": "运动",
+      "word_id": 19
+    },
+    {
+      "lesson": 21,
+      "kana": "せんたくします",
+      "kanji": "洗濯します",
+      "character": "动3",
+      "meaning": "洗涤，洗",
+      "word_id": 20
+    },
+    {
+      "lesson": 21,
+      "kana": "ほうこくします",
+      "kanji": "報告します",
+      "character": "动3",
+      "meaning": "报告",
+      "word_id": 21
+    },
+    {
+      "lesson": 21,
+      "kana": "あぶない",
+      "kanji": "危ない",
+      "character": "形1",
+      "meaning": "危险",
+      "word_id": 22
+    },
+    {
+      "lesson": 21,
+      "kana": "これとも",
+      "kanji": "",
+      "character": "连",
+      "meaning": "还是，或者",
+      "word_id": 23
+    },
+    {
+      "lesson": 21,
+      "kana": "とうきょうタワー",
+      "kanji": "東京タワー",
+      "character": "专有词",
+      "meaning": "东京塔",
+      "word_id": 24
+    },
+    {
+      "lesson": 21,
+      "kana": "そんなに",
+      "kanji": "",
+      "character": "",
+      "meaning": "那么",
+      "word_id": 25
+    }
+  ]
+}

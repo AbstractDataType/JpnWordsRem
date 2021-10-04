@@ -1,0 +1,508 @@
+{
+  "words": [
+    {
+      "lesson": 43,
+      "kana": "おてつだい",
+      "kanji": "お手伝い",
+      "character": "名",
+      "meaning": "帮忙，帮助",
+      "word_id": 0
+    },
+    {
+      "lesson": 43,
+      "kana": "のりかえ",
+      "kanji": "乗り換え",
+      "character": "名",
+      "meaning": "换车，换乘",
+      "word_id": 1
+    },
+    {
+      "lesson": 43,
+      "kana": "かんがえ",
+      "kanji": "考え",
+      "character": "名",
+      "meaning": "想法，思想",
+      "word_id": 2
+    },
+    {
+      "lesson": 43,
+      "kana": "じょせいむけ",
+      "kanji": "女性向け",
+      "character": "名",
+      "meaning": "女性专用，专为女性",
+      "word_id": 3
+    },
+    {
+      "lesson": 43,
+      "kana": "もうしで",
+      "kanji": "申し出",
+      "character": "名",
+      "meaning": "申请，提议",
+      "word_id": 4
+    },
+    {
+      "lesson": 43,
+      "kana": "かんじ",
+      "kanji": "感じ",
+      "character": "名",
+      "meaning": "感觉",
+      "word_id": 5
+    },
+    {
+      "lesson": 43,
+      "kana": "おおく",
+      "kanji": "多く",
+      "character": "名",
+      "meaning": "多，多数",
+      "word_id": 6
+    },
+    {
+      "lesson": 43,
+      "kana": "ぶか",
+      "kanji": "部下",
+      "character": "名",
+      "meaning": "部下",
+      "word_id": 7
+    },
+    {
+      "lesson": 43,
+      "kana": "かんとく",
+      "kanji": "監督",
+      "character": "名",
+      "meaning": "教练，领队",
+      "word_id": 8
+    },
+    {
+      "lesson": 43,
+      "kana": "せんしゅ",
+      "kanji": "選手",
+      "character": "名",
+      "meaning": "运动员，选手",
+      "word_id": 9
+    },
+    {
+      "lesson": 43,
+      "kana": "しょうひしゃ",
+      "kanji": "消費者",
+      "character": "名",
+      "meaning": "消费者",
+      "word_id": 10
+    },
+    {
+      "lesson": 43,
+      "kana": "あんないやく",
+      "kanji": "案内役",
+      "character": "名",
+      "meaning": "向导，导游",
+      "word_id": 11
+    },
+    {
+      "lesson": 43,
+      "kana": "おや",
+      "kanji": "親",
+      "character": "名",
+      "meaning": "双亲，父母",
+      "word_id": 12
+    },
+    {
+      "lesson": 43,
+      "kana": "アルファベット",
+      "kanji": "",
+      "character": "名",
+      "meaning": "英语字母，拉丁字母",
+      "word_id": 13
+    },
+    {
+      "lesson": 43,
+      "kana": "プレゼンテーション／プレゼン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "策划方案说明（会）",
+      "word_id": 14
+    },
+    {
+      "lesson": 43,
+      "kana": "イメージ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "形象，印象",
+      "word_id": 15
+    },
+    {
+      "lesson": 43,
+      "kana": "インパクト",
+      "kanji": "",
+      "character": "名",
+      "meaning": "冲击力，力量感",
+      "word_id": 16
+    },
+    {
+      "lesson": 43,
+      "kana": "ガラス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "玻璃，玻璃杯",
+      "word_id": 17
+    },
+    {
+      "lesson": 43,
+      "kana": "きぶん",
+      "kanji": "気分",
+      "character": "名",
+      "meaning": "情绪；（身体）舒适（与否）",
+      "word_id": 18
+    },
+    {
+      "lesson": 43,
+      "kana": "しんきんかん",
+      "kanji": "親近感",
+      "character": "名",
+      "meaning": "亲切感",
+      "word_id": 19
+    },
+    {
+      "lesson": 43,
+      "kana": "ひんしつ",
+      "kanji": "品質",
+      "character": "名",
+      "meaning": "质量，品质",
+      "word_id": 20
+    },
+    {
+      "lesson": 43,
+      "kana": "ぶっか",
+      "kanji": "物価",
+      "character": "名",
+      "meaning": "物价",
+      "word_id": 21
+    },
+    {
+      "lesson": 43,
+      "kana": "めんぜいてん",
+      "kanji": "免税店",
+      "character": "名",
+      "meaning": "免税店",
+      "word_id": 22
+    },
+    {
+      "lesson": 43,
+      "kana": "せつめいしょ",
+      "kanji": "説明書",
+      "character": "名",
+      "meaning": "说明书",
+      "word_id": 23
+    },
+    {
+      "lesson": 43,
+      "kana": "じゅく",
+      "kanji": "塾",
+      "character": "名",
+      "meaning": "私塾，补习学校",
+      "word_id": 24
+    },
+    {
+      "lesson": 43,
+      "kana": "れいぶん",
+      "kanji": "例文",
+      "character": "名",
+      "meaning": "例句",
+      "word_id": 25
+    },
+    {
+      "lesson": 43,
+      "kana": "かいじょう",
+      "kanji": "会場",
+      "character": "名",
+      "meaning": "会场",
+      "word_id": 26
+    },
+    {
+      "lesson": 43,
+      "kana": "せつび",
+      "kanji": "設備",
+      "character": "名",
+      "meaning": "设备",
+      "word_id": 27
+    },
+    {
+      "lesson": 43,
+      "kana": "せんたくもの",
+      "kanji": "洗濯物",
+      "character": "名",
+      "meaning": "洗的衣服",
+      "word_id": 28
+    },
+    {
+      "lesson": 43,
+      "kana": "もの",
+      "kanji": "",
+      "character": "名",
+      "meaning": "东西，事物",
+      "word_id": 29
+    },
+    {
+      "lesson": 43,
+      "kana": "じ",
+      "kanji": "字",
+      "character": "名",
+      "meaning": "字",
+      "word_id": 30
+    },
+    {
+      "lesson": 43,
+      "kana": "つま",
+      "kanji": "妻",
+      "character": "名",
+      "meaning": "妻子",
+      "word_id": 31
+    },
+    {
+      "lesson": 43,
+      "kana": "われわれ",
+      "kanji": "我々",
+      "character": "代",
+      "meaning": "我们",
+      "word_id": 32
+    },
+    {
+      "lesson": 43,
+      "kana": "ひっぱります",
+      "kanji": "引っ張ります",
+      "character": "动1",
+      "meaning": "拉，拽",
+      "word_id": 33
+    },
+    {
+      "lesson": 43,
+      "kana": "うかびます",
+      "kanji": "浮かびます",
+      "character": "动1",
+      "meaning": "想起，浮，浮现",
+      "word_id": 34
+    },
+    {
+      "lesson": 43,
+      "kana": "ととのいます",
+      "kanji": "整います",
+      "character": "动1",
+      "meaning": "齐备，完备",
+      "word_id": 35
+    },
+    {
+      "lesson": 43,
+      "kana": "かわきます",
+      "kanji": "乾きます",
+      "character": "动1",
+      "meaning": "干，干燥",
+      "word_id": 36
+    },
+    {
+      "lesson": 43,
+      "kana": "くらします",
+      "kanji": "暮らします",
+      "character": "动1",
+      "meaning": "生活",
+      "word_id": 37
+    },
+    {
+      "lesson": 43,
+      "kana": "さけます",
+      "kanji": "避けます",
+      "character": "动2",
+      "meaning": "回避，避免",
+      "word_id": 38
+    },
+    {
+      "lesson": 43,
+      "kana": "うれます",
+      "kanji": "売れます",
+      "character": "动2",
+      "meaning": "好卖，畅销",
+      "word_id": 39
+    },
+    {
+      "lesson": 43,
+      "kana": "うけます",
+      "kanji": "受けます",
+      "character": "动2",
+      "meaning": "感受，受到",
+      "word_id": 40
+    },
+    {
+      "lesson": 43,
+      "kana": "あたためます",
+      "kanji": "温めます",
+      "character": "动2",
+      "meaning": "热，温",
+      "word_id": 41
+    },
+    {
+      "lesson": 43,
+      "kana": "りかいします",
+      "kanji": "理解します",
+      "character": "动3",
+      "meaning": "理解",
+      "word_id": 42
+    },
+    {
+      "lesson": 43,
+      "kana": "ていあんします",
+      "kanji": "提案します",
+      "character": "动3",
+      "meaning": "建议，提案",
+      "word_id": 43
+    },
+    {
+      "lesson": 43,
+      "kana": "しさくします",
+      "kanji": "試作します",
+      "character": "动3",
+      "meaning": "试作，试制",
+      "word_id": 44
+    },
+    {
+      "lesson": 43,
+      "kana": "けいけんします",
+      "kanji": "経験します",
+      "character": "动3",
+      "meaning": "经验，经历",
+      "word_id": 45
+    },
+    {
+      "lesson": 43,
+      "kana": "あんきします",
+      "kanji": "暗記します",
+      "character": "动3",
+      "meaning": "熟记，背诵",
+      "word_id": 46
+    },
+    {
+      "lesson": 43,
+      "kana": "そうたいします",
+      "kanji": "早退します",
+      "character": "动3",
+      "meaning": "早退",
+      "word_id": 47
+    },
+    {
+      "lesson": 43,
+      "kana": "きゅうしょくします",
+      "kanji": "休職します",
+      "character": "动3",
+      "meaning": "（暂时）停职",
+      "word_id": 48
+    },
+    {
+      "lesson": 43,
+      "kana": "ちからづよい",
+      "kanji": "力強い",
+      "character": "形1",
+      "meaning": "强有力；心里踏实",
+      "word_id": 49
+    },
+    {
+      "lesson": 43,
+      "kana": "やわらかい",
+      "kanji": "柔らかい",
+      "character": "形1",
+      "meaning": "柔软",
+      "word_id": 50
+    },
+    {
+      "lesson": 43,
+      "kana": "かたい",
+      "kanji": "硬い",
+      "character": "形1",
+      "meaning": "硬",
+      "word_id": 51
+    },
+    {
+      "lesson": 43,
+      "kana": "あつい",
+      "kanji": "厚い",
+      "character": "形1",
+      "meaning": "厚",
+      "word_id": 52
+    },
+    {
+      "lesson": 43,
+      "kana": "じゅうよう",
+      "kanji": "重要",
+      "character": "形2",
+      "meaning": "重要",
+      "word_id": 53
+    },
+    {
+      "lesson": 43,
+      "kana": "たんじゅん",
+      "kanji": "単純",
+      "character": "形2",
+      "meaning": "单纯",
+      "word_id": 54
+    },
+    {
+      "lesson": 43,
+      "kana": "りそうてき",
+      "kanji": "理想的",
+      "character": "形2",
+      "meaning": "理想",
+      "word_id": 55
+    },
+    {
+      "lesson": 43,
+      "kana": "ぐたいてき",
+      "kanji": "具体的",
+      "character": "形2",
+      "meaning": "具体",
+      "word_id": 56
+    },
+    {
+      "lesson": 43,
+      "kana": "ざんしん",
+      "kanji": "斬新",
+      "character": "形2",
+      "meaning": "新颖，崭新",
+      "word_id": 57
+    },
+    {
+      "lesson": 43,
+      "kana": "ぐっと",
+      "kanji": "",
+      "character": "副",
+      "meaning": "更加；用力",
+      "word_id": 58
+    },
+    {
+      "lesson": 43,
+      "kana": "たとえば",
+      "kanji": "例えば",
+      "character": "副",
+      "meaning": "比如，例如",
+      "word_id": 59
+    },
+    {
+      "lesson": 43,
+      "kana": "しかも",
+      "kanji": "",
+      "character": "连",
+      "meaning": "而且",
+      "word_id": 60
+    },
+    {
+      "lesson": 43,
+      "kana": "そこで",
+      "kanji": "",
+      "character": "连",
+      "meaning": "因此，于是，所以；那么",
+      "word_id": 61
+    },
+    {
+      "lesson": 43,
+      "kana": "いうまでもなく",
+      "kanji": "言うまでもなく",
+      "character": "",
+      "meaning": "不言而喻",
+      "word_id": 62
+    }
+  ]
+}

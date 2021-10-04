@@ -1,0 +1,404 @@
+{
+  "words": [
+    {
+      "lesson": 29,
+      "kana": "しつもん",
+      "kanji": "質問",
+      "character": "名",
+      "meaning": "提问，问题",
+      "word_id": 0
+    },
+    {
+      "lesson": 29,
+      "kana": "ばあい",
+      "kanji": "場合",
+      "character": "名",
+      "meaning": "场合，情况",
+      "word_id": 1
+    },
+    {
+      "lesson": 29,
+      "kana": "めいわく",
+      "kanji": "迷惑",
+      "character": "名",
+      "meaning": "麻烦",
+      "word_id": 2
+    },
+    {
+      "lesson": 29,
+      "kana": "フジ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "紫藤",
+      "word_id": 3
+    },
+    {
+      "lesson": 29,
+      "kana": "カササギ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "喜鹊",
+      "word_id": 4
+    },
+    {
+      "lesson": 29,
+      "kana": "とり",
+      "kanji": "鳥",
+      "character": "名",
+      "meaning": "鸟",
+      "word_id": 5
+    },
+    {
+      "lesson": 29,
+      "kana": "マーク",
+      "kanji": "",
+      "character": "名",
+      "meaning": "符号",
+      "word_id": 6
+    },
+    {
+      "lesson": 29,
+      "kana": "ひょうしき",
+      "kanji": "標識",
+      "character": "名",
+      "meaning": "标记",
+      "word_id": 7
+    },
+    {
+      "lesson": 29,
+      "kana": "おうだんきんし",
+      "kanji": "横断禁止",
+      "character": "名",
+      "meaning": "禁止横穿",
+      "word_id": 8
+    },
+    {
+      "lesson": 29,
+      "kana": "スピード",
+      "kanji": "",
+      "character": "名",
+      "meaning": "速度",
+      "word_id": 9
+    },
+    {
+      "lesson": 29,
+      "kana": "めんきょしょう",
+      "kanji": "免許証",
+      "character": "名",
+      "meaning": "许可证，执照",
+      "word_id": 10
+    },
+    {
+      "lesson": 29,
+      "kana": "きかくしょ",
+      "kanji": "企画書",
+      "character": "名",
+      "meaning": "计划书",
+      "word_id": 11
+    },
+    {
+      "lesson": 29,
+      "kana": "やきゅうじょう",
+      "kanji": "野球場",
+      "character": "名",
+      "meaning": "棒球场",
+      "word_id": 12
+    },
+    {
+      "lesson": 29,
+      "kana": "テレビこうざ",
+      "kanji": "テレビ講座",
+      "character": "名",
+      "meaning": "电视讲座",
+      "word_id": 13
+    },
+    {
+      "lesson": 29,
+      "kana": "かんじ",
+      "kanji": "漢字",
+      "character": "名",
+      "meaning": "汉字",
+      "word_id": 14
+    },
+    {
+      "lesson": 29,
+      "kana": "せんそう",
+      "kanji": "戦争",
+      "character": "名",
+      "meaning": "战争",
+      "word_id": 15
+    },
+    {
+      "lesson": 29,
+      "kana": "けいかん",
+      "kanji": "警官",
+      "character": "名",
+      "meaning": "警察",
+      "word_id": 16
+    },
+    {
+      "lesson": 29,
+      "kana": "としうえ",
+      "kanji": "年上",
+      "character": "名",
+      "meaning": "年长者",
+      "word_id": 17
+    },
+    {
+      "lesson": 29,
+      "kana": "とまります",
+      "kanji": "止まります",
+      "character": "动1",
+      "meaning": "停，停住",
+      "word_id": 18
+    },
+    {
+      "lesson": 29,
+      "kana": "かわります",
+      "kanji": "変わります",
+      "character": "动1",
+      "meaning": "变，转变",
+      "word_id": 19
+    },
+    {
+      "lesson": 29,
+      "kana": "がんばります",
+      "kanji": "頑張ります",
+      "character": "动1",
+      "meaning": "拼命努力",
+      "word_id": 20
+    },
+    {
+      "lesson": 29,
+      "kana": "あやまります",
+      "kanji": "謝ります",
+      "character": "动1",
+      "meaning": "道歉",
+      "word_id": 21
+    },
+    {
+      "lesson": 29,
+      "kana": "サボります",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "逃学，怠工",
+      "word_id": 22
+    },
+    {
+      "lesson": 29,
+      "kana": "やぶります",
+      "kanji": "破ります",
+      "character": "动1",
+      "meaning": "爽约，打破",
+      "word_id": 23
+    },
+    {
+      "lesson": 29,
+      "kana": "ひきます",
+      "kanji": "引きます",
+      "character": "动1",
+      "meaning": "拉，抽",
+      "word_id": 24
+    },
+    {
+      "lesson": 29,
+      "kana": "まもります",
+      "kanji": "守ります",
+      "character": "动1",
+      "meaning": "遵守，保护",
+      "word_id": 25
+    },
+    {
+      "lesson": 29,
+      "kana": "こたえます",
+      "kanji": "答えます",
+      "character": "动2",
+      "meaning": "回答",
+      "word_id": 26
+    },
+    {
+      "lesson": 29,
+      "kana": "にげます",
+      "kanji": "逃げます",
+      "character": "动2",
+      "meaning": "逃跑",
+      "word_id": 27
+    },
+    {
+      "lesson": 29,
+      "kana": "たすけます",
+      "kanji": "助けます",
+      "character": "动2",
+      "meaning": "救助，帮助",
+      "word_id": 28
+    },
+    {
+      "lesson": 29,
+      "kana": "つけます",
+      "kanji": "付けます",
+      "character": "动2",
+      "meaning": "添加，附加",
+      "word_id": 29
+    },
+    {
+      "lesson": 29,
+      "kana": "おぼえます",
+      "kanji": "覚えます",
+      "character": "动2",
+      "meaning": "记住，掌握",
+      "word_id": 30
+    },
+    {
+      "lesson": 29,
+      "kana": "ていしゅつします",
+      "kanji": "提出します",
+      "character": "动3",
+      "meaning": "提交，提出",
+      "word_id": 31
+    },
+    {
+      "lesson": 29,
+      "kana": "えんりょします",
+      "kanji": "遠慮します",
+      "character": "动3",
+      "meaning": "客气",
+      "word_id": 32
+    },
+    {
+      "lesson": 29,
+      "kana": "ちゅういします",
+      "kanji": "注意します",
+      "character": "动3",
+      "meaning": "注意",
+      "word_id": 33
+    },
+    {
+      "lesson": 29,
+      "kana": "シュートします",
+      "kanji": "",
+      "character": "动3",
+      "meaning": "（足球）射门，投篮",
+      "word_id": 34
+    },
+    {
+      "lesson": 29,
+      "kana": "したしい",
+      "kanji": "親しい",
+      "character": "形1",
+      "meaning": "熟悉，亲切，亲密",
+      "word_id": 35
+    },
+    {
+      "lesson": 29,
+      "kana": "らんぼう",
+      "kanji": "乱暴",
+      "character": "形2",
+      "meaning": "粗暴",
+      "word_id": 36
+    },
+    {
+      "lesson": 29,
+      "kana": "しつれい",
+      "kanji": "失礼",
+      "character": "形2",
+      "meaning": "不礼貌",
+      "word_id": 37
+    },
+    {
+      "lesson": 29,
+      "kana": "おなじ",
+      "kanji": "同じ",
+      "character": "形2",
+      "meaning": "一样，相同",
+      "word_id": 38
+    },
+    {
+      "lesson": 29,
+      "kana": "きけん",
+      "kanji": "危険",
+      "character": "形2",
+      "meaning": "危险",
+      "word_id": 39
+    },
+    {
+      "lesson": 29,
+      "kana": "そんな",
+      "kanji": "",
+      "character": "连体",
+      "meaning": "那样的",
+      "word_id": 40
+    },
+    {
+      "lesson": 29,
+      "kana": "ていねいに",
+      "kanji": "丁寧に",
+      "character": "副",
+      "meaning": "恭敬地；细心地",
+      "word_id": 41
+    },
+    {
+      "lesson": 29,
+      "kana": "おい",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "哎，喂",
+      "word_id": 42
+    },
+    {
+      "lesson": 29,
+      "kana": "まこと",
+      "kanji": "誠",
+      "character": "专有词",
+      "meaning": "诚，阿诚",
+      "word_id": 43
+    },
+    {
+      "lesson": 29,
+      "kana": "しゅうおんらい",
+      "kanji": "周恩来",
+      "character": "专有词",
+      "meaning": "周恩来",
+      "word_id": 44
+    },
+    {
+      "lesson": 29,
+      "kana": "ろじん",
+      "kanji": "魯迅",
+      "character": "专有词",
+      "meaning": "鲁迅",
+      "word_id": 45
+    },
+    {
+      "lesson": 29,
+      "kana": "せたがや",
+      "kanji": "世田谷",
+      "character": "专有词",
+      "meaning": "世田谷",
+      "word_id": 46
+    },
+    {
+      "lesson": 29,
+      "kana": "ふじ",
+      "kanji": "富士",
+      "character": "专有词",
+      "meaning": "富士",
+      "word_id": 47
+    },
+    {
+      "lesson": 29,
+      "kana": "かわった",
+      "kanji": "変わった",
+      "character": "",
+      "meaning": "怪",
+      "word_id": 48
+    },
+    {
+      "lesson": 29,
+      "kana": "かぜをひきます",
+      "kanji": "風邪を引きます",
+      "character": "",
+      "meaning": "感冒",
+      "word_id": 49
+    }
+  ]
+}

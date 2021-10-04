@@ -1,0 +1,364 @@
+{
+  "words": [
+    {
+      "lesson": 26,
+      "kana": "おおあめ",
+      "kanji": "大雨",
+      "character": "名",
+      "meaning": "大雨",
+      "word_id": 0
+    },
+    {
+      "lesson": 26,
+      "kana": "さくら",
+      "kanji": "桜",
+      "character": "名",
+      "meaning": "樱花",
+      "word_id": 1
+    },
+    {
+      "lesson": 26,
+      "kana": "かぜ",
+      "kanji": "風",
+      "character": "名",
+      "meaning": "风",
+      "word_id": 2
+    },
+    {
+      "lesson": 26,
+      "kana": "つき",
+      "kanji": "月",
+      "character": "名",
+      "meaning": "月亮",
+      "word_id": 3
+    },
+    {
+      "lesson": 26,
+      "kana": "ひょう",
+      "kanji": "表",
+      "character": "名",
+      "meaning": "表",
+      "word_id": 4
+    },
+    {
+      "lesson": 26,
+      "kana": "あくしゅ",
+      "kanji": "握手",
+      "character": "名",
+      "meaning": "握手",
+      "word_id": 5
+    },
+    {
+      "lesson": 26,
+      "kana": "しゅうかん",
+      "kanji": "習慣",
+      "character": "名",
+      "meaning": "习惯",
+      "word_id": 6
+    },
+    {
+      "lesson": 26,
+      "kana": "おじぎ",
+      "kanji": "お辞儀",
+      "character": "名",
+      "meaning": "鞠躬",
+      "word_id": 7
+    },
+    {
+      "lesson": 26,
+      "kana": "あいさつ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "寒暄",
+      "word_id": 8
+    },
+    {
+      "lesson": 26,
+      "kana": "て",
+      "kanji": "手",
+      "character": "名",
+      "meaning": "手",
+      "word_id": 9
+    },
+    {
+      "lesson": 26,
+      "kana": "おきゃくさん",
+      "kanji": "お客さん",
+      "character": "名",
+      "meaning": "顾客，客人",
+      "word_id": 10
+    },
+    {
+      "lesson": 26,
+      "kana": "ふつう",
+      "kanji": "普通",
+      "character": "名",
+      "meaning": "一般，普通",
+      "word_id": 11
+    },
+    {
+      "lesson": 26,
+      "kana": "つぎ",
+      "kanji": "次",
+      "character": "名",
+      "meaning": "这回，下面，下回",
+      "word_id": 12
+    },
+    {
+      "lesson": 26,
+      "kana": "スーパー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "超市",
+      "word_id": 13
+    },
+    {
+      "lesson": 26,
+      "kana": "りょうきん",
+      "kanji": "料金",
+      "character": "名",
+      "meaning": "费用",
+      "word_id": 14
+    },
+    {
+      "lesson": 26,
+      "kana": "かいひ",
+      "kanji": "会費",
+      "character": "名",
+      "meaning": "会费",
+      "word_id": 15
+    },
+    {
+      "lesson": 26,
+      "kana": "バーデン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "降价出售",
+      "word_id": 16
+    },
+    {
+      "lesson": 26,
+      "kana": "クレジットカード",
+      "kanji": "",
+      "character": "名",
+      "meaning": "信用卡",
+      "word_id": 17
+    },
+    {
+      "lesson": 26,
+      "kana": "いろえんぴつ",
+      "kanji": "色鉛筆",
+      "character": "名",
+      "meaning": "彩色铅笔",
+      "word_id": 18
+    },
+    {
+      "lesson": 26,
+      "kana": "ほうさく",
+      "kanji": "豊作",
+      "character": "名",
+      "meaning": "丰收",
+      "word_id": 19
+    },
+    {
+      "lesson": 26,
+      "kana": "なか",
+      "kanji": "仲",
+      "character": "名",
+      "meaning": "关系，友情，友谊",
+      "word_id": 20
+    },
+    {
+      "lesson": 26,
+      "kana": "わすれもの",
+      "kanji": "忘れ物",
+      "character": "名",
+      "meaning": "忘记的东西，遗忘的物品",
+      "word_id": 21
+    },
+    {
+      "lesson": 26,
+      "kana": "ふせぎます",
+      "kanji": "防ぎます",
+      "character": "动1",
+      "meaning": "防御，防备，防守",
+      "word_id": 22
+    },
+    {
+      "lesson": 26,
+      "kana": "まわります",
+      "kanji": "回ります",
+      "character": "动1",
+      "meaning": "走访；转；绕弯",
+      "word_id": 23
+    },
+    {
+      "lesson": 26,
+      "kana": "はしります",
+      "kanji": "走ります",
+      "character": "动1",
+      "meaning": "跑，奔跑",
+      "word_id": 24
+    },
+    {
+      "lesson": 26,
+      "kana": "ふきます",
+      "kanji": "吹きます",
+      "character": "动1",
+      "meaning": "吹",
+      "word_id": 25
+    },
+    {
+      "lesson": 26,
+      "kana": "あげます",
+      "kanji": "挙げます",
+      "character": "动2",
+      "meaning": "举，举起",
+      "word_id": 26
+    },
+    {
+      "lesson": 26,
+      "kana": "たります",
+      "kanji": "足ります",
+      "character": "动2",
+      "meaning": "足，够",
+      "word_id": 27
+    },
+    {
+      "lesson": 26,
+      "kana": "スケッチします",
+      "kanji": "",
+      "character": "动3",
+      "meaning": "素描，写生",
+      "word_id": 28
+    },
+    {
+      "lesson": 26,
+      "kana": "はつげんします",
+      "kanji": "発言します",
+      "character": "动3",
+      "meaning": "发言",
+      "word_id": 29
+    },
+    {
+      "lesson": 26,
+      "kana": "ゆうしょうします",
+      "kanji": "優勝します",
+      "character": "动3",
+      "meaning": "得冠军",
+      "word_id": 30
+    },
+    {
+      "lesson": 26,
+      "kana": "ごうかくします",
+      "kanji": "合格します",
+      "character": "动3",
+      "meaning": "及格，合格",
+      "word_id": 31
+    },
+    {
+      "lesson": 26,
+      "kana": "もしかしたら",
+      "kanji": "",
+      "character": "副",
+      "meaning": "也许",
+      "word_id": 32
+    },
+    {
+      "lesson": 26,
+      "kana": "やくそくします",
+      "kanji": "約束します",
+      "character": "动3",
+      "meaning": "约定",
+      "word_id": 33
+    },
+    {
+      "lesson": 26,
+      "kana": "つい",
+      "kanji": "",
+      "character": "副",
+      "meaning": "不知不觉地，无意中",
+      "word_id": 34
+    },
+    {
+      "lesson": 26,
+      "kana": "すぐに",
+      "kanji": "",
+      "character": "副",
+      "meaning": "就要，立刻，马上",
+      "word_id": 35
+    },
+    {
+      "lesson": 26,
+      "kana": "ほとんど",
+      "kanji": "",
+      "character": "副",
+      "meaning": "大部分，几乎",
+      "word_id": 36
+    },
+    {
+      "lesson": 26,
+      "kana": "それで",
+      "kanji": "",
+      "character": "连",
+      "meaning": "因此",
+      "word_id": 37
+    },
+    {
+      "lesson": 26,
+      "kana": "すずき",
+      "kanji": "鈴木",
+      "character": "专有词",
+      "meaning": "铃木",
+      "word_id": 38
+    },
+    {
+      "lesson": 26,
+      "kana": "よう",
+      "kanji": "楊",
+      "character": "专有词",
+      "meaning": "杨",
+      "word_id": 39
+    },
+    {
+      "lesson": 26,
+      "kana": "かとう",
+      "kanji": "加藤",
+      "character": "专有词",
+      "meaning": "加藤",
+      "word_id": 40
+    },
+    {
+      "lesson": 26,
+      "kana": "ようこ",
+      "kanji": "葉子",
+      "character": "专有词",
+      "meaning": "叶子",
+      "word_id": 41
+    },
+    {
+      "lesson": 26,
+      "kana": "ひかりデパート",
+      "kanji": "光デパート",
+      "character": "专有词",
+      "meaning": "阳光百货商店",
+      "word_id": 42
+    },
+    {
+      "lesson": 26,
+      "kana": "あいさつまわり",
+      "kanji": "あいさつ回り",
+      "character": "",
+      "meaning": "寒暄拜访",
+      "word_id": 43
+    },
+    {
+      "lesson": 26,
+      "kana": "いけない",
+      "kanji": "",
+      "character": "",
+      "meaning": "不行，不好，不可以",
+      "word_id": 44
+    }
+  ]
+}

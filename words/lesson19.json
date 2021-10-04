@@ -1,0 +1,324 @@
+{
+  "words": [
+    {
+      "lesson": 19,
+      "kana": "しなもの",
+      "kanji": "品物",
+      "character": "名",
+      "meaning": "物品，商品",
+      "word_id": 0
+    },
+    {
+      "lesson": 19,
+      "kana": "おさら",
+      "kanji": "お皿",
+      "character": "名",
+      "meaning": "盘子",
+      "word_id": 1
+    },
+    {
+      "lesson": 19,
+      "kana": "ごみ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "垃圾",
+      "word_id": 2
+    },
+    {
+      "lesson": 19,
+      "kana": "しょしんしゃ",
+      "kanji": "初心者",
+      "character": "名",
+      "meaning": "初学者",
+      "word_id": 3
+    },
+    {
+      "lesson": 19,
+      "kana": "じょうきゅうしゃ",
+      "kanji": "上級者",
+      "character": "名",
+      "meaning": "熟练者",
+      "word_id": 4
+    },
+    {
+      "lesson": 19,
+      "kana": "こうきゅう",
+      "kanji": "高級",
+      "character": "名",
+      "meaning": "高级",
+      "word_id": 5
+    },
+    {
+      "lesson": 19,
+      "kana": "じょうきゅうクラス",
+      "kanji": "上級クラス",
+      "character": "名",
+      "meaning": "高级班",
+      "word_id": 6
+    },
+    {
+      "lesson": 19,
+      "kana": "えいかいわ",
+      "kanji": "英会話",
+      "character": "名",
+      "meaning": "英语会话",
+      "word_id": 7
+    },
+    {
+      "lesson": 19,
+      "kana": "コース",
+      "kanji": "",
+      "character": "名",
+      "meaning": "路线，滑道",
+      "word_id": 8
+    },
+    {
+      "lesson": 19,
+      "kana": "スキー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "滑雪",
+      "word_id": 9
+    },
+    {
+      "lesson": 19,
+      "kana": "レポート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "报告",
+      "word_id": 10
+    },
+    {
+      "lesson": 19,
+      "kana": "パスポート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "护照",
+      "word_id": 11
+    },
+    {
+      "lesson": 19,
+      "kana": "のど",
+      "kanji": "",
+      "character": "名",
+      "meaning": "喉咙",
+      "word_id": 12
+    },
+    {
+      "lesson": 19,
+      "kana": "さわります",
+      "kanji": "触ります",
+      "character": "动1",
+      "meaning": "碰，触",
+      "word_id": 13
+    },
+    {
+      "lesson": 19,
+      "kana": "ぬぎます",
+      "kanji": "脱ぎます",
+      "character": "动1",
+      "meaning": "脱",
+      "word_id": 14
+    },
+    {
+      "lesson": 19,
+      "kana": "ころびます",
+      "kanji": "転びます",
+      "character": "动1",
+      "meaning": "摔，摔倒，跌倒",
+      "word_id": 15
+    },
+    {
+      "lesson": 19,
+      "kana": "かわきます",
+      "kanji": "渇きます",
+      "character": "动1",
+      "meaning": "渴",
+      "word_id": 16
+    },
+    {
+      "lesson": 19,
+      "kana": "なおります",
+      "kanji": "治ります",
+      "character": "动1",
+      "meaning": "痊愈，医好",
+      "word_id": 17
+    },
+    {
+      "lesson": 19,
+      "kana": "すべります",
+      "kanji": "滑ります",
+      "character": "动1",
+      "meaning": "滑，滑行",
+      "word_id": 18
+    },
+    {
+      "lesson": 19,
+      "kana": "よびます",
+      "kanji": "呼びます",
+      "character": "动1",
+      "meaning": "呼喊",
+      "word_id": 19
+    },
+    {
+      "lesson": 19,
+      "kana": "かえします",
+      "kanji": "返します",
+      "character": "动1",
+      "meaning": "归还",
+      "word_id": 20
+    },
+    {
+      "lesson": 19,
+      "kana": "てつだいます",
+      "kanji": "手伝います",
+      "character": "动1",
+      "meaning": "帮忙",
+      "word_id": 21
+    },
+    {
+      "lesson": 19,
+      "kana": "はこびます",
+      "kanji": "運びます",
+      "character": "动1",
+      "meaning": "搬运",
+      "word_id": 22
+    },
+    {
+      "lesson": 19,
+      "kana": "なくします",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "丢，丢失",
+      "word_id": 23
+    },
+    {
+      "lesson": 19,
+      "kana": "おとします",
+      "kanji": "落とします",
+      "character": "动1",
+      "meaning": "掉，使落下",
+      "word_id": 24
+    },
+    {
+      "lesson": 19,
+      "kana": "おきます",
+      "kanji": "置きます",
+      "character": "动1",
+      "meaning": "放置",
+      "word_id": 25
+    },
+    {
+      "lesson": 19,
+      "kana": "はらいます",
+      "kanji": "払います",
+      "character": "动1",
+      "meaning": "支付",
+      "word_id": 26
+    },
+    {
+      "lesson": 19,
+      "kana": "たちます",
+      "kanji": "立ちます",
+      "character": "动1",
+      "meaning": "站，立",
+      "word_id": 27
+    },
+    {
+      "lesson": 19,
+      "kana": "わすれます",
+      "kanji": "忘れます",
+      "character": "动2",
+      "meaning": "忘记",
+      "word_id": 28
+    },
+    {
+      "lesson": 19,
+      "kana": "あわてます",
+      "kanji": "慌てます",
+      "character": "动2",
+      "meaning": "慌张，惊慌，着急",
+      "word_id": 29
+    },
+    {
+      "lesson": 19,
+      "kana": "すてます",
+      "kanji": "捨てます",
+      "character": "动2",
+      "meaning": "扔，扔掉",
+      "word_id": 30
+    },
+    {
+      "lesson": 19,
+      "kana": "ざんぎょうします",
+      "kanji": "残業します",
+      "character": "动2",
+      "meaning": "加班",
+      "word_id": 31
+    },
+    {
+      "lesson": 19,
+      "kana": "しんぱいします",
+      "kanji": "心配します",
+      "character": "动3",
+      "meaning": "担心",
+      "word_id": 32
+    },
+    {
+      "lesson": 19,
+      "kana": "ほんとう",
+      "kanji": "本当",
+      "character": "形2",
+      "meaning": "真的，真正",
+      "word_id": 33
+    },
+    {
+      "lesson": 19,
+      "kana": "はやく",
+      "kanji": "早く",
+      "character": "副",
+      "meaning": "早点儿",
+      "word_id": 34
+    },
+    {
+      "lesson": 19,
+      "kana": "やっと",
+      "kanji": "",
+      "character": "副",
+      "meaning": "好不容易，终于",
+      "word_id": 35
+    },
+    {
+      "lesson": 19,
+      "kana": "だいぶ",
+      "kanji": "",
+      "character": "副",
+      "meaning": "很，相当地",
+      "word_id": 36
+    },
+    {
+      "lesson": 19,
+      "kana": "はじめて",
+      "kanji": "初めて",
+      "character": "副",
+      "meaning": "第一次",
+      "word_id": 37
+    },
+    {
+      "lesson": 19,
+      "kana": "さきに",
+      "kanji": "先に",
+      "character": "副",
+      "meaning": "先",
+      "word_id": 38
+    },
+    {
+      "lesson": 19,
+      "kana": "やまだ",
+      "kanji": "山田",
+      "character": "专有词",
+      "meaning": "山田",
+      "word_id": 39
+    }
+  ]
+}

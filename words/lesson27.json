@@ -1,0 +1,420 @@
+{
+  "words": [
+    {
+      "lesson": 27,
+      "kana": "けいざい",
+      "kanji": "経済",
+      "character": "名",
+      "meaning": "经济",
+      "word_id": 0
+    },
+    {
+      "lesson": 27,
+      "kana": "こくさいかんけいがく",
+      "kanji": "国際関係学",
+      "character": "名",
+      "meaning": "国际关系学",
+      "word_id": 1
+    },
+    {
+      "lesson": 27,
+      "kana": "おおぜい",
+      "kanji": "大勢",
+      "character": "名",
+      "meaning": "许多，众多",
+      "word_id": 2
+    },
+    {
+      "lesson": 27,
+      "kana": "こうこう",
+      "kanji": "高校",
+      "character": "名",
+      "meaning": "高中",
+      "word_id": 3
+    },
+    {
+      "lesson": 27,
+      "kana": "にっき",
+      "kanji": "日記",
+      "character": "名",
+      "meaning": "日记",
+      "word_id": 4
+    },
+    {
+      "lesson": 27,
+      "kana": "きょうし",
+      "kanji": "教師",
+      "character": "名",
+      "meaning": "教师",
+      "word_id": 5
+    },
+    {
+      "lesson": 27,
+      "kana": "おとしより",
+      "kanji": "お年寄り",
+      "character": "名",
+      "meaning": "老年人",
+      "word_id": 6
+    },
+    {
+      "lesson": 27,
+      "kana": "ラジオたいそう",
+      "kanji": "ラジオ体操",
+      "character": "名",
+      "meaning": "广播体操",
+      "word_id": 7
+    },
+    {
+      "lesson": 27,
+      "kana": "しゃこうダンス",
+      "kanji": "社交ダンス",
+      "character": "名",
+      "meaning": "交际舞",
+      "word_id": 8
+    },
+    {
+      "lesson": 27,
+      "kana": "たっきゅう",
+      "kanji": "卓球",
+      "character": "名",
+      "meaning": "乒乓球",
+      "word_id": 9
+    },
+    {
+      "lesson": 27,
+      "kana": "バスケットボール",
+      "kanji": "",
+      "character": "名",
+      "meaning": "篮球",
+      "word_id": 10
+    },
+    {
+      "lesson": 27,
+      "kana": "スポーツセンター",
+      "kanji": "",
+      "character": "名",
+      "meaning": "体育中心",
+      "word_id": 11
+    },
+    {
+      "lesson": 27,
+      "kana": "にゅうえんりょう",
+      "kanji": "入園料",
+      "character": "名",
+      "meaning": "门票，入园费",
+      "word_id": 12
+    },
+    {
+      "lesson": 27,
+      "kana": "ゆうりょう",
+      "kanji": "有料",
+      "character": "名",
+      "meaning": "收费",
+      "word_id": 13
+    },
+    {
+      "lesson": 27,
+      "kana": "しょう",
+      "kanji": "賞",
+      "character": "名",
+      "meaning": "奖",
+      "word_id": 14
+    },
+    {
+      "lesson": 27,
+      "kana": "きょく",
+      "kanji": "曲",
+      "character": "名",
+      "meaning": "乐曲，歌曲",
+      "word_id": 15
+    },
+    {
+      "lesson": 27,
+      "kana": "し",
+      "kanji": "詩",
+      "character": "名",
+      "meaning": "诗歌",
+      "word_id": 16
+    },
+    {
+      "lesson": 27,
+      "kana": "しんごう",
+      "kanji": "信号",
+      "character": "名",
+      "meaning": "信号，红绿灯",
+      "word_id": 17
+    },
+    {
+      "lesson": 27,
+      "kana": "はさみ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "剪刀",
+      "word_id": 18
+    },
+    {
+      "lesson": 27,
+      "kana": "ぶひん",
+      "kanji": "部品",
+      "character": "名",
+      "meaning": "零部件",
+      "word_id": 19
+    },
+    {
+      "lesson": 27,
+      "kana": "アルバイト",
+      "kanji": "",
+      "character": "名",
+      "meaning": "打工，副业，工读",
+      "word_id": 20
+    },
+    {
+      "lesson": 27,
+      "kana": "スピーチ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "演说，演讲",
+      "word_id": 21
+    },
+    {
+      "lesson": 27,
+      "kana": "グラフ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "图表",
+      "word_id": 22
+    },
+    {
+      "lesson": 27,
+      "kana": "きかく",
+      "kanji": "企画",
+      "character": "名",
+      "meaning": "策划，计划",
+      "word_id": 23
+    },
+    {
+      "lesson": 27,
+      "kana": "せつめい",
+      "kanji": "説明",
+      "character": "名",
+      "meaning": "说明",
+      "word_id": 24
+    },
+    {
+      "lesson": 27,
+      "kana": "ごはん",
+      "kanji": "ご飯",
+      "character": "名",
+      "meaning": "饭",
+      "word_id": 25
+    },
+    {
+      "lesson": 27,
+      "kana": "さとう",
+      "kanji": "砂糖",
+      "character": "名",
+      "meaning": "砂糖",
+      "word_id": 26
+    },
+    {
+      "lesson": 27,
+      "kana": "かいがいりょこう",
+      "kanji": "海外旅行",
+      "character": "名",
+      "meaning": "海外旅行",
+      "word_id": 27
+    },
+    {
+      "lesson": 27,
+      "kana": "こと",
+      "kanji": "",
+      "character": "名",
+      "meaning": "事情",
+      "word_id": 28
+    },
+    {
+      "lesson": 27,
+      "kana": "おじいさん",
+      "kanji": "",
+      "character": "代",
+      "meaning": "爷爷；老大爷",
+      "word_id": 29
+    },
+    {
+      "lesson": 27,
+      "kana": "おばあさん",
+      "kanji": "",
+      "character": "代",
+      "meaning": "奶奶；老奶奶",
+      "word_id": 30
+    },
+    {
+      "lesson": 27,
+      "kana": "あね",
+      "kanji": "姉",
+      "character": "代",
+      "meaning": "姐姐",
+      "word_id": 31
+    },
+    {
+      "lesson": 27,
+      "kana": "かよいます",
+      "kanji": "通います",
+      "character": "动1",
+      "meaning": "上学，来往",
+      "word_id": 32
+    },
+    {
+      "lesson": 27,
+      "kana": "あつまります",
+      "kanji": "集まります",
+      "character": "动1",
+      "meaning": "聚，集合",
+      "word_id": 33
+    },
+    {
+      "lesson": 27,
+      "kana": "おどります",
+      "kanji": "踊ります",
+      "character": "动1",
+      "meaning": "跳舞",
+      "word_id": 34
+    },
+    {
+      "lesson": 27,
+      "kana": "いります",
+      "kanji": "要ります",
+      "character": "动1",
+      "meaning": "要",
+      "word_id": 35
+    },
+    {
+      "lesson": 27,
+      "kana": "こまります",
+      "kanji": "困ります",
+      "character": "动1",
+      "meaning": "为难，难办",
+      "word_id": 36
+    },
+    {
+      "lesson": 27,
+      "kana": "たたきます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "拍，敲，打",
+      "word_id": 37
+    },
+    {
+      "lesson": 27,
+      "kana": "いれます",
+      "kanji": "入れます",
+      "character": "动2",
+      "meaning": "放入，放进",
+      "word_id": 38
+    },
+    {
+      "lesson": 27,
+      "kana": "かんびょうします",
+      "kanji": "看病します",
+      "character": "动3",
+      "meaning": "护理",
+      "word_id": 39
+    },
+    {
+      "lesson": 27,
+      "kana": "けんかします",
+      "kanji": "",
+      "character": "动3",
+      "meaning": "吵架，打架",
+      "word_id": 40
+    },
+    {
+      "lesson": 27,
+      "kana": "りようします",
+      "kanji": "利用します",
+      "character": "动3",
+      "meaning": "利用",
+      "word_id": 41
+    },
+    {
+      "lesson": 27,
+      "kana": "そうだんします",
+      "kanji": "相談します",
+      "character": "动3",
+      "meaning": "商谈",
+      "word_id": 42
+    },
+    {
+      "lesson": 27,
+      "kana": "ほかに",
+      "kanji": "",
+      "character": "副",
+      "meaning": "另外",
+      "word_id": 43
+    },
+    {
+      "lesson": 27,
+      "kana": "しばらく",
+      "kanji": "",
+      "character": "副",
+      "meaning": "许久，好久；片刻",
+      "word_id": 44
+    },
+    {
+      "lesson": 27,
+      "kana": "へえ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "哎，哎呀，哎哟",
+      "word_id": 45
+    },
+    {
+      "lesson": 27,
+      "kana": "きのした",
+      "kanji": "木下",
+      "character": "专有词",
+      "meaning": "木下",
+      "word_id": 46
+    },
+    {
+      "lesson": 27,
+      "kana": "たむら",
+      "kanji": "田村",
+      "character": "专有词",
+      "meaning": "田村",
+      "word_id": 47
+    },
+    {
+      "lesson": 27,
+      "kana": "このまえ",
+      "kanji": "この前",
+      "character": "",
+      "meaning": "前几天，之前，最近",
+      "word_id": 48
+    },
+    {
+      "lesson": 27,
+      "kana": "そういえば",
+      "kanji": "そう言えば",
+      "character": "",
+      "meaning": "说起来，这么说来",
+      "word_id": 49
+    },
+    {
+      "lesson": 27,
+      "kana": "きがつきます",
+      "kanji": "気がつきます",
+      "character": "",
+      "meaning": "察觉",
+      "word_id": 50
+    },
+    {
+      "lesson": 27,
+      "kana": "しばらくです",
+      "kanji": "",
+      "character": "",
+      "meaning": "好久不见",
+      "word_id": 51
+    }
+  ]
+}

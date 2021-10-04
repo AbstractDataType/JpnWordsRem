@@ -1,0 +1,596 @@
+{
+  "words": [
+    {
+      "lesson": 9,
+      "kana": "りょうり",
+      "kanji": "料理",
+      "character": "名",
+      "meaning": "菜肴，饭菜",
+      "word_id": 0
+    },
+    {
+      "lesson": 9,
+      "kana": "しせんりょうり",
+      "kanji": "四川料理",
+      "character": "名",
+      "meaning": "四川菜",
+      "word_id": 1
+    },
+    {
+      "lesson": 9,
+      "kana": "スーブ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "汤",
+      "word_id": 2
+    },
+    {
+      "lesson": 9,
+      "kana": "ぺキンダック",
+      "kanji": "",
+      "character": "名",
+      "meaning": "北京烤鸭",
+      "word_id": 3
+    },
+    {
+      "lesson": 9,
+      "kana": "たべもの",
+      "kanji": "食べ物",
+      "character": "名",
+      "meaning": "食物，食品",
+      "word_id": 4
+    },
+    {
+      "lesson": 9,
+      "kana": "すきやき",
+      "kanji": "すき焼き",
+      "character": "名",
+      "meaning": "日式牛肉火锅",
+      "word_id": 5
+    },
+    {
+      "lesson": 9,
+      "kana": "おんせん",
+      "kanji": "温泉",
+      "character": "名",
+      "meaning": "温泉",
+      "word_id": 6
+    },
+    {
+      "lesson": 9,
+      "kana": "おゆ",
+      "kanji": "お湯",
+      "character": "名",
+      "meaning": "热水，开水",
+      "word_id": 7
+    },
+    {
+      "lesson": 9,
+      "kana": "みず",
+      "kanji": "水",
+      "character": "名",
+      "meaning": "水，凉水",
+      "word_id": 8
+    },
+    {
+      "lesson": 9,
+      "kana": "ゆかた",
+      "kanji": "浴衣",
+      "character": "名",
+      "meaning": "浴衣，夏季和服",
+      "word_id": 9
+    },
+    {
+      "lesson": 9,
+      "kana": "ながめ",
+      "kanji": "眺め",
+      "character": "名",
+      "meaning": "景色，风景",
+      "word_id": 10
+    },
+    {
+      "lesson": 9,
+      "kana": "くすり",
+      "kanji": "薬",
+      "character": "名",
+      "meaning": "药",
+      "word_id": 11
+    },
+    {
+      "lesson": 9,
+      "kana": "てんき",
+      "kanji": "天気",
+      "character": "名",
+      "meaning": "天气",
+      "word_id": 12
+    },
+    {
+      "lesson": 9,
+      "kana": "うみ",
+      "kanji": "海",
+      "character": "名",
+      "meaning": "大海",
+      "word_id": 13
+    },
+    {
+      "lesson": 9,
+      "kana": "やま",
+      "kanji": "山",
+      "character": "名",
+      "meaning": "山",
+      "word_id": 14
+    },
+    {
+      "lesson": 9,
+      "kana": "かみ",
+      "kanji": "紙",
+      "character": "名",
+      "meaning": "纸",
+      "word_id": 15
+    },
+    {
+      "lesson": 9,
+      "kana": "ニュース",
+      "kanji": "",
+      "character": "名",
+      "meaning": "新闻",
+      "word_id": 16
+    },
+    {
+      "lesson": 9,
+      "kana": "じょせい",
+      "kanji": "女性",
+      "character": "名",
+      "meaning": "女性",
+      "word_id": 17
+    },
+    {
+      "lesson": 9,
+      "kana": "おきゃくさま",
+      "kanji": "お客様",
+      "character": "名",
+      "meaning": "来宾",
+      "word_id": 18
+    },
+    {
+      "lesson": 9,
+      "kana": "グラス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "玻璃杯",
+      "word_id": 19
+    },
+    {
+      "lesson": 9,
+      "kana": "かぶき",
+      "kanji": "歌舞伎",
+      "character": "名",
+      "meaning": "歌舞伎",
+      "word_id": 20
+    },
+    {
+      "lesson": 9,
+      "kana": "きもち",
+      "kanji": "気持ち",
+      "character": "名",
+      "meaning": "心情",
+      "word_id": 21
+    },
+    {
+      "lesson": 9,
+      "kana": "たくさん",
+      "kanji": "",
+      "character": "名",
+      "meaning": "很多",
+      "word_id": 22
+    },
+    {
+      "lesson": 9,
+      "kana": "からい",
+      "kanji": "辛い",
+      "character": "形1",
+      "meaning": "辣",
+      "word_id": 23
+    },
+    {
+      "lesson": 9,
+      "kana": "あまい",
+      "kanji": "甘い",
+      "character": "形1",
+      "meaning": "甜",
+      "word_id": 24
+    },
+    {
+      "lesson": 9,
+      "kana": "しおからい",
+      "kanji": "塩辛い",
+      "character": "形1",
+      "meaning": "咸",
+      "word_id": 25
+    },
+    {
+      "lesson": 9,
+      "kana": "しょっぱい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "咸",
+      "word_id": 26
+    },
+    {
+      "lesson": 9,
+      "kana": "すっぱい",
+      "kanji": "酸っぱい",
+      "character": "形1",
+      "meaning": "酸",
+      "word_id": 27
+    },
+    {
+      "lesson": 9,
+      "kana": "にがい",
+      "kanji": "苦い",
+      "character": "形1",
+      "meaning": "苦",
+      "word_id": 28
+    },
+    {
+      "lesson": 9,
+      "kana": "おいしい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "好吃，可口",
+      "word_id": 29
+    },
+    {
+      "lesson": 9,
+      "kana": "まずい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "不好吃，难吃",
+      "word_id": 30
+    },
+    {
+      "lesson": 9,
+      "kana": "あつい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "热，烫",
+      "word_id": 31
+    },
+    {
+      "lesson": 9,
+      "kana": "つめたい",
+      "kanji": "冷たい",
+      "character": "形1",
+      "meaning": "凉",
+      "word_id": 32
+    },
+    {
+      "lesson": 9,
+      "kana": "たのしい",
+      "kanji": "楽しい",
+      "character": "形1",
+      "meaning": "愉快，快乐",
+      "word_id": 33
+    },
+    {
+      "lesson": 9,
+      "kana": "おもしろい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "有趣，有意思",
+      "word_id": 34
+    },
+    {
+      "lesson": 9,
+      "kana": "つまらない",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "无聊",
+      "word_id": 35
+    },
+    {
+      "lesson": 9,
+      "kana": "ひろい",
+      "kanji": "広い",
+      "character": "形1",
+      "meaning": "广阔，宽敞",
+      "word_id": 36
+    },
+    {
+      "lesson": 9,
+      "kana": "せまい",
+      "kanji": "狭い",
+      "character": "形1",
+      "meaning": "狭窄",
+      "word_id": 37
+    },
+    {
+      "lesson": 9,
+      "kana": "おおきい",
+      "kanji": "大きい",
+      "character": "形1",
+      "meaning": "大",
+      "word_id": 38
+    },
+    {
+      "lesson": 9,
+      "kana": "ちいさい",
+      "kanji": "小さい",
+      "character": "形1",
+      "meaning": "小",
+      "word_id": 39
+    },
+    {
+      "lesson": 9,
+      "kana": "いそがしい",
+      "kanji": "忙しい",
+      "character": "形1",
+      "meaning": "忙，忙碌",
+      "word_id": 40
+    },
+    {
+      "lesson": 9,
+      "kana": "いい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "好",
+      "word_id": 41
+    },
+    {
+      "lesson": 9,
+      "kana": "わるい",
+      "kanji": "悪い",
+      "character": "形1",
+      "meaning": "不好，坏",
+      "word_id": 42
+    },
+    {
+      "lesson": 9,
+      "kana": "すばらしい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "极好，绝佳",
+      "word_id": 43
+    },
+    {
+      "lesson": 9,
+      "kana": "とおい",
+      "kanji": "遠い",
+      "character": "形1",
+      "meaning": "远",
+      "word_id": 44
+    },
+    {
+      "lesson": 9,
+      "kana": "ちかい",
+      "kanji": "近い",
+      "character": "形1",
+      "meaning": "近",
+      "word_id": 45
+    },
+    {
+      "lesson": 9,
+      "kana": "たかい",
+      "kanji": "高い",
+      "character": "形1",
+      "meaning": "高，贵",
+      "word_id": 46
+    },
+    {
+      "lesson": 9,
+      "kana": "ひくい",
+      "kanji": "低い",
+      "character": "形1",
+      "meaning": "低",
+      "word_id": 47
+    },
+    {
+      "lesson": 9,
+      "kana": "やすい",
+      "kanji": "安い",
+      "character": "形1",
+      "meaning": "便宜",
+      "word_id": 48
+    },
+    {
+      "lesson": 9,
+      "kana": "さむい",
+      "kanji": "寒い",
+      "character": "形1",
+      "meaning": "寒冷",
+      "word_id": 49
+    },
+    {
+      "lesson": 9,
+      "kana": "あつい",
+      "kanji": "暑い",
+      "character": "形1",
+      "meaning": "（天气）热",
+      "word_id": 50
+    },
+    {
+      "lesson": 9,
+      "kana": "あおい",
+      "kanji": "青い",
+      "character": "形1",
+      "meaning": "蓝色的",
+      "word_id": 51
+    },
+    {
+      "lesson": 9,
+      "kana": "しろい",
+      "kanji": "白い",
+      "character": "形1",
+      "meaning": "白色的",
+      "word_id": 52
+    },
+    {
+      "lesson": 9,
+      "kana": "あたらしい",
+      "kanji": "新しい",
+      "character": "形1",
+      "meaning": "新",
+      "word_id": 53
+    },
+    {
+      "lesson": 9,
+      "kana": "ふるい",
+      "kanji": "古い",
+      "character": "形1",
+      "meaning": "旧",
+      "word_id": 54
+    },
+    {
+      "lesson": 9,
+      "kana": "むずかしい",
+      "kanji": "難しい",
+      "character": "形1",
+      "meaning": "难",
+      "word_id": 55
+    },
+    {
+      "lesson": 9,
+      "kana": "やさしい",
+      "kanji": "易しい",
+      "character": "形1",
+      "meaning": "容易",
+      "word_id": 56
+    },
+    {
+      "lesson": 9,
+      "kana": "おおい",
+      "kanji": "多い",
+      "character": "形1",
+      "meaning": "多",
+      "word_id": 57
+    },
+    {
+      "lesson": 9,
+      "kana": "すくない",
+      "kanji": "少ない",
+      "character": "形1",
+      "meaning": "少",
+      "word_id": 58
+    },
+    {
+      "lesson": 9,
+      "kana": "かわいい",
+      "kanji": "",
+      "character": "形1",
+      "meaning": "可爱",
+      "word_id": 59
+    },
+    {
+      "lesson": 9,
+      "kana": "ほんとうに",
+      "kanji": "本当に",
+      "character": "副",
+      "meaning": "真的，实在是",
+      "word_id": 60
+    },
+    {
+      "lesson": 9,
+      "kana": "あまり",
+      "kanji": "",
+      "character": "副",
+      "meaning": "不（太）～，不很～",
+      "word_id": 61
+    },
+    {
+      "lesson": 9,
+      "kana": "とても",
+      "kanji": "",
+      "character": "副",
+      "meaning": "很，非常",
+      "word_id": 62
+    },
+    {
+      "lesson": 9,
+      "kana": "たいへん",
+      "kanji": "",
+      "character": "副",
+      "meaning": "很，非常",
+      "word_id": 63
+    },
+    {
+      "lesson": 9,
+      "kana": "すこし",
+      "kanji": "少し",
+      "character": "副",
+      "meaning": "一点儿",
+      "word_id": 64
+    },
+    {
+      "lesson": 9,
+      "kana": "ちょっと",
+      "kanji": "",
+      "character": "副",
+      "meaning": "一点儿",
+      "word_id": 65
+    },
+    {
+      "lesson": 9,
+      "kana": "ぜんぜん",
+      "kanji": "全然",
+      "character": "副",
+      "meaning": "根本（不），全然（不）",
+      "word_id": 66
+    },
+    {
+      "lesson": 9,
+      "kana": "ちょうど",
+      "kanji": "",
+      "character": "副",
+      "meaning": "正好，恰好",
+      "word_id": 67
+    },
+    {
+      "lesson": 9,
+      "kana": "あら",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "哎呀，咦",
+      "word_id": 68
+    },
+    {
+      "lesson": 9,
+      "kana": "あれ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "哎呀，咦",
+      "word_id": 69
+    },
+    {
+      "lesson": 9,
+      "kana": "ああ",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "啊",
+      "word_id": 70
+    },
+    {
+      "lesson": 9,
+      "kana": "てんあんもん",
+      "kanji": "天安門",
+      "character": "专有词",
+      "meaning": "天安门",
+      "word_id": 71
+    },
+    {
+      "lesson": 9,
+      "kana": "ばんりのちょうじょう",
+      "kanji": "万里の長城",
+      "character": "专有词",
+      "meaning": "万里长城",
+      "word_id": 72
+    },
+    {
+      "lesson": 9,
+      "kana": "きもちがいい",
+      "kanji": "気持ちがいい",
+      "character": "",
+      "meaning": "感觉舒服，心情愉快",
+      "word_id": 73
+    }
+  ]
+}

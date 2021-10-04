@@ -1,0 +1,428 @@
+{
+  "words": [
+    {
+      "lesson": 8,
+      "kana": "ブレゼント",
+      "kanji": "",
+      "character": "名",
+      "meaning": "礼物",
+      "word_id": 0
+    },
+    {
+      "lesson": 8,
+      "kana": "チケット",
+      "kanji": "",
+      "character": "名",
+      "meaning": "票",
+      "word_id": 1
+    },
+    {
+      "lesson": 8,
+      "kana": "バンフレット",
+      "kanji": "",
+      "character": "名",
+      "meaning": "小册子",
+      "word_id": 2
+    },
+    {
+      "lesson": 8,
+      "kana": "きねんひん",
+      "kanji": "記念品",
+      "character": "名",
+      "meaning": "纪念品",
+      "word_id": 3
+    },
+    {
+      "lesson": 8,
+      "kana": "スケジュールひょう",
+      "kanji": "スケジュール表",
+      "character": "名",
+      "meaning": "日程表",
+      "word_id": 4
+    },
+    {
+      "lesson": 8,
+      "kana": "しゃしんしゅう",
+      "kanji": "写真集",
+      "character": "名",
+      "meaning": "影集",
+      "word_id": 5
+    },
+    {
+      "lesson": 8,
+      "kana": "はな",
+      "kanji": "花",
+      "character": "名",
+      "meaning": "花",
+      "word_id": 6
+    },
+    {
+      "lesson": 8,
+      "kana": "おかね",
+      "kanji": "お金",
+      "character": "名",
+      "meaning": "钱，金钱",
+      "word_id": 7
+    },
+    {
+      "lesson": 8,
+      "kana": "ボールペン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "圆珠笔",
+      "word_id": 8
+    },
+    {
+      "lesson": 8,
+      "kana": "しゅくだい",
+      "kanji": "宿題",
+      "character": "名",
+      "meaning": "作业",
+      "word_id": 9
+    },
+    {
+      "lesson": 8,
+      "kana": "こうくうびん",
+      "kanji": "航空便",
+      "character": "名",
+      "meaning": "航空邮件",
+      "word_id": 10
+    },
+    {
+      "lesson": 8,
+      "kana": "そくたつ",
+      "kanji": "速達",
+      "character": "名",
+      "meaning": "速递，快件",
+      "word_id": 11
+    },
+    {
+      "lesson": 8,
+      "kana": "ファックス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "传真",
+      "word_id": 12
+    },
+    {
+      "lesson": 8,
+      "kana": "メール",
+      "kanji": "",
+      "character": "名",
+      "meaning": "邮件",
+      "word_id": 13
+    },
+    {
+      "lesson": 8,
+      "kana": "でんおばんごう",
+      "kanji": "電話番号",
+      "character": "名",
+      "meaning": "电话号码",
+      "word_id": 14
+    },
+    {
+      "lesson": 8,
+      "kana": "じゅうしょ",
+      "kanji": "住所",
+      "character": "名",
+      "meaning": "住址",
+      "word_id": 15
+    },
+    {
+      "lesson": 8,
+      "kana": "なまえ",
+      "kanji": "名前",
+      "character": "名",
+      "meaning": "姓名",
+      "word_id": 16
+    },
+    {
+      "lesson": 8,
+      "kana": "けん",
+      "kanji": "件",
+      "character": "名",
+      "meaning": "事件，事情",
+      "word_id": 17
+    },
+    {
+      "lesson": 8,
+      "kana": "しんぶんし",
+      "kanji": "新聞紙",
+      "character": "名",
+      "meaning": "报纸",
+      "word_id": 18
+    },
+    {
+      "lesson": 8,
+      "kana": "かみひこうき",
+      "kanji": "紙飛行機",
+      "character": "名",
+      "meaning": "纸折的飞机",
+      "word_id": 19
+    },
+    {
+      "lesson": 8,
+      "kana": "チョコレート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "巧克力",
+      "word_id": 20
+    },
+    {
+      "lesson": 8,
+      "kana": "アイスクリーム",
+      "kanji": "",
+      "character": "名",
+      "meaning": "冰激凌",
+      "word_id": 21
+    },
+    {
+      "lesson": 8,
+      "kana": "こむぎこ",
+      "kanji": "小麦粉",
+      "character": "名",
+      "meaning": "面粉",
+      "word_id": 22
+    },
+    {
+      "lesson": 8,
+      "kana": "はし",
+      "kanji": "",
+      "character": "名",
+      "meaning": "筷子",
+      "word_id": 23
+    },
+    {
+      "lesson": 8,
+      "kana": "スプーン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "勺子",
+      "word_id": 24
+    },
+    {
+      "lesson": 8,
+      "kana": "おにいさん",
+      "kanji": "お兄さん",
+      "character": "名",
+      "meaning": "哥哥",
+      "word_id": 25
+    },
+    {
+      "lesson": 8,
+      "kana": "かんこくご",
+      "kanji": "韓国語",
+      "character": "名",
+      "meaning": "韩语",
+      "word_id": 26
+    },
+    {
+      "lesson": 8,
+      "kana": "ゆうがた",
+      "kanji": "夕方",
+      "character": "名",
+      "meaning": "傍晚",
+      "word_id": 27
+    },
+    {
+      "lesson": 8,
+      "kana": "ひるやすみ",
+      "kanji": "昼休み",
+      "character": "名",
+      "meaning": "午休",
+      "word_id": 28
+    },
+    {
+      "lesson": 8,
+      "kana": "もらいます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "拿到，得到",
+      "word_id": 29
+    },
+    {
+      "lesson": 8,
+      "kana": "あいます",
+      "kanji": "会います",
+      "character": "动1",
+      "meaning": "见",
+      "word_id": 30
+    },
+    {
+      "lesson": 8,
+      "kana": "おくります",
+      "kanji": "送ります",
+      "character": "动1",
+      "meaning": "寄",
+      "word_id": 31
+    },
+    {
+      "lesson": 8,
+      "kana": "つくります",
+      "kanji": "作ります",
+      "character": "动1",
+      "meaning": "做，制造",
+      "word_id": 32
+    },
+    {
+      "lesson": 8,
+      "kana": "ふとります",
+      "kanji": "太ります",
+      "character": "动1",
+      "meaning": "胖",
+      "word_id": 33
+    },
+    {
+      "lesson": 8,
+      "kana": "だします",
+      "kanji": "出します",
+      "character": "动1",
+      "meaning": "寄（信）",
+      "word_id": 34
+    },
+    {
+      "lesson": 8,
+      "kana": "とどきます",
+      "kanji": "届きます",
+      "character": "动1",
+      "meaning": "收到，送到，寄到",
+      "word_id": 35
+    },
+    {
+      "lesson": 8,
+      "kana": "かきます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "画",
+      "word_id": 36
+    },
+    {
+      "lesson": 8,
+      "kana": "かします",
+      "kanji": "貸します",
+      "character": "动1",
+      "meaning": "借出，借给",
+      "word_id": 37
+    },
+    {
+      "lesson": 8,
+      "kana": "ならいます",
+      "kanji": "習います",
+      "character": "动1",
+      "meaning": "学习",
+      "word_id": 38
+    },
+    {
+      "lesson": 8,
+      "kana": "あげます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "给",
+      "word_id": 39
+    },
+    {
+      "lesson": 8,
+      "kana": "かけます",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "打（电话）",
+      "word_id": 40
+    },
+    {
+      "lesson": 8,
+      "kana": "かります",
+      "kanji": "借ります",
+      "character": "动2",
+      "meaning": "（向别人）借",
+      "word_id": 41
+    },
+    {
+      "lesson": 8,
+      "kana": "おしえます",
+      "kanji": "教えます",
+      "character": "动2",
+      "meaning": "教",
+      "word_id": 42
+    },
+    {
+      "lesson": 8,
+      "kana": "もう",
+      "kanji": "",
+      "character": "副",
+      "meaning": "已经",
+      "word_id": 43
+    },
+    {
+      "lesson": 8,
+      "kana": "さっき",
+      "kanji": "",
+      "character": "副",
+      "meaning": "刚才",
+      "word_id": 44
+    },
+    {
+      "lesson": 8,
+      "kana": "たったいま",
+      "kanji": "たった今",
+      "character": "副",
+      "meaning": "刚刚",
+      "word_id": 45
+    },
+    {
+      "lesson": 8,
+      "kana": "もういちど",
+      "kanji": "もう一度",
+      "character": "副",
+      "meaning": "再一次",
+      "word_id": 46
+    },
+    {
+      "lesson": 8,
+      "kana": "まえに",
+      "kanji": "前に",
+      "character": "副",
+      "meaning": "以前",
+      "word_id": 47
+    },
+    {
+      "lesson": 8,
+      "kana": "ちん",
+      "kanji": "陳",
+      "character": "专有词",
+      "meaning": "陈",
+      "word_id": 48
+    },
+    {
+      "lesson": 8,
+      "kana": "どうですか",
+      "kanji": "",
+      "character": "",
+      "meaning": "怎样，如何",
+      "word_id": 49
+    },
+    {
+      "lesson": 8,
+      "kana": "おねがいします",
+      "kanji": "お願いします",
+      "character": "",
+      "meaning": "拜托了",
+      "word_id": 50
+    },
+    {
+      "lesson": 8,
+      "kana": "わかりました",
+      "kanji": "分かりました",
+      "character": "",
+      "meaning": "明白了",
+      "word_id": 51
+    },
+    {
+      "lesson": 8,
+      "kana": "よかったです",
+      "kanji": "",
+      "character": "",
+      "meaning": "太好了",
+      "word_id": 52
+    }
+  ]
+}

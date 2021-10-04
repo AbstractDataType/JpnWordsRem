@@ -1,0 +1,276 @@
+{
+  "words": [
+    {
+      "lesson": 12,
+      "kana": "きせつ",
+      "kanji": "季節",
+      "character": "名",
+      "meaning": "季节",
+      "word_id": 0
+    },
+    {
+      "lesson": 12,
+      "kana": "ふゆ",
+      "kanji": "冬",
+      "character": "名",
+      "meaning": "冬天，冬季",
+      "word_id": 1
+    },
+    {
+      "lesson": 12,
+      "kana": "はる",
+      "kanji": "春",
+      "character": "名",
+      "meaning": "春天，春季",
+      "word_id": 2
+    },
+    {
+      "lesson": 12,
+      "kana": "にほんりょうり",
+      "kanji": "日本料理",
+      "character": "名",
+      "meaning": "日式饭菜",
+      "word_id": 3
+    },
+    {
+      "lesson": 12,
+      "kana": "すし",
+      "kanji": "寿司",
+      "character": "名",
+      "meaning": "寿司",
+      "word_id": 4
+    },
+    {
+      "lesson": 12,
+      "kana": "ナシ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "梨",
+      "word_id": 5
+    },
+    {
+      "lesson": 12,
+      "kana": "バナナ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "香蕉",
+      "word_id": 6
+    },
+    {
+      "lesson": 12,
+      "kana": "ミカン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "橘子",
+      "word_id": 7
+    },
+    {
+      "lesson": 12,
+      "kana": "しょうちゅう",
+      "kanji": "焼酎",
+      "character": "名",
+      "meaning": "烧酒",
+      "word_id": 8
+    },
+    {
+      "lesson": 12,
+      "kana": "にほんしゅ",
+      "kanji": "日本酒",
+      "character": "名",
+      "meaning": "日本酒",
+      "word_id": 9
+    },
+    {
+      "lesson": 12,
+      "kana": "こうちゃ",
+      "kanji": "紅茶",
+      "character": "名",
+      "meaning": "红茶",
+      "word_id": 10
+    },
+    {
+      "lesson": 12,
+      "kana": "ウーロンちゃ",
+      "kanji": "ウーロン茶",
+      "character": "名",
+      "meaning": "乌龙茶",
+      "word_id": 11
+    },
+    {
+      "lesson": 12,
+      "kana": "ジャスミンちゃ",
+      "kanji": "ジャスミン茶",
+      "character": "名",
+      "meaning": "茉莉花茶",
+      "word_id": 12
+    },
+    {
+      "lesson": 12,
+      "kana": "りょくちゃ",
+      "kanji": "緑茶",
+      "character": "名",
+      "meaning": "绿茶",
+      "word_id": 13
+    },
+    {
+      "lesson": 12,
+      "kana": "ジュース",
+      "kanji": "",
+      "character": "名",
+      "meaning": "果汁",
+      "word_id": 14
+    },
+    {
+      "lesson": 12,
+      "kana": "にんき",
+      "kanji": "人気",
+      "character": "名",
+      "meaning": "声望，受欢迎",
+      "word_id": 15
+    },
+    {
+      "lesson": 12,
+      "kana": "せき",
+      "kanji": "席",
+      "character": "名",
+      "meaning": "座位，席位",
+      "word_id": 16
+    },
+    {
+      "lesson": 12,
+      "kana": "クラス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "班级",
+      "word_id": 17
+    },
+    {
+      "lesson": 12,
+      "kana": "しゅるい",
+      "kanji": "種類",
+      "character": "名",
+      "meaning": "种类",
+      "word_id": 18
+    },
+    {
+      "lesson": 12,
+      "kana": "せ",
+      "kanji": "背",
+      "character": "名",
+      "meaning": "个子",
+      "word_id": 19
+    },
+    {
+      "lesson": 12,
+      "kana": "あに",
+      "kanji": "兄",
+      "character": "名",
+      "meaning": "哥哥，兄长",
+      "word_id": 20
+    },
+    {
+      "lesson": 12,
+      "kana": "さいきん",
+      "kanji": "最近",
+      "character": "名",
+      "meaning": "最近，近来",
+      "word_id": 21
+    },
+    {
+      "lesson": 12,
+      "kana": "ふります",
+      "kanji": "降ります",
+      "character": "动1",
+      "meaning": "下（雨，雪），降（雨，雪）",
+      "word_id": 22
+    },
+    {
+      "lesson": 12,
+      "kana": "わかい",
+      "kanji": "若い",
+      "character": "形1",
+      "meaning": "年轻",
+      "word_id": 23
+    },
+    {
+      "lesson": 12,
+      "kana": "あたたかい",
+      "kanji": "暖かい",
+      "character": "形1",
+      "meaning": "暖和，温暖",
+      "word_id": 24
+    },
+    {
+      "lesson": 12,
+      "kana": "すずしい",
+      "kanji": "涼しい",
+      "character": "形1",
+      "meaning": "凉爽",
+      "word_id": 25
+    },
+    {
+      "lesson": 12,
+      "kana": "はやい",
+      "kanji": "速い",
+      "character": "形1",
+      "meaning": "快",
+      "word_id": 26
+    },
+    {
+      "lesson": 12,
+      "kana": "だいすき",
+      "kanji": "大好き",
+      "character": "形2",
+      "meaning": "非常喜欢",
+      "word_id": 27
+    },
+    {
+      "lesson": 12,
+      "kana": "いちばん",
+      "kanji": "",
+      "character": "副",
+      "meaning": "最，第一",
+      "word_id": 28
+    },
+    {
+      "lesson": 12,
+      "kana": "ずっと",
+      "kanji": "",
+      "character": "副",
+      "meaning": "～得多，一直",
+      "word_id": 29
+    },
+    {
+      "lesson": 12,
+      "kana": "やはり",
+      "kanji": "",
+      "character": "副",
+      "meaning": "仍然，还是",
+      "word_id": 30
+    },
+    {
+      "lesson": 12,
+      "kana": "やっぱり",
+      "kanji": "",
+      "character": "副",
+      "meaning": "仍然，还是",
+      "word_id": 31
+    },
+    {
+      "lesson": 12,
+      "kana": "エベレスト",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "珠穆朗玛峰",
+      "word_id": 32
+    },
+    {
+      "lesson": 12,
+      "kana": "にんきがあります",
+      "kanji": "人気があります",
+      "character": "",
+      "meaning": "受欢迎",
+      "word_id": 33
+    }
+  ]
+}

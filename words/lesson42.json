@@ -1,0 +1,292 @@
+{
+  "words": [
+    {
+      "lesson": 42,
+      "kana": "せきにんしゃ",
+      "kanji": "責任者",
+      "character": "名",
+      "meaning": "负责人",
+      "word_id": 0
+    },
+    {
+      "lesson": 42,
+      "kana": "どうりょう",
+      "kanji": "同僚",
+      "character": "名",
+      "meaning": "同事",
+      "word_id": 1
+    },
+    {
+      "lesson": 42,
+      "kana": "かんきゃく",
+      "kanji": "観客",
+      "character": "名",
+      "meaning": "观众",
+      "word_id": 2
+    },
+    {
+      "lesson": 42,
+      "kana": "くうふく",
+      "kanji": "空腹",
+      "character": "名",
+      "meaning": "空肚子，空腹，饿",
+      "word_id": 3
+    },
+    {
+      "lesson": 42,
+      "kana": "かんき",
+      "kanji": "換気",
+      "character": "名",
+      "meaning": "换气",
+      "word_id": 4
+    },
+    {
+      "lesson": 42,
+      "kana": "るす",
+      "kanji": "留守",
+      "character": "名",
+      "meaning": "不在家",
+      "word_id": 5
+    },
+    {
+      "lesson": 42,
+      "kana": "こうどう",
+      "kanji": "講堂",
+      "character": "名",
+      "meaning": "讲堂",
+      "word_id": 6
+    },
+    {
+      "lesson": 42,
+      "kana": "ひるま",
+      "kanji": "昼間",
+      "character": "名",
+      "meaning": "白天，白日",
+      "word_id": 7
+    },
+    {
+      "lesson": 42,
+      "kana": "にってい",
+      "kanji": "日程",
+      "character": "名",
+      "meaning": "日程",
+      "word_id": 8
+    },
+    {
+      "lesson": 42,
+      "kana": "じかい",
+      "kanji": "次回",
+      "character": "名",
+      "meaning": "下次，下回",
+      "word_id": 9
+    },
+    {
+      "lesson": 42,
+      "kana": "めざまし",
+      "kanji": "目覚まし",
+      "character": "名",
+      "meaning": "闹钟；叫醒",
+      "word_id": 10
+    },
+    {
+      "lesson": 42,
+      "kana": "アラーム",
+      "kanji": "",
+      "character": "名",
+      "meaning": "闹钟，闹铃",
+      "word_id": 11
+    },
+    {
+      "lesson": 42,
+      "kana": "きかくあん",
+      "kanji": "企画案",
+      "character": "名",
+      "meaning": "策划方案",
+      "word_id": 12
+    },
+    {
+      "lesson": 42,
+      "kana": "おへんじ",
+      "kanji": "お返事",
+      "character": "名",
+      "meaning": "回信",
+      "word_id": 13
+    },
+    {
+      "lesson": 42,
+      "kana": "いきさき",
+      "kanji": "行き先",
+      "character": "名",
+      "meaning": "去的地方，目的地",
+      "word_id": 14
+    },
+    {
+      "lesson": 42,
+      "kana": "あずかります",
+      "kanji": "預かります",
+      "character": "动1",
+      "meaning": "保管，收存",
+      "word_id": 15
+    },
+    {
+      "lesson": 42,
+      "kana": "きづきます",
+      "kanji": "気づきます",
+      "character": "动1",
+      "meaning": "发觉，发现",
+      "word_id": 16
+    },
+    {
+      "lesson": 42,
+      "kana": "ひやします",
+      "kanji": "冷やします",
+      "character": "动1",
+      "meaning": "冰镇，冷却",
+      "word_id": 17
+    },
+    {
+      "lesson": 42,
+      "kana": "おもいだします",
+      "kanji": "思い出します",
+      "character": "动1",
+      "meaning": "想起，想出",
+      "word_id": 18
+    },
+    {
+      "lesson": 42,
+      "kana": "つげます",
+      "kanji": "告げます",
+      "character": "动2",
+      "meaning": "说，告诉",
+      "word_id": 19
+    },
+    {
+      "lesson": 42,
+      "kana": "ひえます",
+      "kanji": "冷えます",
+      "character": "动2",
+      "meaning": "变冷；感觉凉",
+      "word_id": 20
+    },
+    {
+      "lesson": 42,
+      "kana": "しんじます",
+      "kanji": "信じます",
+      "character": "动2",
+      "meaning": "相信，信任",
+      "word_id": 21
+    },
+    {
+      "lesson": 42,
+      "kana": "おれます",
+      "kanji": "折れます",
+      "character": "动2",
+      "meaning": "折，断；拐弯",
+      "word_id": 22
+    },
+    {
+      "lesson": 42,
+      "kana": "しゅっきんします",
+      "kanji": "出勤します",
+      "character": "动3",
+      "meaning": "上班，出勤",
+      "word_id": 23
+    },
+    {
+      "lesson": 42,
+      "kana": "セットします",
+      "kanji": "",
+      "character": "动3",
+      "meaning": "设定，设置",
+      "word_id": 24
+    },
+    {
+      "lesson": 42,
+      "kana": "けんとうします",
+      "kanji": "検討します",
+      "character": "动3",
+      "meaning": "讨论",
+      "word_id": 25
+    },
+    {
+      "lesson": 42,
+      "kana": "ただしい",
+      "kanji": "正しい",
+      "character": "形1",
+      "meaning": "正确的",
+      "word_id": 26
+    },
+    {
+      "lesson": 42,
+      "kana": "とうぜん",
+      "kanji": "当然",
+      "character": "形2",
+      "meaning": "当然，应当",
+      "word_id": 27
+    },
+    {
+      "lesson": 42,
+      "kana": "たしか",
+      "kanji": "確か",
+      "character": "形2",
+      "meaning": "确实，确切；大概",
+      "word_id": 28
+    },
+    {
+      "lesson": 42,
+      "kana": "じょうぶ",
+      "kanji": "丈夫",
+      "character": "形2",
+      "meaning": "牢固，结实",
+      "word_id": 29
+    },
+    {
+      "lesson": 42,
+      "kana": "さっそく",
+      "kanji": "早速",
+      "character": "副",
+      "meaning": "马上，立即",
+      "word_id": 30
+    },
+    {
+      "lesson": 42,
+      "kana": "ちょくせつ",
+      "kanji": "直接",
+      "character": "副",
+      "meaning": "直接",
+      "word_id": 31
+    },
+    {
+      "lesson": 42,
+      "kana": "きっと",
+      "kanji": "",
+      "character": "副",
+      "meaning": "一定",
+      "word_id": 32
+    },
+    {
+      "lesson": 42,
+      "kana": "だって",
+      "kanji": "",
+      "character": "连",
+      "meaning": "可是，但是",
+      "word_id": 33
+    },
+    {
+      "lesson": 42,
+      "kana": "にしちょうあんがい",
+      "kanji": "西長安街",
+      "character": "专有词",
+      "meaning": "西长安街",
+      "word_id": 34
+    },
+    {
+      "lesson": 42,
+      "kana": "るすにします",
+      "kanji": "留守にします",
+      "character": "",
+      "meaning": "不在家，无人在家",
+      "word_id": 35
+    }
+  ]
+}

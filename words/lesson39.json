@@ -1,0 +1,364 @@
+{
+  "words": [
+    {
+      "lesson": 39,
+      "kana": "むら",
+      "kanji": "村",
+      "character": "名",
+      "meaning": "村子，村庄",
+      "word_id": 0
+    },
+    {
+      "lesson": 39,
+      "kana": "いね",
+      "kanji": "稲",
+      "character": "名",
+      "meaning": "稻子",
+      "word_id": 1
+    },
+    {
+      "lesson": 39,
+      "kana": "きり",
+      "kanji": "霧",
+      "character": "名",
+      "meaning": "雾",
+      "word_id": 2
+    },
+    {
+      "lesson": 39,
+      "kana": "もん",
+      "kanji": "門",
+      "character": "名",
+      "meaning": "城门，门，大门",
+      "word_id": 3
+    },
+    {
+      "lesson": 39,
+      "kana": "ぶたい",
+      "kanji": "舞台",
+      "character": "名",
+      "meaning": "舞台",
+      "word_id": 4
+    },
+    {
+      "lesson": 39,
+      "kana": "やね",
+      "kanji": "屋根",
+      "character": "名",
+      "meaning": "屋顶，房顶",
+      "word_id": 5
+    },
+    {
+      "lesson": 39,
+      "kana": "るりがわら",
+      "kanji": "瑠璃瓦",
+      "character": "名",
+      "meaning": "琉璃瓦",
+      "word_id": 6
+    },
+    {
+      "lesson": 39,
+      "kana": "きいろ",
+      "kanji": "黄色",
+      "character": "名",
+      "meaning": "黄色，黄颜色",
+      "word_id": 7
+    },
+    {
+      "lesson": 39,
+      "kana": "そら",
+      "kanji": "空",
+      "character": "名",
+      "meaning": "天空",
+      "word_id": 8
+    },
+    {
+      "lesson": 39,
+      "kana": "バック",
+      "kanji": "",
+      "character": "名",
+      "meaning": "背景",
+      "word_id": 9
+    },
+    {
+      "lesson": 39,
+      "kana": "かしきり",
+      "kanji": "貸し切り",
+      "character": "名",
+      "meaning": "包租",
+      "word_id": 10
+    },
+    {
+      "lesson": 39,
+      "kana": "いっぱん",
+      "kanji": "一般",
+      "character": "名",
+      "meaning": "一般",
+      "word_id": 11
+    },
+    {
+      "lesson": 39,
+      "kana": "そぼ",
+      "kanji": "祖母",
+      "character": "名",
+      "meaning": "祖母，外婆",
+      "word_id": 12
+    },
+    {
+      "lesson": 39,
+      "kana": "おんがくかい",
+      "kanji": "音楽会",
+      "character": "名",
+      "meaning": "音乐会",
+      "word_id": 13
+    },
+    {
+      "lesson": 39,
+      "kana": "ジャズ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "爵士乐",
+      "word_id": 14
+    },
+    {
+      "lesson": 39,
+      "kana": "やがいコンサート",
+      "kanji": "野外コンサート",
+      "character": "名",
+      "meaning": "露天音乐会",
+      "word_id": 15
+    },
+    {
+      "lesson": 39,
+      "kana": "えんだか",
+      "kanji": "円高",
+      "character": "名",
+      "meaning": "日元升值",
+      "word_id": 16
+    },
+    {
+      "lesson": 39,
+      "kana": "ゆしゅつ",
+      "kanji": "輸出",
+      "character": "名",
+      "meaning": "出口，输出",
+      "word_id": 17
+    },
+    {
+      "lesson": 39,
+      "kana": "えいきょう",
+      "kanji": "影響",
+      "character": "名",
+      "meaning": "影响",
+      "word_id": 18
+    },
+    {
+      "lesson": 39,
+      "kana": "しげん",
+      "kanji": "資源",
+      "character": "名",
+      "meaning": "资源",
+      "word_id": 19
+    },
+    {
+      "lesson": 39,
+      "kana": "きおん",
+      "kanji": "気温",
+      "character": "名",
+      "meaning": "气温",
+      "word_id": 20
+    },
+    {
+      "lesson": 39,
+      "kana": "おき",
+      "kanji": "沖",
+      "character": "名",
+      "meaning": "海上，湖心",
+      "word_id": 21
+    },
+    {
+      "lesson": 39,
+      "kana": "かいがい",
+      "kanji": "海外",
+      "character": "名",
+      "meaning": "海外",
+      "word_id": 22
+    },
+    {
+      "lesson": 39,
+      "kana": "クジラ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "鲸",
+      "word_id": 23
+    },
+    {
+      "lesson": 39,
+      "kana": "サメ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "鲨鱼",
+      "word_id": 24
+    },
+    {
+      "lesson": 39,
+      "kana": "ユーフォー",
+      "kanji": "UFO",
+      "character": "名",
+      "meaning": "不明飞行物",
+      "word_id": 25
+    },
+    {
+      "lesson": 39,
+      "kana": "むかし",
+      "kanji": "昔",
+      "character": "名",
+      "meaning": "以前",
+      "word_id": 26
+    },
+    {
+      "lesson": 39,
+      "kana": "べつめい",
+      "kanji": "別名",
+      "character": "名",
+      "meaning": "别名",
+      "word_id": 27
+    },
+    {
+      "lesson": 39,
+      "kana": "ほう",
+      "kanji": "方",
+      "character": "名",
+      "meaning": "方，方面",
+      "word_id": 28
+    },
+    {
+      "lesson": 39,
+      "kana": "どうろこうじ",
+      "kanji": "道路工事",
+      "character": "名",
+      "meaning": "道路施工",
+      "word_id": 29
+    },
+    {
+      "lesson": 39,
+      "kana": "つうきんラッシュ",
+      "kanji": "通勤ラッシュ",
+      "character": "名",
+      "meaning": "上下班高峰",
+      "word_id": 30
+    },
+    {
+      "lesson": 39,
+      "kana": "つうこうきんし",
+      "kanji": "通行禁止",
+      "character": "名",
+      "meaning": "禁止通行",
+      "word_id": 31
+    },
+    {
+      "lesson": 39,
+      "kana": "とおく",
+      "kanji": "遠く",
+      "character": "名",
+      "meaning": "远处，远方",
+      "word_id": 32
+    },
+    {
+      "lesson": 39,
+      "kana": "みわたします",
+      "kanji": "見渡します",
+      "character": "动1",
+      "meaning": "眺望，远眺",
+      "word_id": 33
+    },
+    {
+      "lesson": 39,
+      "kana": "つづきます",
+      "kanji": "続きます",
+      "character": "动1",
+      "meaning": "继续，持续",
+      "word_id": 34
+    },
+    {
+      "lesson": 39,
+      "kana": "なくなります",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "完，丢失",
+      "word_id": 35
+    },
+    {
+      "lesson": 39,
+      "kana": "そだちます",
+      "kanji": "育ちます",
+      "character": "动1",
+      "meaning": "生长，成长",
+      "word_id": 36
+    },
+    {
+      "lesson": 39,
+      "kana": "ふえます",
+      "kanji": "増えます",
+      "character": "动2",
+      "meaning": "增加，增多",
+      "word_id": 37
+    },
+    {
+      "lesson": 39,
+      "kana": "つれます",
+      "kanji": "連れます",
+      "character": "动2",
+      "meaning": "带，领",
+      "word_id": 38
+    },
+    {
+      "lesson": 39,
+      "kana": "けっせきします",
+      "kanji": "欠席します",
+      "character": "动3",
+      "meaning": "缺席",
+      "word_id": 39
+    },
+    {
+      "lesson": 39,
+      "kana": "ゆにゅうします",
+      "kanji": "輸入します",
+      "character": "动3",
+      "meaning": "进口，输入",
+      "word_id": 40
+    },
+    {
+      "lesson": 39,
+      "kana": "せっかく",
+      "kanji": "",
+      "character": "副",
+      "meaning": "好（不）容易，特意",
+      "word_id": 41
+    },
+    {
+      "lesson": 39,
+      "kana": "ぜったい",
+      "kanji": "絶対",
+      "character": "副",
+      "meaning": "绝对，一定",
+      "word_id": 42
+    },
+    {
+      "lesson": 39,
+      "kana": "そうそう",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "是的是的",
+      "word_id": 43
+    },
+    {
+      "lesson": 39,
+      "kana": "しきんじょう",
+      "kanji": "紫禁城",
+      "character": "专有词",
+      "meaning": "紫禁城",
+      "word_id": 44
+    }
+  ]
+}

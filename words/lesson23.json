@@ -1,0 +1,164 @@
+{
+  "words": [
+    {
+      "lesson": 23,
+      "kana": "しゅうまつ",
+      "kanji": "週末",
+      "character": "名",
+      "meaning": "周末",
+      "word_id": 0
+    },
+    {
+      "lesson": 23,
+      "kana": "スケート",
+      "kanji": "",
+      "character": "名",
+      "meaning": "滑冰，溜冰",
+      "word_id": 1
+    },
+    {
+      "lesson": 23,
+      "kana": "あじ",
+      "kanji": "味",
+      "character": "名",
+      "meaning": "口味，（食物的）味道",
+      "word_id": 2
+    },
+    {
+      "lesson": 23,
+      "kana": "まいかい",
+      "kanji": "毎回",
+      "character": "名",
+      "meaning": "每次，每回",
+      "word_id": 3
+    },
+    {
+      "lesson": 23,
+      "kana": "つうきん",
+      "kanji": "通勤",
+      "character": "名",
+      "meaning": "上下班，通勤",
+      "word_id": 4
+    },
+    {
+      "lesson": 23,
+      "kana": "ふね",
+      "kanji": "船",
+      "character": "名",
+      "meaning": "船",
+      "word_id": 5
+    },
+    {
+      "lesson": 23,
+      "kana": "きじ",
+      "kanji": "生地",
+      "character": "名",
+      "meaning": "布料，衣料",
+      "word_id": 6
+    },
+    {
+      "lesson": 23,
+      "kana": "へいてんじこく",
+      "kanji": "閉店時刻",
+      "character": "名",
+      "meaning": "关门时间",
+      "word_id": 7
+    },
+    {
+      "lesson": 23,
+      "kana": "そつぎょうしき",
+      "kanji": "卒業式",
+      "character": "名",
+      "meaning": "毕业典礼",
+      "word_id": 8
+    },
+    {
+      "lesson": 23,
+      "kana": "ちがいます",
+      "kanji": "違います",
+      "character": "动1",
+      "meaning": "不同，不一样",
+      "word_id": 9
+    },
+    {
+      "lesson": 23,
+      "kana": "こみます",
+      "kanji": "込みます",
+      "character": "动1",
+      "meaning": "拥挤，混杂",
+      "word_id": 10
+    },
+    {
+      "lesson": 23,
+      "kana": "きまります",
+      "kanji": "決まります",
+      "character": "动1",
+      "meaning": "定，决定",
+      "word_id": 11
+    },
+    {
+      "lesson": 23,
+      "kana": "しらせます",
+      "kanji": "知らせます",
+      "character": "动2",
+      "meaning": "告诉",
+      "word_id": 12
+    },
+    {
+      "lesson": 23,
+      "kana": "たしかめます",
+      "kanji": "確かめます",
+      "character": "动2",
+      "meaning": "",
+      "word_id": 13
+    },
+    {
+      "lesson": 23,
+      "kana": "こい",
+      "kanji": "濃い",
+      "character": "形1",
+      "meaning": "（口味）重；浓",
+      "word_id": 14
+    },
+    {
+      "lesson": 23,
+      "kana": "うすい",
+      "kanji": "薄い",
+      "character": "形1",
+      "meaning": "（口味）轻；薄",
+      "word_id": 15
+    },
+    {
+      "lesson": 23,
+      "kana": "はやい",
+      "kanji": "早い",
+      "character": "形1",
+      "meaning": "早",
+      "word_id": 16
+    },
+    {
+      "lesson": 23,
+      "kana": "おそい",
+      "kanji": "遅い",
+      "character": "形1",
+      "meaning": "晚，慢",
+      "word_id": 17
+    },
+    {
+      "lesson": 23,
+      "kana": "たぶん",
+      "kanji": "",
+      "character": "副",
+      "meaning": "可能，大概",
+      "word_id": 18
+    },
+    {
+      "lesson": 23,
+      "kana": "とうきょうえき",
+      "kanji": "東京駅",
+      "character": "专有词",
+      "meaning": "东京站",
+      "word_id": 19
+    }
+  ]
+}

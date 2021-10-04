@@ -1,0 +1,556 @@
+{
+  "words": [
+    {
+      "lesson": 16,
+      "kana": "そうさ",
+      "kanji": "操作",
+      "character": "名",
+      "meaning": "操作，操纵",
+      "word_id": 0
+    },
+    {
+      "lesson": 16,
+      "kana": "きかい",
+      "kanji": "機械",
+      "character": "名",
+      "meaning": "机械，机器",
+      "word_id": 1
+    },
+    {
+      "lesson": 16,
+      "kana": "りょこうがいしゃ",
+      "kanji": "旅行会社",
+      "character": "名",
+      "meaning": "旅行社",
+      "word_id": 2
+    },
+    {
+      "lesson": 16,
+      "kana": "こうくうがいしゃ",
+      "kanji": "航空会社",
+      "character": "名",
+      "meaning": "航空公司",
+      "word_id": 3
+    },
+    {
+      "lesson": 16,
+      "kana": "えいぎょうぶ",
+      "kanji": "営業部",
+      "character": "名",
+      "meaning": "营业部",
+      "word_id": 4
+    },
+    {
+      "lesson": 16,
+      "kana": "アイティーさんぎょう",
+      "kanji": "ＩＴ産業",
+      "character": "名",
+      "meaning": "",
+      "word_id": 5
+    },
+    {
+      "lesson": 16,
+      "kana": "せいひん",
+      "kanji": "製品",
+      "character": "名",
+      "meaning": "产品",
+      "word_id": 6
+    },
+    {
+      "lesson": 16,
+      "kana": "けんちくか",
+      "kanji": "建築家",
+      "character": "名",
+      "meaning": "建筑师",
+      "word_id": 7
+    },
+    {
+      "lesson": 16,
+      "kana": "せっけい",
+      "kanji": "設計",
+      "character": "名",
+      "meaning": "设计",
+      "word_id": 8
+    },
+    {
+      "lesson": 16,
+      "kana": "デザイン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "设计（图），（制作）图案",
+      "word_id": 9
+    },
+    {
+      "lesson": 16,
+      "kana": "かたち",
+      "kanji": "形",
+      "character": "名",
+      "meaning": "造型，形状，形式",
+      "word_id": 10
+    },
+    {
+      "lesson": 16,
+      "kana": "さいしん",
+      "kanji": "最新",
+      "character": "名",
+      "meaning": "最新",
+      "word_id": 11
+    },
+    {
+      "lesson": 16,
+      "kana": "ネクタイ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "领带",
+      "word_id": 12
+    },
+    {
+      "lesson": 16,
+      "kana": "さいふ",
+      "kanji": "財布",
+      "character": "名",
+      "meaning": "钱包",
+      "word_id": 13
+    },
+    {
+      "lesson": 16,
+      "kana": "かわ",
+      "kanji": "革",
+      "character": "名",
+      "meaning": "革，皮革",
+      "word_id": 14
+    },
+    {
+      "lesson": 16,
+      "kana": "ぬの",
+      "kanji": "布",
+      "character": "名",
+      "meaning": "布，布匹",
+      "word_id": 15
+    },
+    {
+      "lesson": 16,
+      "kana": "すいとう",
+      "kanji": "水筒",
+      "character": "名",
+      "meaning": "水壶，水筒",
+      "word_id": 16
+    },
+    {
+      "lesson": 16,
+      "kana": "みどり",
+      "kanji": "緑",
+      "character": "名",
+      "meaning": "绿，绿色",
+      "word_id": 17
+    },
+    {
+      "lesson": 16,
+      "kana": "あし",
+      "kanji": "足",
+      "character": "名",
+      "meaning": "脚",
+      "word_id": 18
+    },
+    {
+      "lesson": 16,
+      "kana": "ゆび",
+      "kanji": "指",
+      "character": "名",
+      "meaning": "手指，指头",
+      "word_id": 19
+    },
+    {
+      "lesson": 16,
+      "kana": "め",
+      "kanji": "目",
+      "character": "名",
+      "meaning": "眼，眼睛",
+      "word_id": 20
+    },
+    {
+      "lesson": 16,
+      "kana": "はな",
+      "kanji": "鼻",
+      "character": "名",
+      "meaning": "鼻，鼻子",
+      "word_id": 21
+    },
+    {
+      "lesson": 16,
+      "kana": "かお",
+      "kanji": "顔",
+      "character": "名",
+      "meaning": "脸，颜面",
+      "word_id": 22
+    },
+    {
+      "lesson": 16,
+      "kana": "あたま",
+      "kanji": "頭",
+      "character": "名",
+      "meaning": "头，头脑",
+      "word_id": 23
+    },
+    {
+      "lesson": 16,
+      "kana": "アイディーカード",
+      "kanji": "",
+      "character": "名",
+      "meaning": "身份证件",
+      "word_id": 24
+    },
+    {
+      "lesson": 16,
+      "kana": "まちがい",
+      "kanji": "間違い",
+      "character": "名",
+      "meaning": "错误，失误",
+      "word_id": 25
+    },
+    {
+      "lesson": 16,
+      "kana": "もんだい",
+      "kanji": "問題",
+      "character": "名",
+      "meaning": "问题",
+      "word_id": 26
+    },
+    {
+      "lesson": 16,
+      "kana": "こうこく",
+      "kanji": "広告",
+      "character": "名",
+      "meaning": "广告",
+      "word_id": 27
+    },
+    {
+      "lesson": 16,
+      "kana": "かんばん",
+      "kanji": "看板",
+      "character": "名",
+      "meaning": "牌子",
+      "word_id": 28
+    },
+    {
+      "lesson": 16,
+      "kana": "てんじじょう",
+      "kanji": "展示場",
+      "character": "名",
+      "meaning": "展览会场",
+      "word_id": 29
+    },
+    {
+      "lesson": 16,
+      "kana": "にゅうじょうりょう",
+      "kanji": "入場料",
+      "character": "名",
+      "meaning": "门票，进场费",
+      "word_id": 30
+    },
+    {
+      "lesson": 16,
+      "kana": "サービス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "服务",
+      "word_id": 31
+    },
+    {
+      "lesson": 16,
+      "kana": "てんじょう",
+      "kanji": "天井",
+      "character": "名",
+      "meaning": "天棚",
+      "word_id": 32
+    },
+    {
+      "lesson": 16,
+      "kana": "けいび",
+      "kanji": "警備",
+      "character": "名",
+      "meaning": "戒备，警备",
+      "word_id": 33
+    },
+    {
+      "lesson": 16,
+      "kana": "クリスマスシリー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "圣诞树",
+      "word_id": 34
+    },
+    {
+      "lesson": 16,
+      "kana": "オーストラリアじん",
+      "kanji": "オーストラリア人",
+      "character": "名",
+      "meaning": "澳大利亚人",
+      "word_id": 35
+    },
+    {
+      "lesson": 16,
+      "kana": "みなさん",
+      "kanji": "皆さん",
+      "character": "名",
+      "meaning": "大家，诸位",
+      "word_id": 36
+    },
+    {
+      "lesson": 16,
+      "kana": "こ",
+      "kanji": "子",
+      "character": "名",
+      "meaning": "孩子",
+      "word_id": 37
+    },
+    {
+      "lesson": 16,
+      "kana": "よこ",
+      "kanji": "横",
+      "character": "名",
+      "meaning": "旁边，侧面",
+      "word_id": 38
+    },
+    {
+      "lesson": 16,
+      "kana": "もちます",
+      "kanji": "持ちます",
+      "character": "动1",
+      "meaning": "有，拥有，持有",
+      "word_id": 39
+    },
+    {
+      "lesson": 16,
+      "kana": "すみます",
+      "kanji": "住みます",
+      "character": "动1",
+      "meaning": "住，居住",
+      "word_id": 40
+    },
+    {
+      "lesson": 16,
+      "kana": "しります",
+      "kanji": "知ります",
+      "character": "动1",
+      "meaning": "认识，知道，了解",
+      "word_id": 41
+    },
+    {
+      "lesson": 16,
+      "kana": "なおします",
+      "kanji": "直します",
+      "character": "动1",
+      "meaning": "改，修改，改正",
+      "word_id": 42
+    },
+    {
+      "lesson": 16,
+      "kana": "かたづけます",
+      "kanji": "片づけます",
+      "character": "动2",
+      "meaning": "收拾，整理",
+      "word_id": 43
+    },
+    {
+      "lesson": 16,
+      "kana": "れんしゅうします",
+      "kanji": "練習します",
+      "character": "动3",
+      "meaning": "练习",
+      "word_id": 44
+    },
+    {
+      "lesson": 16,
+      "kana": "けっこんします",
+      "kanji": "結婚します",
+      "character": "动3",
+      "meaning": "结婚",
+      "word_id": 45
+    },
+    {
+      "lesson": 16,
+      "kana": "あんしんします",
+      "kanji": "安心します",
+      "character": "动3",
+      "meaning": "安心，放心",
+      "word_id": 46
+    },
+    {
+      "lesson": 16,
+      "kana": "あかるい",
+      "kanji": "明るい",
+      "character": "形1",
+      "meaning": "明亮，开朗",
+      "word_id": 47
+    },
+    {
+      "lesson": 16,
+      "kana": "ながい",
+      "kanji": "長い",
+      "character": "形1",
+      "meaning": "长，长久，长远",
+      "word_id": 48
+    },
+    {
+      "lesson": 16,
+      "kana": "みじかい",
+      "kanji": "短い",
+      "character": "形1",
+      "meaning": "短，短暂",
+      "word_id": 49
+    },
+    {
+      "lesson": 16,
+      "kana": "かるい",
+      "kanji": "軽い",
+      "character": "形1",
+      "meaning": "轻巧，轻，轻松，轻微",
+      "word_id": 50
+    },
+    {
+      "lesson": 16,
+      "kana": "やさしい",
+      "kanji": "優しい",
+      "character": "形1",
+      "meaning": "和蔼，温和，体贴",
+      "word_id": 51
+    },
+    {
+      "lesson": 16,
+      "kana": "ほそい",
+      "kanji": "細い",
+      "character": "形1",
+      "meaning": "小，细长，纤细",
+      "word_id": 52
+    },
+    {
+      "lesson": 16,
+      "kana": "ふとい",
+      "kanji": "太い",
+      "character": "形1",
+      "meaning": "粗，胖",
+      "word_id": 53
+    },
+    {
+      "lesson": 16,
+      "kana": "くろい",
+      "kanji": "黒い",
+      "character": "形1",
+      "meaning": "黑，黑色",
+      "word_id": 54
+    },
+    {
+      "lesson": 16,
+      "kana": "ユニーク",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "独特，唯一",
+      "word_id": 55
+    },
+    {
+      "lesson": 16,
+      "kana": "あんぜん",
+      "kanji": "安全",
+      "character": "形2",
+      "meaning": "安全",
+      "word_id": 56
+    },
+    {
+      "lesson": 16,
+      "kana": "はで",
+      "kanji": "派手",
+      "character": "形2",
+      "meaning": "耀眼，花哨",
+      "word_id": 57
+    },
+    {
+      "lesson": 16,
+      "kana": "じみ",
+      "kanji": "地味",
+      "character": "形2",
+      "meaning": "朴素，质朴",
+      "word_id": 58
+    },
+    {
+      "lesson": 16,
+      "kana": "げんじゅう",
+      "kanji": "厳重",
+      "character": "形2",
+      "meaning": "森严；严格",
+      "word_id": 59
+    },
+    {
+      "lesson": 16,
+      "kana": "まじめ",
+      "kanji": "",
+      "character": "形2",
+      "meaning": "认真；严肃",
+      "word_id": 60
+    },
+    {
+      "lesson": 16,
+      "kana": "たいせつ",
+      "kanji": "大切",
+      "character": "形2",
+      "meaning": "重要，珍贵",
+      "word_id": 61
+    },
+    {
+      "lesson": 16,
+      "kana": "ふくざつ",
+      "kanji": "複雑",
+      "character": "形2",
+      "meaning": "复杂，繁杂",
+      "word_id": 62
+    },
+    {
+      "lesson": 16,
+      "kana": "ちゃんと",
+      "kanji": "",
+      "character": "副",
+      "meaning": "好好地，的确，完全",
+      "word_id": 63
+    },
+    {
+      "lesson": 16,
+      "kana": "すぐ",
+      "kanji": "",
+      "character": "副",
+      "meaning": "马上，立即",
+      "word_id": 64
+    },
+    {
+      "lesson": 16,
+      "kana": "ずいぶん",
+      "kanji": "",
+      "character": "副",
+      "meaning": "相当，非常，很",
+      "word_id": 65
+    },
+    {
+      "lesson": 16,
+      "kana": "ほら",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "你看，瞧，喂",
+      "word_id": 66
+    },
+    {
+      "lesson": 16,
+      "kana": "にっちゅうでんき",
+      "kanji": "日中電気",
+      "character": "专有词",
+      "meaning": "日中电器",
+      "word_id": 67
+    },
+    {
+      "lesson": 16,
+      "kana": "あたまがいい",
+      "kanji": "頭がいい",
+      "character": "",
+      "meaning": "脑子好，聪明",
+      "word_id": 68
+    }
+  ]
+}

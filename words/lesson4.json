@@ -1,0 +1,396 @@
+{
+  "words": [
+    {
+      "lesson": 4,
+      "kana": "へや",
+      "kanji": "部屋",
+      "character": "名",
+      "meaning": "房间，屋子",
+      "word_id": 0
+    },
+    {
+      "lesson": 4,
+      "kana": "にわ",
+      "kanji": "庭",
+      "character": "名",
+      "meaning": "院子",
+      "word_id": 1
+    },
+    {
+      "lesson": 4,
+      "kana": "いえ",
+      "kanji": "家",
+      "character": "名",
+      "meaning": "家",
+      "word_id": 2
+    },
+    {
+      "lesson": 4,
+      "kana": "いま",
+      "kanji": "居間",
+      "character": "名",
+      "meaning": "起居室",
+      "word_id": 3
+    },
+    {
+      "lesson": 4,
+      "kana": "れいぞうこ",
+      "kanji": "冷蔵庫",
+      "character": "名",
+      "meaning": "冰箱",
+      "word_id": 4
+    },
+    {
+      "lesson": 4,
+      "kana": "かべ",
+      "kanji": "壁",
+      "character": "名",
+      "meaning": "墙壁",
+      "word_id": 5
+    },
+    {
+      "lesson": 4,
+      "kana": "スイッチ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "开关",
+      "word_id": 6
+    },
+    {
+      "lesson": 4,
+      "kana": "ほんだな",
+      "kanji": "本棚",
+      "character": "名",
+      "meaning": "书架",
+      "word_id": 7
+    },
+    {
+      "lesson": 4,
+      "kana": "ベッド",
+      "kanji": "",
+      "character": "名",
+      "meaning": "床",
+      "word_id": 8
+    },
+    {
+      "lesson": 4,
+      "kana": "ねこ",
+      "kanji": "猫",
+      "character": "名",
+      "meaning": "猫",
+      "word_id": 9
+    },
+    {
+      "lesson": 4,
+      "kana": "いぬ",
+      "kanji": "犬",
+      "character": "名",
+      "meaning": "狗",
+      "word_id": 10
+    },
+    {
+      "lesson": 4,
+      "kana": "はこ",
+      "kanji": "箱",
+      "character": "名",
+      "meaning": "盒子，箱子",
+      "word_id": 11
+    },
+    {
+      "lesson": 4,
+      "kana": "めがね",
+      "kanji": "眼鏡",
+      "character": "名",
+      "meaning": "眼镜",
+      "word_id": 12
+    },
+    {
+      "lesson": 4,
+      "kana": "ビデオ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "录像机",
+      "word_id": 13
+    },
+    {
+      "lesson": 4,
+      "kana": "サッカーボール",
+      "kanji": "",
+      "character": "名",
+      "meaning": "足球",
+      "word_id": 14
+    },
+    {
+      "lesson": 4,
+      "kana": "ビール",
+      "kanji": "",
+      "character": "名",
+      "meaning": "啤酒",
+      "word_id": 15
+    },
+    {
+      "lesson": 4,
+      "kana": "ウイスキー",
+      "kanji": "",
+      "character": "名",
+      "meaning": "威士忌",
+      "word_id": 16
+    },
+    {
+      "lesson": 4,
+      "kana": "こども",
+      "kanji": "子供",
+      "character": "名",
+      "meaning": "孩子，小孩",
+      "word_id": 17
+    },
+    {
+      "lesson": 4,
+      "kana": "きょうだい",
+      "kanji": "兄弟",
+      "character": "名",
+      "meaning": "兄弟姐妹",
+      "word_id": 18
+    },
+    {
+      "lesson": 4,
+      "kana": "りょうしん",
+      "kanji": "両親",
+      "character": "名",
+      "meaning": "父母，双亲",
+      "word_id": 19
+    },
+    {
+      "lesson": 4,
+      "kana": "いもうと",
+      "kanji": "妹",
+      "character": "名",
+      "meaning": "妹妹",
+      "word_id": 20
+    },
+    {
+      "lesson": 4,
+      "kana": "おとこ",
+      "kanji": "男",
+      "character": "名",
+      "meaning": "男",
+      "word_id": 21
+    },
+    {
+      "lesson": 4,
+      "kana": "おんな",
+      "kanji": "女",
+      "character": "名",
+      "meaning": "女",
+      "word_id": 22
+    },
+    {
+      "lesson": 4,
+      "kana": "せいと",
+      "kanji": "生徒",
+      "character": "名",
+      "meaning": "学生",
+      "word_id": 23
+    },
+    {
+      "lesson": 4,
+      "kana": "うえ",
+      "kanji": "上",
+      "character": "名",
+      "meaning": "上面",
+      "word_id": 24
+    },
+    {
+      "lesson": 4,
+      "kana": "そと",
+      "kanji": "外",
+      "character": "名",
+      "meaning": "外面",
+      "word_id": 25
+    },
+    {
+      "lesson": 4,
+      "kana": "なか",
+      "kanji": "中",
+      "character": "名",
+      "meaning": "里面，内部，中间",
+      "word_id": 26
+    },
+    {
+      "lesson": 4,
+      "kana": "した",
+      "kanji": "下",
+      "character": "名",
+      "meaning": "下面",
+      "word_id": 27
+    },
+    {
+      "lesson": 4,
+      "kana": "まえ",
+      "kanji": "前",
+      "character": "名",
+      "meaning": "前，前面",
+      "word_id": 28
+    },
+    {
+      "lesson": 4,
+      "kana": "うしろ",
+      "kanji": "後ろ",
+      "character": "名",
+      "meaning": "后，后面",
+      "word_id": 29
+    },
+    {
+      "lesson": 4,
+      "kana": "ちかく",
+      "kanji": "近く",
+      "character": "名",
+      "meaning": "附近，近旁",
+      "word_id": 30
+    },
+    {
+      "lesson": 4,
+      "kana": "ばしょ",
+      "kanji": "場所",
+      "character": "名",
+      "meaning": "所在地，地方，场所",
+      "word_id": 31
+    },
+    {
+      "lesson": 4,
+      "kana": "きょうしつ",
+      "kanji": "教室",
+      "character": "名",
+      "meaning": "教室",
+      "word_id": 32
+    },
+    {
+      "lesson": 4,
+      "kana": "かいぎしつ",
+      "kanji": "会議室",
+      "character": "名",
+      "meaning": "会议室",
+      "word_id": 33
+    },
+    {
+      "lesson": 4,
+      "kana": "としょしつ",
+      "kanji": "図書室",
+      "character": "名",
+      "meaning": "图书室",
+      "word_id": 34
+    },
+    {
+      "lesson": 4,
+      "kana": "こうえん",
+      "kanji": "公園",
+      "character": "名",
+      "meaning": "公园",
+      "word_id": 35
+    },
+    {
+      "lesson": 4,
+      "kana": "はなや",
+      "kanji": "花屋",
+      "character": "名",
+      "meaning": "花店",
+      "word_id": 36
+    },
+    {
+      "lesson": 4,
+      "kana": "ばいてん",
+      "kanji": "売店",
+      "character": "名",
+      "meaning": "小卖部，售货亭",
+      "word_id": 37
+    },
+    {
+      "lesson": 4,
+      "kana": "えき",
+      "kanji": "駅",
+      "character": "名",
+      "meaning": "车站",
+      "word_id": 38
+    },
+    {
+      "lesson": 4,
+      "kana": "ちかてつ",
+      "kanji": "地下鉄",
+      "character": "名",
+      "meaning": "地铁",
+      "word_id": 39
+    },
+    {
+      "lesson": 4,
+      "kana": "き",
+      "kanji": "樹",
+      "character": "名",
+      "meaning": "树，树木",
+      "word_id": 40
+    },
+    {
+      "lesson": 4,
+      "kana": "ひとりぐらし",
+      "kanji": "一人暮らし",
+      "character": "名",
+      "meaning": "单身生活",
+      "word_id": 41
+    },
+    {
+      "lesson": 4,
+      "kana": "あります",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "有，在（非意志者）",
+      "word_id": 42
+    },
+    {
+      "lesson": 4,
+      "kana": "います",
+      "kanji": "",
+      "character": "动2",
+      "meaning": "有，在（具意志者）",
+      "word_id": 43
+    },
+    {
+      "lesson": 4,
+      "kana": "ええと",
+      "kanji": "",
+      "character": "叹",
+      "meaning": "啊，嗯",
+      "word_id": 44
+    },
+    {
+      "lesson": 4,
+      "kana": "よこはま",
+      "kanji": "横浜",
+      "character": "专有词",
+      "meaning": "横滨",
+      "word_id": 45
+    },
+    {
+      "lesson": 4,
+      "kana": "なごや",
+      "kanji": "名古屋",
+      "character": "专有词",
+      "meaning": "名古屋",
+      "word_id": 46
+    },
+    {
+      "lesson": 4,
+      "kana": "おおさか",
+      "kanji": "大阪",
+      "character": "专有词",
+      "meaning": "大阪",
+      "word_id": 47
+    },
+    {
+      "lesson": 4,
+      "kana": "ジェーアール",
+      "kanji": "ＪＲ",
+      "character": "专有词",
+      "meaning": "JR",
+      "word_id": 48
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "words": [
+    {
+      "lesson": 48,
+      "kana": "みょうにち",
+      "kanji": "明日",
+      "character": "名",
+      "meaning": "明天",
+      "word_id": 0
+    },
+    {
+      "lesson": 48,
+      "kana": "あす",
+      "kanji": "明日",
+      "character": "名",
+      "meaning": "明天",
+      "word_id": 1
+    },
+    {
+      "lesson": 48,
+      "kana": "さくじつ",
+      "kanji": "昨日",
+      "character": "名",
+      "meaning": "昨天",
+      "word_id": 2
+    },
+    {
+      "lesson": 48,
+      "kana": "このたび",
+      "kanji": "この度",
+      "character": "名",
+      "meaning": "这次，这回",
+      "word_id": 3
+    },
+    {
+      "lesson": 48,
+      "kana": "わたくし",
+      "kanji": "私",
+      "character": "代",
+      "meaning": "我",
+      "word_id": 4
+    },
+    {
+      "lesson": 48,
+      "kana": "わたくしども",
+      "kanji": "私ども",
+      "character": "代",
+      "meaning": "我们",
+      "word_id": 5
+    },
+    {
+      "lesson": 48,
+      "kana": "しゃ",
+      "kanji": "社",
+      "character": "名",
+      "meaning": "公司",
+      "word_id": 6
+    },
+    {
+      "lesson": 48,
+      "kana": "もの",
+      "kanji": "者",
+      "character": "名",
+      "meaning": "人，～的人",
+      "word_id": 7
+    },
+    {
+      "lesson": 48,
+      "kana": "へいしゃ",
+      "kanji": "弊社",
+      "character": "名",
+      "meaning": "敝公司",
+      "word_id": 8
+    },
+    {
+      "lesson": 48,
+      "kana": "しんしゃ",
+      "kanji": "新車",
+      "character": "名",
+      "meaning": "新车",
+      "word_id": 9
+    },
+    {
+      "lesson": 48,
+      "kana": "きず",
+      "kanji": "傷",
+      "character": "名",
+      "meaning": "瑕疵；创伤",
+      "word_id": 10
+    },
+    {
+      "lesson": 48,
+      "kana": "しどう",
+      "kanji": "指導",
+      "character": "名",
+      "meaning": "指教，指导",
+      "word_id": 11
+    },
+    {
+      "lesson": 48,
+      "kana": "おつり",
+      "kanji": "",
+      "character": "名",
+      "meaning": "找的零钱",
+      "word_id": 12
+    },
+    {
+      "lesson": 48,
+      "kana": "おうせつしつ",
+      "kanji": "応接室",
+      "character": "名",
+      "meaning": "会客室",
+      "word_id": 13
+    },
+    {
+      "lesson": 48,
+      "kana": "あんないじょう",
+      "kanji": "案内状",
+      "character": "名",
+      "meaning": "通知，请帖",
+      "word_id": 14
+    },
+    {
+      "lesson": 48,
+      "kana": "にゅうがくあんない",
+      "kanji": "入学案内",
+      "character": "名",
+      "meaning": "入学指南",
+      "word_id": 15
+    },
+    {
+      "lesson": 48,
+      "kana": "うかがいます",
+      "kanji": "伺います",
+      "character": "动1",
+      "meaning": "（自谦）去；来；问；拜访；请教",
+      "word_id": 16
+    },
+    {
+      "lesson": 48,
+      "kana": "いたします",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "（自谦）做，干",
+      "word_id": 17
+    },
+    {
+      "lesson": 48,
+      "kana": "まいります",
+      "kanji": "参ります",
+      "character": "动1",
+      "meaning": "（自谦）来，去",
+      "word_id": 18
+    },
+    {
+      "lesson": 48,
+      "kana": "いただきます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "（自谦）吃，喝；得到",
+      "word_id": 19
+    },
+    {
+      "lesson": 48,
+      "kana": "おります",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "在",
+      "word_id": 20
+    },
+    {
+      "lesson": 48,
+      "kana": "ございます",
+      "kanji": "",
+      "character": "动1",
+      "meaning": "在，有，是",
+      "word_id": 21
+    },
+    {
+      "lesson": 48,
+      "kana": "さしあげます",
+      "kanji": "差し上げます",
+      "character": "动2",
+      "meaning": "（自谦）给",
+      "word_id": 22
+    },
+    {
+      "lesson": 48,
+      "kana": "ぞんじています",
+      "kanji": "存じています",
+      "character": "动2",
+      "meaning": "（自谦）知道",
+      "word_id": 23
+    },
+    {
+      "lesson": 48,
+      "kana": "すすめます",
+      "kanji": "進めます",
+      "character": "动2",
+      "meaning": "推进，使前进",
+      "word_id": 24
+    },
+    {
+      "lesson": 48,
+      "kana": "はいけんします",
+      "kanji": "拝見します",
+      "character": "动3",
+      "meaning": "（自谦）看",
+      "word_id": 25
+    },
+    {
+      "lesson": 48,
+      "kana": "しょうちします",
+      "kanji": "承知します",
+      "character": "动3",
+      "meaning": "知道",
+      "word_id": 26
+    },
+    {
+      "lesson": 48,
+      "kana": "きたいします",
+      "kanji": "期待します",
+      "character": "动3",
+      "meaning": "希望，期待",
+      "word_id": 27
+    },
+    {
+      "lesson": 48,
+      "kana": "せわします",
+      "kanji": "世話します",
+      "character": "动3",
+      "meaning": "帮助；照顾",
+      "word_id": 28
+    },
+    {
+      "lesson": 48,
+      "kana": "きちょう",
+      "kanji": "貴重",
+      "character": "形2",
+      "meaning": "贵重",
+      "word_id": 29
+    },
+    {
+      "lesson": 48,
+      "kana": "しょうしょう",
+      "kanji": "少々",
+      "character": "副",
+      "meaning": "稍稍，一点儿",
+      "word_id": 30
+    },
+    {
+      "lesson": 48,
+      "kana": "ただいま",
+      "kanji": "ただ今",
+      "character": "副",
+      "meaning": "这会儿，方才；马上，立刻",
+      "word_id": 31
+    },
+    {
+      "lesson": 48,
+      "kana": "とつぜん",
+      "kanji": "突然",
+      "character": "副",
+      "meaning": "突然",
+      "word_id": 32
+    },
+    {
+      "lesson": 48,
+      "kana": "じつは",
+      "kanji": "実は",
+      "character": "副",
+      "meaning": "其实，实际上",
+      "word_id": 33
+    },
+    {
+      "lesson": 48,
+      "kana": "とうきょうりょうりスクール",
+      "kanji": "東京料理スクール",
+      "character": "专有词",
+      "meaning": "东京厨师学校",
+      "word_id": 34
+    },
+    {
+      "lesson": 48,
+      "kana": "ペキンにほんごがっこう",
+      "kanji": "北京日本語学校",
+      "character": "专有词",
+      "meaning": "北京日语学校",
+      "word_id": 35
+    },
+    {
+      "lesson": 48,
+      "kana": "ジェーシーじどうしゃ",
+      "kanji": "JC自動車",
+      "character": "专有词",
+      "meaning": "JC汽车公司",
+      "word_id": 36
+    },
+    {
+      "lesson": 48,
+      "kana": "なんのおかまいもしませんで",
+      "kanji": "何のお構いもしませんで",
+      "character": "",
+      "meaning": "招待不周",
+      "word_id": 37
+    },
+    {
+      "lesson": 48,
+      "kana": "もうしわけございません",
+      "kanji": "申し訳ございません",
+      "character": "",
+      "meaning": "非常抱歉",
+      "word_id": 38
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "words": [
+    {
+      "lesson": 32,
+      "kana": "れっしゃ",
+      "kanji": "列車",
+      "character": "名",
+      "meaning": "火车",
+      "word_id": 0
+    },
+    {
+      "lesson": 32,
+      "kana": "こうそくバス",
+      "kanji": "高速バス",
+      "character": "名",
+      "meaning": "高速公共汽车",
+      "word_id": 1
+    },
+    {
+      "lesson": 32,
+      "kana": "しゅっぱつじこく",
+      "kanji": "出発時刻",
+      "character": "名",
+      "meaning": "出发时间",
+      "word_id": 2
+    },
+    {
+      "lesson": 32,
+      "kana": "りょこうよてい",
+      "kanji": "旅行予定",
+      "character": "名",
+      "meaning": "旅行计划",
+      "word_id": 3
+    },
+    {
+      "lesson": 32,
+      "kana": "てんきよほう",
+      "kanji": "天気予報",
+      "character": "名",
+      "meaning": "天气预报",
+      "word_id": 4
+    },
+    {
+      "lesson": 32,
+      "kana": "たいふう",
+      "kanji": "台風",
+      "character": "名",
+      "meaning": "台风",
+      "word_id": 5
+    },
+    {
+      "lesson": 32,
+      "kana": "うわさ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "传说，风言风语",
+      "word_id": 6
+    },
+    {
+      "lesson": 32,
+      "kana": "せんでん",
+      "kanji": "宣伝",
+      "character": "名",
+      "meaning": "宣传",
+      "word_id": 7
+    },
+    {
+      "lesson": 32,
+      "kana": "ばんぐみ",
+      "kanji": "番組",
+      "character": "名",
+      "meaning": "节目",
+      "word_id": 8
+    },
+    {
+      "lesson": 32,
+      "kana": "しんがた",
+      "kanji": "新型",
+      "character": "名",
+      "meaning": "新型",
+      "word_id": 9
+    },
+    {
+      "lesson": 32,
+      "kana": "ボーナス",
+      "kanji": "",
+      "character": "名",
+      "meaning": "奖金",
+      "word_id": 10
+    },
+    {
+      "lesson": 32,
+      "kana": "ラーメン",
+      "kanji": "",
+      "character": "名",
+      "meaning": "面条",
+      "word_id": 11
+    },
+    {
+      "lesson": 32,
+      "kana": "ぎゅうにゅう",
+      "kanji": "牛乳",
+      "character": "名",
+      "meaning": "牛奶",
+      "word_id": 12
+    },
+    {
+      "lesson": 32,
+      "kana": "ギョーザパーテイー",
+      "kanji": "饺子パーテイー",
+      "character": "名",
+      "meaning": "饺子宴",
+      "word_id": 13
+    },
+    {
+      "lesson": 32,
+      "kana": "しょうがつやすみ",
+      "kanji": "正月休み",
+      "character": "名",
+      "meaning": "新年假日",
+      "word_id": 14
+    },
+    {
+      "lesson": 32,
+      "kana": "スポーツようひん",
+      "kanji": "スポーツ用品",
+      "character": "名",
+      "meaning": "体育用品",
+      "word_id": 15
+    },
+    {
+      "lesson": 32,
+      "kana": "インフルエンザ",
+      "kanji": "",
+      "character": "名",
+      "meaning": "流感，流行性感冒",
+      "word_id": 16
+    },
+    {
+      "lesson": 32,
+      "kana": "してん",
+      "kanji": "支店",
+      "character": "名",
+      "meaning": "分店，分公司",
+      "word_id": 17
+    },
+    {
+      "lesson": 32,
+      "kana": "しょうがっこう",
+      "kanji": "小学校",
+      "character": "名",
+      "meaning": "小学",
+      "word_id": 18
+    },
+    {
+      "lesson": 32,
+      "kana": "ゆうえんち",
+      "kanji": "遊園地",
+      "character": "名",
+      "meaning": "游乐园",
+      "word_id": 19
+    },
+    {
+      "lesson": 32,
+      "kana": "しゅしょう",
+      "kanji": "首相",
+      "character": "名",
+      "meaning": "首相",
+      "word_id": 20
+    },
+    {
+      "lesson": 32,
+      "kana": "れきし",
+      "kanji": "歴史",
+      "character": "名",
+      "meaning": "历史",
+      "word_id": 21
+    },
+    {
+      "lesson": 32,
+      "kana": "かのじょ",
+      "kanji": "彼女",
+      "character": "代",
+      "meaning": "她",
+      "word_id": 22
+    },
+    {
+      "lesson": 32,
+      "kana": "おこないます",
+      "kanji": "行います",
+      "character": "动1",
+      "meaning": "开，举行",
+      "word_id": 23
+    },
+    {
+      "lesson": 32,
+      "kana": "あがります",
+      "kanji": "上がります",
+      "character": "动1",
+      "meaning": "提高，涨",
+      "word_id": 24
+    },
+    {
+      "lesson": 32,
+      "kana": "のりかえます",
+      "kanji": "乗り換えます",
+      "character": "动2",
+      "meaning": "换乘",
+      "word_id": 25
+    },
+    {
+      "lesson": 32,
+      "kana": "やめます",
+      "kanji": "辞めます",
+      "character": "动2",
+      "meaning": "辞去",
+      "word_id": 26
+    },
+    {
+      "lesson": 32,
+      "kana": "りゅうがくします",
+      "kanji": "留学します",
+      "character": "动3",
+      "meaning": "留学",
+      "word_id": 27
+    },
+    {
+      "lesson": 32,
+      "kana": "にゅうがくします",
+      "kanji": "入学します",
+      "character": "动3",
+      "meaning": "入学",
+      "word_id": 28
+    },
+    {
+      "lesson": 32,
+      "kana": "りゅうこうします",
+      "kanji": "流行します",
+      "character": "动3",
+      "meaning": "流行",
+      "word_id": 29
+    },
+    {
+      "lesson": 32,
+      "kana": "にゅういんします",
+      "kanji": "入院します",
+      "character": "动3",
+      "meaning": "住院",
+      "word_id": 30
+    },
+    {
+      "lesson": 32,
+      "kana": "おじゃまします",
+      "kanji": "お邪魔します",
+      "character": "动3",
+      "meaning": "打扰，拜访",
+      "word_id": 31
+    },
+    {
+      "lesson": 32,
+      "kana": "たんとうします",
+      "kanji": "担当します",
+      "character": "动3",
+      "meaning": "承担",
+      "word_id": 32
+    },
+    {
+      "lesson": 32,
+      "kana": "つよい",
+      "kanji": "強い",
+      "character": "形1",
+      "meaning": "强，坚强",
+      "word_id": 33
+    },
+    {
+      "lesson": 32,
+      "kana": "きさく",
+      "kanji": "気さく",
+      "character": "形2",
+      "meaning": "爽快，坦率",
+      "word_id": 34
+    },
+    {
+      "lesson": 32,
+      "kana": "いろんな",
+      "kanji": "",
+      "character": "连体",
+      "meaning": "各种各样的",
+      "word_id": 35
+    },
+    {
+      "lesson": 32,
+      "kana": "ずっと",
+      "kanji": "",
+      "character": "副",
+      "meaning": "一直，始终",
+      "word_id": 36
+    },
+    {
+      "lesson": 32,
+      "kana": "りゅうえい",
+      "kanji": "劉英",
+      "character": "专有词",
+      "meaning": "刘英",
+      "word_id": 37
+    },
+    {
+      "lesson": 32,
+      "kana": "タイ",
+      "kanji": "",
+      "character": "专有词",
+      "meaning": "泰国",
+      "word_id": 38
+    },
+    {
+      "lesson": 32,
+      "kana": "きょうとホテル",
+      "kanji": "京都します",
+      "character": "专有词",
+      "meaning": "京都宾馆",
+      "word_id": 39
+    },
+    {
+      "lesson": 32,
+      "kana": "おじゃましました",
+      "kanji": "お邪魔しました",
+      "character": "",
+      "meaning": "打扰了",
+      "word_id": 40
+    },
+    {
+      "lesson": 32,
+      "kana": "かぜがつよい",
+      "kanji": "風が強い",
+      "character": "",
+      "meaning": "风大",
+      "word_id": 41
+    }
+  ]
+}
