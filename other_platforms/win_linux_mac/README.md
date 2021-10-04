@@ -47,14 +47,15 @@ win_linux_mac
 默认已经安装node.js。此处使用cnpm以加快速度
 ```console
 # 注：npm install -g 是全局安装，在项目中安装可能会产生错误
+# 需要联网
 npm install -g cnpm
 cnpm install -g electron 
 cnpm install -g electron-packager
 ```
 
 ### 3. 生成
-此处需要联网
 ```console
+# 需要联网
 # 直接调用electron-packager
 electron-packager ./ JpnWordsRem --platform=[win32|darwin|linux] --arch=[ia32|x64|armv7l|arm64|mips64el] --out ./OutApp --electron-version 15.0.0 --overwrite --icon=./icons/256.ico
 

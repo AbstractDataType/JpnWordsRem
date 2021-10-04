@@ -1,4 +1,4 @@
-## 制作 Android apk 包
+## 制作 Android apk 包 
 ### 1. 复制文件
 将项目根目录下的css,js,words文件夹和index.html,wordlib.json文件复制到 本目录/www/ 内
 ```console
@@ -46,18 +46,21 @@ android
 - 上述两步的目的是能够在命令行/shell直接运行 gradle 和 sdkmanager.bat
 - 命令行/shell中运行
   ```console 
+  # 需要联网
   sdkmanager.bat "platform-tools" "platforms;android-28"
   sdkmanager.bat "build-tools;30.0.0"
   ```
 - 接下来安装cordova。默认已经安装node.js。此处使用cnpm以加快速度
   ```console 
   # 注：npm install -g 是全局安装，在项目中安装可能会产生错误
+  # 需要联网
   npm install -g cnpm
   cnpm install -g cordova
   ```
 
 ### 3.开始编译
   ```console 
+  # 需要联网
   cordova platform add android@9.0.0  
   
   # debug版apk  
