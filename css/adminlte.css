@@ -556,13 +556,14 @@ pre code {
 .container-md,
 .container-lg,
 .container-xl {
-  width: 100%;
-  padding-right: 7.5px;
-  padding-left: 7.5px;
+  width: 95%;
+  padding-right: 20px;
+  padding-left: 20px;
   margin-right: auto;
   margin-left: auto;
 }
 
+/*
 @media (min-width: 576px) {
   .container, .container-sm {
     max-width: 540px;
@@ -586,6 +587,7 @@ pre code {
     max-width: 1140px;
   }
 }
+*/
 
 .row {
   display: -webkit-flex;
@@ -35847,22 +35849,7 @@ body.iframe-mode-fullscreen .content-wrapper.iframe-mode {
   overflow-y: hidden;
 }
 
-.content-wrapper.kanban .content .container,
-.content-wrapper.kanban .content .container-fluid,
-.content-wrapper.kanban .content .container-sm,
-.content-wrapper.kanban .content .container-md,
-.content-wrapper.kanban .content .container-lg,
-.content-wrapper.kanban .content .container-xl {
-  width: -webkit-max-content;
-  width: -moz-max-content;
-  width: max-content;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-align-items: stretch;
-  -ms-flex-align: stretch;
-  align-items: stretch;
-}
+
 
 .content-wrapper.kanban .content-header + .content {
   height: calc(100% - ((2 * 15px) + (1.8rem * 1.2)));

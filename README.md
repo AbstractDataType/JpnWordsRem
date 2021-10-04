@@ -43,7 +43,7 @@
 
 ### 部署网页版
 
-直接把整个网页及其附属文件（根目录下的css，js，words文件夹和index.html、wordlib.json）放到网页服务器的根目录底下就行（例如我这是ubuntu系统的apache服务器，就放到/var/www/html里面就行，其他服务器软件同理）。
+直接把整个网页及其附属文件（根目录下的css，js，words文件夹和index.html、wordlib.json、logo.png）放到网页服务器的根目录底下就行（例如我这是ubuntu系统的apache服务器，就放到/var/www/html里面就行，其他服务器软件同理）。
 
 ### 安装包
 
